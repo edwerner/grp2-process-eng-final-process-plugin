@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HclyLVa3Ee1VUYSqlCcP8g" name="new_concept,_2Det8DtFEeiOSvawQAsHpQ" guid="-HclyLVa3Ee1VUYSqlCcP8g">
+  <mainDescription>&lt;h3>&#xD;
+    Metrics Definition&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Metrics are an interpretation of a measure or a set of measures that you use to guide your project.&amp;nbsp;Interpreting&#xD;
+    what level of quality this indicates and how it reflects the team's progress within the current iteration is a metric.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Benefits of using metrics:&#xD;
+&lt;/h3>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Help to communicate effectively&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Guide in the tunning of estimations.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Help in making informed trade-off decisions.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h3>&#xD;
+    Recommended Metrics&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Development productivity&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Velocity: Number of delivered points by iteration&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Cost and schedule estimate and variance&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Effort: Actual effort spent per iteration&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Cost: Cost per iteration&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Effort remaining: Track&amp;nbsp;project burndown&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h3>&#xD;
+    Advice&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Consider only implementing a handfull of metrics that deliver value to the projects goal or software development&#xD;
+    process.&amp;nbsp;Avoid collecting metrics that you will not act on&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

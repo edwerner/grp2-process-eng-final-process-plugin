@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4bQnzuQ06fbtJEPmfFRhBw" name="project_manager,_0a0o0MlgEdmt3adZL5Dmdw" guid="-4bQnzuQ06fbtJEPmfFRhBw" authors="Cervantes Hernandez " changeDate="2018-04-07T04:15:49.794-0400" version="1">
+  <mainDescription>&lt;p>&#xD;
+    The person in this role:&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Is responsible for the evaluation of the riks of the project. Also, should control the risk through mitigation&#xD;
+        strategies.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Applies management tools, knowledge,techniques and skills to tasks to deliver&amp;nbsp;the desire results for a&#xD;
+        project.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <skills>&lt;p>&#xD;
+    The person performing this role nees the following skills&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Leadership&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Experience in software development lifecycle. The person need to be able to guide and support the team members.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Knowledge in problem-solving and conflict resolution&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Good in comunication, facilitation and negotiation.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+  <assignmentApproaches>&lt;p>&#xD;
+    This role should be played by a single person. It is difficult to have this role shred by more than one person.&#xD;
+&lt;/p></assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

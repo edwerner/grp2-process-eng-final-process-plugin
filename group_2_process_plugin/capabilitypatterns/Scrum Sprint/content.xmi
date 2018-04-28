@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-LjpPRx9q_2flllFnDqjN3A" name="Scrum Sprint,_1k4HAUmWEei5U6SVQtDbig" guid="-LjpPRx9q_2flllFnDqjN3A">
+    <mainDescription>&lt;p>&#xD;
+    Scrum Sprint is a repeatable fixed time-box during which a &quot;Done&quot; product of the highest possible value is created.&#xD;
+    Sprint lies at the core of the Sprint agile methodology and can be thought of as an event which wraps all other Scrum&#xD;
+    events like Daily Scrums, Scrum Review and Sprint Retrospective. Like all of scrum events, Sprint also has a maximum&#xD;
+    duration. Usually, a Sprint lasts for one month or less [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1]&amp;nbsp;En.wikipedia.org. (2018). Scrum Sprint. [online] Available at: https://en.wikipedia.org/wiki/Scrum_Sprint&#xD;
+    [Accessed 27 Apr. 2018].&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+    <purpose>To provide a time-box of one month or less during which a finished, useable and potentially releasable product Increment is&#xD;
+created.</purpose>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oPK5nw61XO_0RpTw1e5FdQ" name="implementation,_PKaxAEfaEeiIxoFTotST_w" guid="-oPK5nw61XO_0RpTw1e5FdQ">
+    <refinedDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+The developer's responsibility is to design, implement and integrate a solution that covers requirements for a given&#xD;
+task.&lt;/span> &lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+Typical changes require some effort in designing the solution before moving into implementation.&lt;/span></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HSwxx6jQkouZef35hh22_g" name="test_solution,_QTUSwEfaEeiIxoFTotST_w" guid="-HSwxx6jQkouZef35hh22_g">
+    <refinedDescription>&lt;p>&#xD;
+    Run tests against the individual implementation elements to verify that their internal structures work as specified.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oQ1XvQrdgql9YBJNZbpXqA" name="software_developer,_QTUSwUfaEeiIxoFTotST_w" guid="-oQ1XvQrdgql9YBJNZbpXqA">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c9eaa07d-8c21-fe7e-17ec-8cab2c785b12&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    The software engineer is responsible for developing a part of the system, including designing it to fit into the&#xD;
+    architecture, possibly prototyping the user interface, and then implementing, unit-testing, and integrating the&#xD;
+    components that are part of the solution.&lt;/span>&lt;/b>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-pSk4vxucQ_sBkHEBsNE23A" name="unit_tests,_QTUSw0faEeiIxoFTotST_w" guid="-pSk4vxucQ_sBkHEBsNE23A">
+    <refinedDescription>&lt;p>&#xD;
+    Unit testing is a software testing method by which individual units of source code, sets of one or more computer&#xD;
+    program modules together with associated control data, usage procedures, and operating procedures, are tested to&#xD;
+    determine whether they are fit for use [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). Unit testing. [online] Available at: https://en.wikipedia.org/wiki/Unit_testing [Accessed&#xD;
+    21 Apr. 2018].&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oxcGWXda38oxijK83_6cqA" name="test_log,_QTUSxUfaEeiIxoFTotST_w" guid="-oxcGWXda38oxijK83_6cqA">
+    <refinedDescription>A log of the basics of the unit&amp;nbsp;testing process itself, including test files used, specific test steps as they are&#xD;
+performed, and any output messages or flags, with timestamps for each of these items.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-tUAZxEaUPxC2JcC2hRUyqw" name="design_solution,_aWDjAEfaEeiIxoFTotST_w" guid="-tUAZxEaUPxC2JcC2hRUyqw">
+    <refinedDescription>&lt;p>&#xD;
+    Software design may refer to either &quot;all the activity involved in conceptualizing, framing, implementing,&#xD;
+    commissioning, and ultimately modifying complex systems&quot; or &quot;the activity following requirements specification and&#xD;
+    before programming, as ... [in] a stylized software engineering process [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1]&amp;nbsp;&amp;nbsp;En.wikipedia.org. (2018). Software design. [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Software_design [Accessed 25 Apr. 2018].&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-emUHgCHe_oSLqY0m0OwrUQ" name="define_acceptance_criteria,_dvgVoEfbEeiIxoFTotST_w" guid="-emUHgCHe_oSLqY0m0OwrUQ">
+    <refinedDescription>&lt;p>&#xD;
+    Acceptance criteria are a formal list that fully enumerates user requirements and all the product scenarios put into&#xD;
+    the account.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Acceptance criteria plainly describe conditions under which the user requirements are desired, thus getting rid of any&#xD;
+    uncertainty of the client’s expectations and misunderstandings.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Acceptance criteria state the intent of the client and not the solution; it is up to the team to understand them and&#xD;
+    ask for clarification where it’s complex and find the solution.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6bgkpxS_79Znyll0YGdGLA" name="configuration_management,_kr448EfbEeiIxoFTotST_w" guid="-6bgkpxS_79Znyll0YGdGLA">
+    <refinedDescription>Software configuration management (SCM) is a software engineering discipline consisting of standard processes and&#xD;
+techniques often used by organizations to manage the changes introduced to its software product</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-IMCEkCMzVQmptbADMK6Oew" name="design_document,_fYvk0EkOEeiPE4C8NqDDzw" guid="-IMCEkCMzVQmptbADMK6Oew">
+    <refinedDescription>A&amp;nbsp;written description of a software product, that a software designer writes in order to give a software development&#xD;
+team overall guidance to the architecture of the software project.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-JxI0L012totTRHQEjeB8Jw" name="product_owner,_srud0UkOEeiPE4C8NqDDzw" guid="-JxI0L012totTRHQEjeB8Jw">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Scrum product owner is typically a project's key stakeholder. Part of the product owner&#xD;
+    responsibilities is to have a vision of what he or she wishes to build, and convey that vision to the scrum&#xD;
+    team.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Product Owner has the following responsibilities:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Define the features of the product;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Decide on release date and content;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Be responsible for the profitability of the product (ROI);&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Prioritize features according to market value;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Adjust features and priority every 30 days, as needed; and&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Accept or reject work results.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The product owner is responsible for the first of the three Scrum ceremonies&amp;nbsp;:&amp;nbsp;Sprint&#xD;
+    Planning&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Scrum Team looks at the prioritized Product Backlog and slices off the top priority items and&#xD;
+    commits to completing them during a sprint. These items become the Sprint Backlog.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>In return for the Scrum team's commitment to completing the selected tasks, the Product Owner commits&#xD;
+    that he or she will not throw new requirements at the team during the sprint. Requirements are allowed to change but&#xD;
+    only outside the sprint. Once the team starts on a sprint it remains maniacally focused on the goal of that&#xD;
+    sprint.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CxbWQpzpSUlTq-NSQIoOgA" name="scrum_master,_srud1EkOEeiPE4C8NqDDzw" guid="-CxbWQpzpSUlTq-NSQIoOgA">
+    <keyConsiderations>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The ScrumMaster:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        is not the project manager but a facilitative team leader and Scrum process manager&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        monitors sprint tasks to ensure sprint success but does not create/assign tasks (the team creates/assigns tasks)&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        is part of the team: he shares responsibility with the other team members&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        must regularly, physically meet the other team members&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The ScrumMaster:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Represents management to the project;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Is responsible for enacting Scrum values and practices;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Runs The Daily Scrum meetings;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Removes impediments;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Shields the team from external interferences;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Ensures that the team is fully functional and productive; and&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Enables close cooperation across all roles and functions.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-4hNPFH3wz4z3V9zGzoYIag" name="scrum_team,_srud10kOEeiPE4C8NqDDzw" guid="-4hNPFH3wz4z3V9zGzoYIag">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Team:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Is cross-functional, with seven (plus/minus two) members;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Selects the Sprint goal and specifies work results;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Has the right to do everything within the boundaries of the project guidelines to reach the Sprint goal;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Organizes itself and its work; and&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Demos work results to the Product Owner.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Scrum teams do not include any of the traditional software engineering roles such as programmer,&#xD;
+    designer, tester, or architect. Everyone on the project works together to complete the set of work they have&#xD;
+    collectively committed to complete within a sprint. Scrum teams develop a deep form of camaraderie and a feeling that&#xD;
+    &quot;we're all in this together.&quot;&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>A&amp;nbsp;typical Scrum team&amp;nbsp;is 5-9 people but can be scaled using a Scrum of Scrums.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UDSqyYuokeyepQiCoAZ6bg" name="product_backlog,_zwycAUkOEeiPE4C8NqDDzw" guid="-UDSqyYuokeyepQiCoAZ6bg">
+    <refinedDescription>&lt;p>&#xD;
+    The product backlog comprises an ordered list of product requirements that a scrum team maintains for a product. The&#xD;
+    format of product backlog items varies, common formats include user stories, use cases, or any other requirements&#xD;
+    format the team finds useful. These will define features, bug fixes, non-functional requirements, etc - whatever must&#xD;
+    be done to successfully deliver a viable product [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). Scrum (software development). [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog [Accessed 21 Apr. 2018].&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-etAmMpnP5ak6ZoXOzS0nlA" name="user_stories,_zwycBEkOEeiPE4C8NqDDzw" guid="-etAmMpnP5ak6ZoXOzS0nlA">
+    <refinedDescription>&lt;p>&#xD;
+    A user story is an informal, natural language description of one or more features of a software system. User stories&#xD;
+    are often written from the perspective of an end user or user of a system [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). User story. [online] Available at: https://en.wikipedia.org/wiki/User_story [Accessed 21&#xD;
+    Apr. 2018].&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_CFE02NO60041g3EnAHvgQ" name="product_requirements_document,_sm7n8UkPEeiPE4C8NqDDzw" guid="-_CFE02NO60041g3EnAHvgQ">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>Product requirements documents (PRDs) are most frequently written for software products,&#xD;
+    but can be used for any type of product and also for services. Typically, a PRD is created from a user's point-of-view&#xD;
+    by a user/client or a company's marketing department [1].&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>[1] &lt;font color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>En.wikipedia.org.&#xD;
+    (2018).&amp;nbsp;&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;font color=&quot;#000000&quot;>&lt;i>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>Product requirements document&lt;/span>&lt;/span>&lt;/i>&lt;/font>&lt;font&#xD;
+    color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>. [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Product_requirements_document [Accessed 8 Apr.&#xD;
+    2018].&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-nRTmrUFq8C8Y9o0rgVCDtw" name="domain_model,_sm7n9EkPEeiPE4C8NqDDzw" guid="-nRTmrUFq8C8Y9o0rgVCDtw">
+    <refinedDescription>A domain model helps the development team understand key business entities and relationships, and the architect can derive&#xD;
+information from functional requirements, user stories or processes.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-qduxAE1gLlQr-8ix5a1kcg" name="agree_on_technical_approach,_ecn7UEfQEeiIxoFTotST_w" guid="-qduxAE1gLlQr-8ix5a1kcg">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>The goal of this task is to define a technical approach that fulfills&#xD;
+    project requirements within the constraints of the system and development team. The architect should complete the&#xD;
+    following:&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+            &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;font color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+            style=&quot;FONT-WEIGHT: normal&quot;>Work with the team to create an initial sketch of the technical approach to the&#xD;
+            proposed system&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+            &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;font color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+            style=&quot;FONT-WEIGHT: normal&quot;>Ensure that the technical decisions are adequately captured and&#xD;
+            communicate&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+            &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;font color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+            style=&quot;FONT-WEIGHT: normal&quot;>Ensure that the team has enough information to understand the approach that your&#xD;
+            are taking&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ye9lcOxBClkQLVTRUWKODg" name="propose_archtecture,_dDtLEEiVEeiUw5YTAKpsag" guid="-ye9lcOxBClkQLVTRUWKODg">
+    <refinedDescription>&lt;p>&#xD;
+    Proposal of software architecture refers to suggesting the high level structures of a software system, the discipline&#xD;
+    of creating such structures, and the documentation of these structures [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    {1]&amp;nbsp;En.wikipedia.org. (2018). Software architecture. [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Software_architecture [Accessed 25 Apr. 2018].&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fPrzg-IT8StiWXP_Fi95XA" name="architect,_6PBh8EmWEei5U6SVQtDbig" guid="-fPrzg-IT8StiWXP_Fi95XA">
+    <refinedDescription>&lt;p>&#xD;
+    The Architect is responsible for defining the software architecture, which includes making the key technical decisions&#xD;
+    that constrain the overall design and implementation of the system.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-PIJbJOOoH_NrcLp6Bv8zAQ" name="product_requirements_document,_6PBh8kmWEei5U6SVQtDbig" guid="-PIJbJOOoH_NrcLp6Bv8zAQ">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>Product requirements documents (PRDs) are most frequently written for software products,&#xD;
+    but can be used for any type of product and also for services. Typically, a PRD is created from a user's point-of-view&#xD;
+    by a user/client or a company's marketing department [1].&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>[1] &lt;font color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>En.wikipedia.org.&#xD;
+    (2018).&amp;nbsp;&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;font color=&quot;#000000&quot;>&lt;i>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>Product requirements document&lt;/span>&lt;/span>&lt;/i>&lt;/font>&lt;font&#xD;
+    color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>. [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Product_requirements_document [Accessed 8 Apr.&#xD;
+    2018].&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xWeUczvepnKFFbTfhce3KA" name="architecture_document,_6PBh9EmWEei5U6SVQtDbig" guid="-xWeUczvepnKFFbTfhce3KA">
+    <refinedDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+The architecture notebook&amp;nbsp;provides a place for maintaining the list of architectural issues, along with the associated&#xD;
+architectural decisions, designs, patterns, code documented, etc. - all at appropriate levels to make it easy to understand&#xD;
+what architectural decisions have been made and remain to be made.&lt;/span></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-SPGTaIFKluo3m9ABAkOe2w" name="scrum_team,_bFjcYUfREeiIxoFTotST_w" guid="-SPGTaIFKluo3m9ABAkOe2w">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Team:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Is cross-functional, with seven (plus/minus two) members;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Selects the Sprint goal and specifies work results;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Has the right to do everything within the boundaries of the project guidelines to reach the Sprint goal;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Organizes itself and its work; and&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Demos work results to the Product Owner.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Scrum teams do not include any of the traditional software engineering roles such as programmer,&#xD;
+    designer, tester, or architect. Everyone on the project works together to complete the set of work they have&#xD;
+    collectively committed to complete within a sprint. Scrum teams develop a deep form of camaraderie and a feeling that&#xD;
+    &quot;we're all in this together.&quot;&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>A&amp;nbsp;typical Scrum team&amp;nbsp;is 5-9 people but can be scaled using a Scrum of Scrums.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-hV9kYAYWHpup0_bYNgk1kw" name="product_owner,_bFjcY0fREeiIxoFTotST_w" guid="-hV9kYAYWHpup0_bYNgk1kw">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Scrum product owner is typically a project's key stakeholder. Part of the product owner&#xD;
+    responsibilities is to have a vision of what he or she wishes to build, and convey that vision to the scrum&#xD;
+    team.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Product Owner has the following responsibilities:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Define the features of the product;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Decide on release date and content;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Be responsible for the profitability of the product (ROI);&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Prioritize features according to market value;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Adjust features and priority every 30 days, as needed; and&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Accept or reject work results.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The product owner is responsible for the first of the three Scrum ceremonies&amp;nbsp;:&amp;nbsp;Sprint&#xD;
+    Planning&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Scrum Team looks at the prioritized Product Backlog and slices off the top priority items and&#xD;
+    commits to completing them during a sprint. These items become the Sprint Backlog.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>In return for the Scrum team's commitment to completing the selected tasks, the Product Owner commits&#xD;
+    that he or she will not throw new requirements at the team during the sprint. Requirements are allowed to change but&#xD;
+    only outside the sprint. Once the team starts on a sprint it remains maniacally focused on the goal of that&#xD;
+    sprint.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-IfdP8Y8F4cP531qhPf_E8g" name="scrum_master,_bFjcZUfREeiIxoFTotST_w" guid="-IfdP8Y8F4cP531qhPf_E8g">
+    <keyConsiderations>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The ScrumMaster:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        is not the project manager but a facilitative team leader and Scrum process manager&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        monitors sprint tasks to ensure sprint success but does not create/assign tasks (the team creates/assigns tasks)&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        is part of the team: he shares responsibility with the other team members&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        must regularly, physically meet the other team members&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The ScrumMaster:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Represents management to the project;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Is responsible for enacting Scrum values and practices;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Runs The Daily Scrum meetings;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Removes impediments;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Shields the team from external interferences;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Ensures that the team is fully functional and productive; and&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Enables close cooperation across all roles and functions.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ObmcLAlBkFdUwZpbSenaYg" name="sprint_backlog,_bFjcaUfREeiIxoFTotST_w" guid="-ObmcLAlBkFdUwZpbSenaYg">
+    <refinedDescription>&lt;p>&#xD;
+    Items on the sprint backlog are drawn from the product backlog, by the team based on the priorities set and the team's&#xD;
+    perception of the time it will take to complete the various features.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is critical that the team selects the items and size of the sprint backlog. Because they are the ones committing to&#xD;
+    completing the tasks they must be the ones to choose what they are committing to.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The sprint backlog is very commonly maintained as an Excel spreadsheet but it is also possible to use your defect&#xD;
+    tracking system or any of a number of software products designed specifically for Scrum or agile.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    During the Sprint the ScrumMaster maintains the sprint backlog by updating it to reflect which tasks are completed and&#xD;
+    how long the team thinks it will take to complete those that are not yet done. The estimated work remaining in the&#xD;
+    sprint is calculated daily and graphed, resulting in a Sprint Burndown Chart&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-j8TaX0N5MWAtNOvUNvcHKw" name="architect,_xDrrIUfSEeiIxoFTotST_w" guid="-j8TaX0N5MWAtNOvUNvcHKw">
+    <refinedDescription>&lt;p>&#xD;
+    The Architect is responsible for defining the software architecture, which includes making the key technical decisions&#xD;
+    that constrain the overall design and implementation of the system.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ScoMGlmphrYVt2XMH4JfBw" name="design_document,_xDrrJ0fSEeiIxoFTotST_w" guid="-ScoMGlmphrYVt2XMH4JfBw">
+    <refinedDescription>A&amp;nbsp;written description of a software product, that a software designer writes in order to give a software development&#xD;
+team overall guidance to the architecture of the software project.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-nH7zblT_CZt5JDU1F8ISWg" name="architecture_notebook,_xDrrKUfSEeiIxoFTotST_w" guid="-nH7zblT_CZt5JDU1F8ISWg">
+    <refinedDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+The architecture notebook&amp;nbsp;provides a place for maintaining the list of architectural issues, along with the associated&#xD;
+architectural decisions, designs, patterns, code documented, etc. - all at appropriate levels to make it easy to understand&#xD;
+what architectural decisions have been made and remain to be made.&lt;/span></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dlabdMOtXKvwV5iOxuArPQ" name="refine_architecture,_rc82sEfTEeiIxoFTotST_w" guid="-dlabdMOtXKvwV5iOxuArPQ">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    This task&amp;nbsp;builds upon the outlined architecture and makes concrete and unambiguous architectural decisions to&#xD;
+    support development, taking into&amp;nbsp;account any design and implementation work products that have been developed so&#xD;
+    far.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-JRryARKoxx8_hJUAtkJmdA" name="task_board,_4AVpUEfUEeiIxoFTotST_w" guid="-JRryARKoxx8_hJUAtkJmdA">
+    <refinedDescription>&lt;p>&#xD;
+    The task board shows all the work the team is doing during a sprint. It is updated continuously throughout the&#xD;
+    sprint–if someone thinks of a new task they write a new card and puts it on the board. Either during or before The&#xD;
+    Daily Scrum, estimates are changed (up or down) and cards are moved around the board.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Each row on the task board is a product backlog item (in this particular example stories). During the&#xD;
+    sprint planning meeting the team selects the product backlog items they can complete during the coming sprint. Each&#xD;
+    product backlog item is turned into multiple sprint backlog items. Each of these is represented by one task card that&#xD;
+    is placed on the task board. Each task card starts on the task board in the “To Do” column. The columns are:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        &lt;b>Story&lt;/b>–The story description (“As a user I want to…”) shown on that row.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        &lt;b>To Do&lt;/b>–This holds all the cards that are not done or in process.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        &lt;b>Work In Process&lt;/b>–Any card being worked on goes here. The programmer who chooses to work on it moves it over&#xD;
+        when she’s ready to start the task. Often this happens during the Daily Scrum when someone says, “I’m going to work&#xD;
+        on the boojum today.”&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        &lt;b>To Verify&lt;/b>–A lot of tasks have corresponding test task cards. So, if there’s a “Code the boojum class” card&#xD;
+        there is likely one or more task cards related to testing: “Test the boojum”, “Write FitNesse tests for the&#xD;
+        boojum,” “Write FitNesse fixture for the boojum,” etc. Some task cards don’t often get corresponding test cards&#xD;
+        (“Fix Bug #321 in Bugzilla”) so those are placed in the “To Verify” column.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        &lt;b>Done&lt;/b>–Cards pile up over here when they’re done. They’re removed at the end of the sprint.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UdI0svxFPbWUhfmoUCdiuA" name="deployment,_LOrCQEfcEeiIxoFTotST_w" guid="-UdI0svxFPbWUhfmoUCdiuA">
+    <refinedDescription>&lt;p>&#xD;
+    Software deployment includes certain activities that make a software system avaliable including&#xD;
+    release,&amp;nbsp;installation and activation, deactivation, uninstallation, update and version tracking.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NSt9cAGnanp2-0WlAdm7-A" name="daily_standup_meeting,_Zr45wEfcEeiIxoFTotST_w" guid="-NSt9cAGnanp2-0WlAdm7-A">
+    <refinedDescription>&lt;p>&#xD;
+    On each day of a sprint, the team holds daily meetings (“the daily scrum”). Meetings are typically held in the same&#xD;
+    location and at the same time each day. Ideally the daily scrums are held in the morning as they help set the context&#xD;
+    for the coming day's work.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    All team members are required to attend the daily scrum. Anyone else (for example, a departmental VP, a salesperson, or&#xD;
+    a developer from another project) is allowed to attend but is there only to listen. This makes the daily scrums an&#xD;
+    excellent way for a Scrum team to disseminate status information--if you're interested in hearing where things are at,&#xD;
+    attend that day's meeting. The daily scrum is not used as a problem-solving or issue resolution meeting. Issues that&#xD;
+    are raised are taken offline and usually dealt with by the relevant sub-group immediately after the daily scrum. During&#xD;
+    the daily scrum each team member provides answers to the following three questions:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        What did you do yesterday?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        What will you do today?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are there any impediments in your way?&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    By focusing on what each person accomplished yesterday and will accomplish today the team gains an excellent&#xD;
+    understanding of what work has been done and what work remains. The daily scrum is not a status update meeting in which&#xD;
+    a boss is collecting information about who is behind schedule. Rather, it is a meeting in which team members make&#xD;
+    commitments to each other. If a programmer stands up and says &quot;Today I will finish the data storage module&quot; everyone&#xD;
+    knows that in tomorrow's meeting he will say whether or not he did finish. This has the wonderful effect of helping a&#xD;
+    team realize the significance of these commitments and that their commitments are to each other, not to some far-off&#xD;
+    customer or salesman.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In cases where the ScrumMaster cannot remove these impediments directly himself (e.g., usually the more technical&#xD;
+    issues) he still takes responsibility for making sure someone on the team does quickly resolve the issue.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-02n_SFzuOE4mCcfsorLwGA" name="sprint_burndown_chart,_Zr5g0EfcEeiIxoFTotST_w" guid="-02n_SFzuOE4mCcfsorLwGA">
+    <refinedDescription>&lt;p>&#xD;
+    The estimated work remaining in the sprint is calculated daily and graphed, resulting in a Sprint Burndown Chart The&#xD;
+    vertical axis displays the hours of effort remaining for the Sprint. The horizontal axis displays the days of the&#xD;
+    Sprint. The burndown is supposed to be shown by the line of descent from the start of the Sprint with the starting&#xD;
+    hours, down to the end of the Sprint with no hours remaining.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_Nu2FIyeCCBl-aPyUiv39Q" name="sprint_retrospective,_6K9hU0mWEei5U6SVQtDbig" guid="-_Nu2FIyeCCBl-aPyUiv39Q">
+    <keyConsiderations>The Scrum Team, the Product Owner, and the ScrumMaster will all attend, and a neutral outsider will facilitate the meeting.</keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    The Sprint Retrospective is an opportunity for the team to discuss what's working and what's not working, and agree on&#xD;
+    changes to try. One approach taken is that the whole team gathers and discusses what they’d like to&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Start doing&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stop doing&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Continue doing&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-T8dmUdj6tYruaJsw5yIMbw" name="backlog_refinement,_6K9hVEmWEei5U6SVQtDbig" guid="-T8dmUdj6tYruaJsw5yIMbw">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>Product backlog refinement is the process through which product backlog&#xD;
+    items are reviewed by the Scrum team and revised, providing more detail and ensuring that there is greater clarity in&#xD;
+    the requirements for that item [1].&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] Scrumalliance.org. (2018). Scrum Alliance - Member Articles. [online] Available at:&#xD;
+    https://www.scrumalliance.org/community/articles/2014/october/product-backlog-refinement [Accessed 21 Apr. 2018].&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cVzjpPmzCJCEEfQuY7P9tA" name="scrum_team,_tFvtwUp2EeisRamC_torBQ" guid="-cVzjpPmzCJCEEfQuY7P9tA">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Team:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Is cross-functional, with seven (plus/minus two) members;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Selects the Sprint goal and specifies work results;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Has the right to do everything within the boundaries of the project guidelines to reach the Sprint goal;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Organizes itself and its work; and&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Demos work results to the Product Owner.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Scrum teams do not include any of the traditional software engineering roles such as programmer,&#xD;
+    designer, tester, or architect. Everyone on the project works together to complete the set of work they have&#xD;
+    collectively committed to complete within a sprint. Scrum teams develop a deep form of camaraderie and a feeling that&#xD;
+    &quot;we're all in this together.&quot;&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>A&amp;nbsp;typical Scrum team&amp;nbsp;is 5-9 people but can be scaled using a Scrum of Scrums.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HMCctFGfU79B5UObFC2L4Q" name="sprint_backlog,_tFvtxEp2EeisRamC_torBQ" guid="-HMCctFGfU79B5UObFC2L4Q">
+    <refinedDescription>&lt;p>&#xD;
+    Items on the sprint backlog are drawn from the product backlog, by the team based on the priorities set and the team's&#xD;
+    perception of the time it will take to complete the various features.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is critical that the team selects the items and size of the sprint backlog. Because they are the ones committing to&#xD;
+    completing the tasks they must be the ones to choose what they are committing to.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The sprint backlog is very commonly maintained as an Excel spreadsheet but it is also possible to use your defect&#xD;
+    tracking system or any of a number of software products designed specifically for Scrum or agile.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    During the Sprint the ScrumMaster maintains the sprint backlog by updating it to reflect which tasks are completed and&#xD;
+    how long the team thinks it will take to complete those that are not yet done. The estimated work remaining in the&#xD;
+    sprint is calculated daily and graphed, resulting in a Sprint Burndown Chart&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-WBsu4DeG1mFVpBQIS0EPqA" name="product_owner,_tF43sUp2EeisRamC_torBQ" guid="-WBsu4DeG1mFVpBQIS0EPqA">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Scrum product owner is typically a project's key stakeholder. Part of the product owner&#xD;
+    responsibilities is to have a vision of what he or she wishes to build, and convey that vision to the scrum&#xD;
+    team.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Product Owner has the following responsibilities:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Define the features of the product;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Decide on release date and content;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Be responsible for the profitability of the product (ROI);&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Prioritize features according to market value;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Adjust features and priority every 30 days, as needed; and&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Accept or reject work results.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The product owner is responsible for the first of the three Scrum ceremonies&amp;nbsp;:&amp;nbsp;Sprint&#xD;
+    Planning&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Scrum Team looks at the prioritized Product Backlog and slices off the top priority items and&#xD;
+    commits to completing them during a sprint. These items become the Sprint Backlog.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>In return for the Scrum team's commitment to completing the selected tasks, the Product Owner commits&#xD;
+    that he or she will not throw new requirements at the team during the sprint. Requirements are allowed to change but&#xD;
+    only outside the sprint. Once the team starts on a sprint it remains maniacally focused on the goal of that&#xD;
+    sprint.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7CySiQ9_6qAjLcenIYwNBg" name="scrum_master,_tF43tEp2EeisRamC_torBQ" guid="-7CySiQ9_6qAjLcenIYwNBg">
+    <keyConsiderations>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The ScrumMaster:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        is not the project manager but a facilitative team leader and Scrum process manager&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        monitors sprint tasks to ensure sprint success but does not create/assign tasks (the team creates/assigns tasks)&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        is part of the team: he shares responsibility with the other team members&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        must regularly, physically meet the other team members&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The ScrumMaster:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Represents management to the project;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Is responsible for enacting Scrum values and practices;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Runs The Daily Scrum meetings;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Removes impediments;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Shields the team from external interferences;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Ensures that the team is fully functional and productive; and&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Enables close cooperation across all roles and functions.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-iJdLGOk7iF9-u4dblS74Wg" name="product_backlog,_ur0TsUp2EeisRamC_torBQ" guid="-iJdLGOk7iF9-u4dblS74Wg">
+    <refinedDescription>&lt;p>&#xD;
+    When a project is initiated there is no comprehensive, time-consuming effort to write down all foreseeable tasks or&#xD;
+    requirements. Typically, a project writes down everything obvious, which is almost always more than enough for a first&#xD;
+    sprint. The Product Backlog is then allowed to grow and change as more is learned about the product and its customers.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    During the Sprint Planning Meeting the Product Owner prioritizes the items in the Product Backlog and describes them to&#xD;
+    the team. The team then determines which items they can complete during the coming Sprint. The team then moves items&#xD;
+    from the Product Backlog to the Sprint Backlog. In doing they expand each Product Backlog item into one or more Sprint&#xD;
+    Backlog tasks so they can more effectively share work during the Sprint. Conceptually, the team starts at the top of&#xD;
+    the prioritized Product Backlog list and draws a line after the lowest of the high priority items they feel they can&#xD;
+    complete. In practice it is not unusual to see a team select, for example, the top five items and then two items from&#xD;
+    lower on the list but that are associated with the initial five.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Product backlog items can be technical tasks (&quot;Refactor the Login class to throw an exception&quot;) or more user-centric&#xD;
+    (&quot;Allow undo on the setup screen&quot;). A very interesting prospect is expressing Scrum backlog items in the form of&#xD;
+    Extreme Programming's User Stories.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Product Backlog can be maintained in an Excel spreadsheet. An example from a real project is shown below. This&#xD;
+    Excel spreadsheet shows each product backlog item assigned a general priority (Very High, High, etc.) by the Product&#xD;
+    Owner. Estimates have been developed by the developers but it is understood that they are very imprecise and are useful&#xD;
+    only for rough assignments of tasks into the various sprints.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-srZ0Lko5yPE8nNHWehaRbg" name="working_on_spike,_6LBywEmWEei5U6SVQtDbig" guid="-srZ0Lko5yPE8nNHWehaRbg">
+    <refinedDescription>A spike is a story that cannot be estimated until a development team runs a timeboxed investigation involving activities&#xD;
+such as research, design, investigation, exploration, and prototyping.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lH3QM_H4Rq5FZyFKF1Q5fg" name="scrum_team,_pq7zwUp2EeisRamC_torBQ" guid="-lH3QM_H4Rq5FZyFKF1Q5fg">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Team:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Is cross-functional, with seven (plus/minus two) members;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Selects the Sprint goal and specifies work results;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Has the right to do everything within the boundaries of the project guidelines to reach the Sprint goal;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Organizes itself and its work; and&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Demos work results to the Product Owner.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Scrum teams do not include any of the traditional software engineering roles such as programmer,&#xD;
+    designer, tester, or architect. Everyone on the project works together to complete the set of work they have&#xD;
+    collectively committed to complete within a sprint. Scrum teams develop a deep form of camaraderie and a feeling that&#xD;
+    &quot;we're all in this together.&quot;&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>A&amp;nbsp;typical Scrum team&amp;nbsp;is 5-9 people but can be scaled using a Scrum of Scrums.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lQbLKh8XLRgs8JjjEUAbPg" name="define_user_stories,_6LDA4UmWEei5U6SVQtDbig" guid="-lQbLKh8XLRgs8JjjEUAbPg">
+    <refinedDescription>User stories are an&amp;nbsp;informal, natural language description of one or more features of a software system. User stories&#xD;
+are often written from the perspective of an end user or user of a system. User stories are a type of boundary object that&#xD;
+help software teams organize their understanding of the system and its context.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VBvcKX1YEaXofKMzzpLjtQ" name="define_acceptance_criteria,_6LDA4kmWEei5U6SVQtDbig" guid="-VBvcKX1YEaXofKMzzpLjtQ">
+    <refinedDescription>&lt;p>&#xD;
+    Acceptance criteria are a formal list that fully enumerates user requirements and all the product scenarios put into&#xD;
+    the account.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Acceptance criteria plainly describe conditions under which the user requirements are desired, thus getting rid of any&#xD;
+    uncertainty of the client’s expectations and misunderstandings.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Acceptance criteria state the intent of the client and not the solution; it is up to the team to understand them and&#xD;
+    ask for clarification where it’s complex and find the solution.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6Z4FXXZHCpfWY8qTDdLBng" name="any_role,_lNbtsUp2EeisRamC_torBQ" guid="-6Z4FXXZHCpfWY8qTDdLBng">
+    <refinedDescription>This is an open role that does not discriminate any single role, but encompasses all roles that work can be assigned to.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XgQMe22oppflOr_uDjmySw" name="user_stories,_lNbttEp2EeisRamC_torBQ" guid="-XgQMe22oppflOr_uDjmySw">
+    <refinedDescription>&lt;p>&#xD;
+    A user story is an informal, natural language description of one or more features of a software system. User stories&#xD;
+    are often written from the perspective of an end user or user of a system [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). User story. [online] Available at: https://en.wikipedia.org/wiki/User_story [Accessed 21&#xD;
+    Apr. 2018].&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xhl38pL5U_5wRaMSxoX5SQ" name="product_owner,_mzsg4Up2EeisRamC_torBQ" guid="-xhl38pL5U_5wRaMSxoX5SQ">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Scrum product owner is typically a project's key stakeholder. Part of the product owner&#xD;
+    responsibilities is to have a vision of what he or she wishes to build, and convey that vision to the scrum&#xD;
+    team.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Product Owner has the following responsibilities:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Define the features of the product;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Decide on release date and content;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Be responsible for the profitability of the product (ROI);&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Prioritize features according to market value;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Adjust features and priority every 30 days, as needed; and&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Accept or reject work results.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The product owner is responsible for the first of the three Scrum ceremonies&amp;nbsp;:&amp;nbsp;Sprint&#xD;
+    Planning&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Scrum Team looks at the prioritized Product Backlog and slices off the top priority items and&#xD;
+    commits to completing them during a sprint. These items become the Sprint Backlog.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>In return for the Scrum team's commitment to completing the selected tasks, the Product Owner commits&#xD;
+    that he or she will not throw new requirements at the team during the sprint. Requirements are allowed to change but&#xD;
+    only outside the sprint. Once the team starts on a sprint it remains maniacally focused on the goal of that&#xD;
+    sprint.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8gtDhR77f4DUH4NQytDbkw" name="scrum_master,_mzsg5Ep2EeisRamC_torBQ" guid="-8gtDhR77f4DUH4NQytDbkw">
+    <keyConsiderations>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The ScrumMaster:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        is not the project manager but a facilitative team leader and Scrum process manager&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        monitors sprint tasks to ensure sprint success but does not create/assign tasks (the team creates/assigns tasks)&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        is part of the team: he shares responsibility with the other team members&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        must regularly, physically meet the other team members&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The ScrumMaster:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Represents management to the project;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Is responsible for enacting Scrum values and practices;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Runs The Daily Scrum meetings;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Removes impediments;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Shields the team from external interferences;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Ensures that the team is fully functional and productive; and&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Enables close cooperation across all roles and functions.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HhbN35iXndRRskapwyf3PA" name="product_requirements_document,_mzsg50p2EeisRamC_torBQ" guid="-HhbN35iXndRRskapwyf3PA">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>Product requirements documents (PRDs) are most frequently written for software products,&#xD;
+    but can be used for any type of product and also for services. Typically, a PRD is created from a user's point-of-view&#xD;
+    by a user/client or a company's marketing department [1].&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>[1] &lt;font color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>En.wikipedia.org.&#xD;
+    (2018).&amp;nbsp;&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;font color=&quot;#000000&quot;>&lt;i>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>Product requirements document&lt;/span>&lt;/span>&lt;/i>&lt;/font>&lt;font&#xD;
+    color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>. [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Product_requirements_document [Accessed 8 Apr.&#xD;
+    2018].&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_HyMsHdESFZZ7hgGk2In9w" name="domain_model,_mzsg6kp2EeisRamC_torBQ" guid="-_HyMsHdESFZZ7hgGk2In9w">
+    <refinedDescription>A domain model helps the development team understand key business entities and relationships, and the architect can derive&#xD;
+information from functional requirements, user stories or processes.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-2PI2LdhVjPP9FQhJ_0NJDQ" name="scrum_team,_mzsg7Up2EeisRamC_torBQ" guid="-2PI2LdhVjPP9FQhJ_0NJDQ">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Team:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Is cross-functional, with seven (plus/minus two) members;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Selects the Sprint goal and specifies work results;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Has the right to do everything within the boundaries of the project guidelines to reach the Sprint goal;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Organizes itself and its work; and&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Demos work results to the Product Owner.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Scrum teams do not include any of the traditional software engineering roles such as programmer,&#xD;
+    designer, tester, or architect. Everyone on the project works together to complete the set of work they have&#xD;
+    collectively committed to complete within a sprint. Scrum teams develop a deep form of camaraderie and a feeling that&#xD;
+    &quot;we're all in this together.&quot;&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>A&amp;nbsp;typical Scrum team&amp;nbsp;is 5-9 people but can be scaled using a Scrum of Scrums.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3e6oqW-2OvoIoS2pe0ziug" name="product_backlog,_mzsg8Ep2EeisRamC_torBQ" guid="-3e6oqW-2OvoIoS2pe0ziug">
+    <refinedDescription>&lt;p>&#xD;
+    The product backlog comprises an ordered list of product requirements that a scrum team maintains for a product. The&#xD;
+    format of product backlog items varies, common formats include user stories, use cases, or any other requirements&#xD;
+    format the team finds useful. These will define features, bug fixes, non-functional requirements, etc - whatever must&#xD;
+    be done to successfully deliver a viable product [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). Scrum (software development). [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog [Accessed 21 Apr. 2018].&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-zRlOuBZCgjf8OTmuq2E3Fg" name="identify_and_refine_requirements,_6LDA5UmWEei5U6SVQtDbig" guid="-zRlOuBZCgjf8OTmuq2E3Fg">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>Define product requirements with a focus on higher-level requirements and leave&#xD;
+    implementation details to the development team.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;strong>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;b>1.&#xD;
+    Define project specifics&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font color=&quot;#000000&quot;>&lt;font&#xD;
+    face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+    &amp;nbsp;&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;p&#xD;
+        style=&quot;MARGIN-BOTTOM: 0.13in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; FONT-WEIGHT: normal; PADDING-BOTTOM: 0in; FONT-STYLE: normal; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+            &lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>Participants: Who is involved? Include the&#xD;
+            product owner, team, stakeholders&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p&#xD;
+        style=&quot;MARGIN-BOTTOM: 0.13in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; FONT-WEIGHT: normal; PADDING-BOTTOM: 0in; FONT-STYLE: normal; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+            &lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>Status: What's the current state of the&#xD;
+            program? On target, at risk, delayed, deferred, etc.&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p&#xD;
+        style=&quot;MARGIN-BOTTOM: 0.13in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; FONT-WEIGHT: normal; PADDING-BOTTOM: 0in; FONT-STYLE: normal; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+            &lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>Target release: When is it projected to&#xD;
+            ship?&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0.13in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;strong>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;b>2. Team&#xD;
+    goals and business objectives&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font color=&quot;#000000&quot;>&lt;font&#xD;
+    face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&amp;nbsp;&lt;br />&#xD;
+    Get straight to the point. Inform, but don't bore.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+    &lt;strong>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;b>3.&#xD;
+    Background and strategic fit&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;strong>&lt;font color=&quot;#000000&quot;>&lt;font&#xD;
+    face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+    &lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;BACKGROUND: #ffffff&quot;>Why are we doing this?&#xD;
+    How does this fit into the overall company objectives?&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+    &lt;strong>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;b>4.&#xD;
+    Assumptions&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font&#xD;
+    size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;/font>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>List the technical, business, or user assumptions you&#xD;
+    might be making.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;/font>&lt;strong>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>5. User Stories&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font color=&quot;#000000&quot;>&lt;font&#xD;
+    face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;/font>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>List or link to the user stories involved. Also link to&#xD;
+    customer interviews, and include screenshots of what you've seen. Provide enough detail to make a complete story, and&#xD;
+    include success metrics.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font&#xD;
+    size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;/font>&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;b>6. User&#xD;
+    interaction and design&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font color=&quot;#000000&quot;>&lt;font&#xD;
+    face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;/font>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>After the team fleshes out the solution for each user&#xD;
+    story, link design explorations and wireframes to the page.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;b>7.&#xD;
+    Questions&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font&#xD;
+    size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;/font>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>As the team understands the problems to solve, they often&#xD;
+    have questions. Create a table of &quot;things we need to decide or research&quot; to track these&#xD;
+    items.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;b>8. What&#xD;
+    we're not doing&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font&#xD;
+    size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;/font>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>Keep the team focused on the work at hand by clearly&#xD;
+    calling out what you're not doing. Flag things that are out of scope at the moment, but might be considered at a later&#xD;
+    time.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>(From Atlassian Agile&#xD;
+    Coach)&lt;/font>&lt;/font>&lt;/font>&lt;br />&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-yJapupxJ7IKavfpJNWmTsw" name="create_domain_model,_6LDA5kmWEei5U6SVQtDbig" guid="-yJapupxJ7IKavfpJNWmTsw">
+    <refinedDescription>A domain model is a system of abstractions that describes selected aspects of a sphere of knowledge, influence or activity&#xD;
+(a domain).</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kelHwTBe5H35uD7t0_T13Q" name="project_manager,_hsfWgUp2EeisRamC_torBQ" guid="-kelHwTBe5H35uD7t0_T13Q">
+    <refinedDescription>&lt;p>&#xD;
+    The person in this role:&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Is responsible for the evaluation of the riks of the project. Also, should control the risk through mitigation&#xD;
+        strategies.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Applies management tools, knowledge,techniques and skills to tasks to deliver&amp;nbsp;the desire results for a&#xD;
+        project.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LbwfY4OUzujpgOK9ewE1EQ" name="user_stories,_hsfWhEp2EeisRamC_torBQ" guid="-LbwfY4OUzujpgOK9ewE1EQ">
+    <refinedDescription>&lt;p>&#xD;
+    A user story is an informal, natural language description of one or more features of a software system. User stories&#xD;
+    are often written from the perspective of an end user or user of a system [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). User story. [online] Available at: https://en.wikipedia.org/wiki/User_story [Accessed 21&#xD;
+    Apr. 2018].&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-sDPD-UMNgC7PIi5L-ZpnQQ" name="prioritizing_the_backlog,_6LDn80mWEei5U6SVQtDbig" guid="-sDPD-UMNgC7PIi5L-ZpnQQ">
+    <refinedDescription>&lt;p>&#xD;
+    The Product Backlog is a prioritized list of work to be completed by the team. It is continuously updated by the&#xD;
+    Product Owner based on feedback from the end-user (as they are exposed to new product increments) and also in response&#xD;
+    to the evolving technical and business landscape.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    It is important that the team provides the Product Owner with sizing estimates for the Product Backlog items to enable&#xD;
+    the Product Owner to balance business need with the estimated cost of implementation.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-DYiD09ASWLpOvrHMDgpmPw" name="estimate_product_backlog,_6LDn9EmWEei5U6SVQtDbig" guid="-DYiD09ASWLpOvrHMDgpmPw">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Prior to release planning and periodically as the product backlog evolves and the team gains insight&#xD;
+    through experience the Scrum Team will estimate the size of items on the Product Backlog. This is key information to&#xD;
+    help the&amp;nbsp;Product Owner make prioritization decisions (some items may become less of a priority if the&amp;nbsp;Product&#xD;
+    Owner learns that major effort will be required to deliver them).&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Estimations are relative and&amp;nbsp;are measured in “points” rather than real-world units of effort.&amp;nbsp;&#xD;
+    To the uninitiated this may&amp;nbsp;seem unpredicatable but after the first few sprints Scrum teams can empirically&#xD;
+    derive&amp;nbsp;a velocity&amp;nbsp;that allows them to&amp;nbsp;accurately predict delivery capability.&amp;nbsp;&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-rVExi7JW0wV9LdTEbfmITA" name="define_sprint_backlog,_6LDn9UmWEei5U6SVQtDbig" guid="-rVExi7JW0wV9LdTEbfmITA">
+    <refinedDescription>&lt;p>&#xD;
+    It's critical that the team selects the items and size of the sprint backlog. Because they are the people committing to&#xD;
+    completing the tasks, they must be the people to choose what they are committing to during the Scrum sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The sprint backlog is commonly maintained as a spreadsheet, but it is also possible to use your defect tracking system&#xD;
+    or any of a number of software products designed specifically for Scrum or agile.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8kvrwF_CNlsEnIp-RQk7_A" name="product_owner,_EInB4Up2EeisRamC_torBQ" guid="-8kvrwF_CNlsEnIp-RQk7_A">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Scrum product owner is typically a project's key stakeholder. Part of the product owner&#xD;
+    responsibilities is to have a vision of what he or she wishes to build, and convey that vision to the scrum&#xD;
+    team.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Product Owner has the following responsibilities:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Define the features of the product;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Decide on release date and content;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Be responsible for the profitability of the product (ROI);&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Prioritize features according to market value;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Adjust features and priority every 30 days, as needed; and&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Accept or reject work results.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The product owner is responsible for the first of the three Scrum ceremonies&amp;nbsp;:&amp;nbsp;Sprint&#xD;
+    Planning&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Scrum Team looks at the prioritized Product Backlog and slices off the top priority items and&#xD;
+    commits to completing them during a sprint. These items become the Sprint Backlog.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>In return for the Scrum team's commitment to completing the selected tasks, the Product Owner commits&#xD;
+    that he or she will not throw new requirements at the team during the sprint. Requirements are allowed to change but&#xD;
+    only outside the sprint. Once the team starts on a sprint it remains maniacally focused on the goal of that&#xD;
+    sprint.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6eC3txWvTyo8MmHzAOPTpw" name="product_backlog,_EInB5Ep2EeisRamC_torBQ" guid="-6eC3txWvTyo8MmHzAOPTpw">
+    <refinedDescription>&lt;p>&#xD;
+    When a project is initiated there is no comprehensive, time-consuming effort to write down all foreseeable tasks or&#xD;
+    requirements. Typically, a project writes down everything obvious, which is almost always more than enough for a first&#xD;
+    sprint. The Product Backlog is then allowed to grow and change as more is learned about the product and its customers.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    During the Sprint Planning Meeting the Product Owner prioritizes the items in the Product Backlog and describes them to&#xD;
+    the team. The team then determines which items they can complete during the coming Sprint. The team then moves items&#xD;
+    from the Product Backlog to the Sprint Backlog. In doing they expand each Product Backlog item into one or more Sprint&#xD;
+    Backlog tasks so they can more effectively share work during the Sprint. Conceptually, the team starts at the top of&#xD;
+    the prioritized Product Backlog list and draws a line after the lowest of the high priority items they feel they can&#xD;
+    complete. In practice it is not unusual to see a team select, for example, the top five items and then two items from&#xD;
+    lower on the list but that are associated with the initial five.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Product backlog items can be technical tasks (&quot;Refactor the Login class to throw an exception&quot;) or more user-centric&#xD;
+    (&quot;Allow undo on the setup screen&quot;). A very interesting prospect is expressing Scrum backlog items in the form of&#xD;
+    Extreme Programming's User Stories.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Product Backlog can be maintained in an Excel spreadsheet. An example from a real project is shown below. This&#xD;
+    Excel spreadsheet shows each product backlog item assigned a general priority (Very High, High, etc.) by the Product&#xD;
+    Owner. Estimates have been developed by the developers but it is understood that they are very imprecise and are useful&#xD;
+    only for rough assignments of tasks into the various sprints.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xzzJ5lx5x4ungIY_K_gBkg" name="scrum_team,_F3rLwUp2EeisRamC_torBQ" guid="-xzzJ5lx5x4ungIY_K_gBkg">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The Team:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Is cross-functional, with seven (plus/minus two) members;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Selects the Sprint goal and specifies work results;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Has the right to do everything within the boundaries of the project guidelines to reach the Sprint goal;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Organizes itself and its work; and&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Demos work results to the Product Owner.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Scrum teams do not include any of the traditional software engineering roles such as programmer,&#xD;
+    designer, tester, or architect. Everyone on the project works together to complete the set of work they have&#xD;
+    collectively committed to complete within a sprint. Scrum teams develop a deep form of camaraderie and a feeling that&#xD;
+    &quot;we're all in this together.&quot;&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>A&amp;nbsp;typical Scrum team&amp;nbsp;is 5-9 people but can be scaled using a Scrum of Scrums.&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--yw4UXBCPuW0UX4yoFViRQ" name="scrum_master,_F3rLxEp2EeisRamC_torBQ" guid="--yw4UXBCPuW0UX4yoFViRQ">
+    <keyConsiderations>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The ScrumMaster:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        is not the project manager but a facilitative team leader and Scrum process manager&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        monitors sprint tasks to ensure sprint success but does not create/assign tasks (the team creates/assigns tasks)&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        is part of the team: he shares responsibility with the other team members&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        must regularly, physically meet the other team members&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+    <refinedDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>The ScrumMaster:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Represents management to the project;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Is responsible for enacting Scrum values and practices;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Runs The Daily Scrum meetings;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Removes impediments;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Shields the team from external interferences;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Ensures that the team is fully functional and productive; and&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Enables close cooperation across all roles and functions.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1ySmhuM45ANAnYSbwftZFQ" name="product_backlog,_e3350Up2EeisRamC_torBQ" guid="-1ySmhuM45ANAnYSbwftZFQ">
+    <refinedDescription>&lt;p>&#xD;
+    The product backlog comprises an ordered list of product requirements that a scrum team maintains for a product. The&#xD;
+    format of product backlog items varies, common formats include user stories, use cases, or any other requirements&#xD;
+    format the team finds useful. These will define features, bug fixes, non-functional requirements, etc - whatever must&#xD;
+    be done to successfully deliver a viable product [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). Scrum (software development). [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog [Accessed 21 Apr. 2018].&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-h-h31vOf0tJcAAbOBz_ccQ" name="sprint_backlog,_e3351Ep2EeisRamC_torBQ" guid="-h-h31vOf0tJcAAbOBz_ccQ">
+    <refinedDescription>&lt;p>&#xD;
+    Items on the sprint backlog are drawn from the product backlog, by the team based on the priorities set and the team's&#xD;
+    perception of the time it will take to complete the various features.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is critical that the team selects the items and size of the sprint backlog. Because they are the ones committing to&#xD;
+    completing the tasks they must be the ones to choose what they are committing to.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The sprint backlog is very commonly maintained as an Excel spreadsheet but it is also possible to use your defect&#xD;
+    tracking system or any of a number of software products designed specifically for Scrum or agile.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    During the Sprint the ScrumMaster maintains the sprint backlog by updating it to reflect which tasks are completed and&#xD;
+    how long the team thinks it will take to complete those that are not yet done. The estimated work remaining in the&#xD;
+    sprint is calculated daily and graphed, resulting in a Sprint Burndown Chart&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

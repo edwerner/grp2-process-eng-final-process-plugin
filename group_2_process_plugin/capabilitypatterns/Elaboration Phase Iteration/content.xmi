@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-xP8mwzTz4oCkye4AJ2RLgA" name="Elaboration Phase Iteration 2,_Ved6UUSrEeiwgZ8eifS8bA" guid="-xP8mwzTz4oCkye4AJ2RLgA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CjKkFWtCMBicaLnDmYioaA" name="plan_iteration,_FGteMESqEeiwgZ8eifS8bA" guid="-CjKkFWtCMBicaLnDmYioaA">
+    <refinedDescription>&lt;p>&#xD;
+    Team collaboration task which outlines plan on how project will meet goals and milestones. Resulting plan provides&#xD;
+    summary-level project overview.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    During project planning, iterations are identified, but the estimates have an acceptable uncertainty due to the lack of&#xD;
+    detail at the project inception. This task is repeated for each iteration within a release. It allows the team to&#xD;
+    increase the accuracy of the estimates for one iteration, as more detail is known along the project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ensure that the team commits to a reasonable amount of work for the iteration, based on team performance from previous&#xD;
+    iterations.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ghL-i8fLniOdhurvvAJTCA" name="project_manager,_FGteMUSqEeiwgZ8eifS8bA" guid="-ghL-i8fLniOdhurvvAJTCA">
+    <refinedDescription>&lt;p>&#xD;
+    The person in this role:&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Is responsible for the evaluation of the riks of the project. Also, should control the risk through mitigation&#xD;
+        strategies.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Applies management tools, knowledge,techniques and skills to tasks to deliver&amp;nbsp;the desire results for a&#xD;
+        project.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kAZnhgdsGIwcepB_5N8zEA" name="iteration_plan,_FGteM0SqEeiwgZ8eifS8bA" guid="-kAZnhgdsGIwcepB_5N8zEA">
+    <keyConsiderations>&lt;p>&#xD;
+    Work items assigned to an iteration do not necessarily have the same priority. When selecting work items from the Work&#xD;
+    Items List, the iteration plan may end up having work items with different priorities.Once work items have been&#xD;
+    assigned to the iteration, the team ensures that they can complete all work, regardless of original work item&#xD;
+    priorities. Deciding what to develop first on an iteration will vary across projects and iterations.&#xD;
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    This artifact captures the key milestones of an iteration, showing start and end dates, intermediate milestones,&#xD;
+    synchronization points with other teams, demos, and so on. This artifact is also used to capture issues that need to be&#xD;
+    solved during the iteration.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    You should list a few objectives for the iteration, which will help guide you throughout the iteration. Also, assess at&#xD;
+    the end if those objectives have been achieved.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-MwjdO4W_kSE8PmdENrRINw" name="risk_list,_FGteNUSqEeiwgZ8eifS8bA" guid="-MwjdO4W_kSE8PmdENrRINw">
+    <keyConsiderations>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        This list should capture high risks.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        If the list extends beyond 20 items, consider whether they are serious risks. Tracking more than 20 risks involves&#xD;
+        high effort and difficulty [1].&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;br />&#xD;
+        &lt;font size=&quot;1&quot;>1. Cossentino, M., Hilaire, V., &amp;amp; Seidita, V. (2013). The OpenUp Process. In Handbook on&#xD;
+        Agent-Oriented Design Processes (pp. 517). Springer, Berlin, Heidelberg.&lt;br />&#xD;
+        &lt;/font>&lt;br />&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    This is a sorted list that identifies all the risks associated to a project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Navigate to the Concept of Risk for more details.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-GzcbfNgUzdoTGfXr9XdmkA" name="manage_iteration,_F_CNUESqEeiwgZ8eifS8bA" guid="-GzcbfNgUzdoTGfXr9XdmkA">
+    <refinedDescription>Key steps in the process start with a simple implementation of a subset of the software requirements and iteratively&#xD;
+enhancing the evolving versions until the full system is implemented.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-eVNfBxIqmJrxNOYtoIqq7Q" name="architect,_F_CNUUSqEeiwgZ8eifS8bA" guid="-eVNfBxIqmJrxNOYtoIqq7Q">
+    <refinedDescription>&lt;p>&#xD;
+    The Architect is responsible for defining the software architecture, which includes making the key technical decisions&#xD;
+    that constrain the overall design and implementation of the system.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--yu-2OGqB7gaRFTunKwnzQ" name="architecture_notebook,_F_CNVUSqEeiwgZ8eifS8bA" guid="--yu-2OGqB7gaRFTunKwnzQ">
+    <refinedDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+It provides a place for maintaining the list of architectural issues, along with the associated architectural decisions,&#xD;
+designs, patterns, code documented, etc. - all at appropriate levels to make it easy to understand what architectural&#xD;
+decisions have been made and remain to be made.&lt;/span></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dQ4AC4Yo7jukEGvDdyC00A" name="identify_and_refine_requirements,_IXBYYESqEeiwgZ8eifS8bA" guid="-dQ4AC4Yo7jukEGvDdyC00A">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;font color=&quot;#091e42&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>Define product requirements with a focus on higher-level&#xD;
+    requirements and leave implementation details to the development team.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>1. Define project specifics&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font&#xD;
+    color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+    &amp;nbsp;&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;p&#xD;
+        style=&quot;MARGIN-BOTTOM: 0.13in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; FONT-WEIGHT: normal; PADDING-BOTTOM: 0in; FONT-STYLE: normal; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+            &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;font color=&quot;#091e42&quot;>Participants: Who&#xD;
+            is involved? Include the product owner, team, stakeholders&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p&#xD;
+        style=&quot;MARGIN-BOTTOM: 0.13in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; FONT-WEIGHT: normal; PADDING-BOTTOM: 0in; FONT-STYLE: normal; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+            &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;font color=&quot;#091e42&quot;>Status: What's the&#xD;
+            current state of the program? On target, at risk, delayed, deferred, etc.&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p&#xD;
+        style=&quot;MARGIN-BOTTOM: 0.13in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; FONT-WEIGHT: normal; PADDING-BOTTOM: 0in; FONT-STYLE: normal; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+            &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;font color=&quot;#091e42&quot;>Target release:&#xD;
+            When is it projected to ship?&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0.13in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; FONT-WEIGHT: normal; PADDING-BOTTOM: 0in; FONT-STYLE: normal; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;b>2. Team goals&#xD;
+    and business objectives&lt;/b>&lt;/font>&lt;/font>&lt;/strong>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot;&#xD;
+    size=&quot;2&quot;>&amp;nbsp;&lt;/font>&lt;/font>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>Get straight to the point. Inform, but don't&#xD;
+    bore.&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>3. Background and strategic fit&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/strong>&lt;strong>&lt;font&#xD;
+    color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+    &lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/strong>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;BACKGROUND: #ffffff&quot;>Why are we doing this?&#xD;
+    How does this fit into the overall company objectives?&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>4. Assumptions&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/strong>&lt;font style=&quot;FONT-SIZE: 11pt&quot;&#xD;
+    size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>List the technical, business, or user assumptions you might be&#xD;
+    making.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>5. User Stories&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font&#xD;
+    face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>List or link to the user stories involved. Also link to&#xD;
+    customer interviews, and include screenshots of what you've seen. Provide enough detail to make a complete story, and&#xD;
+    include success metrics.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot;&#xD;
+    size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>6. User interaction and design&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font&#xD;
+    face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>After the team fleshes out the solution for each user&#xD;
+    story, link design explorations and wireframes to the page.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>7. Questions&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font&#xD;
+    style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>As the team understands the problems to solve, they often&#xD;
+    have questions. Create a table of &quot;things we need to decide or research&quot; to track these&#xD;
+    items.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>8. What we're not doing&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font&#xD;
+    face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>Keep the team focused on the work at hand by clearly&#xD;
+    calling out what you're not doing. Flag things that are out of scope at the moment, but might be considered at a later&#xD;
+    time.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>(From Atlassian Agile Coach)&lt;/font>&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xz4o7SUMDUkXzVeBRv74bA" name="product_requirements_document,_IXBYY0SqEeiwgZ8eifS8bA" guid="-xz4o7SUMDUkXzVeBRv74bA">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>Product requirements documents (PRDs) are most frequently written for software products,&#xD;
+    but can be used for any type of product and also for services. Typically, a PRD is created from a user's point-of-view&#xD;
+    by a user/client or a company's marketing department [1]&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>[1] &lt;font color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>En.wikipedia.org.&#xD;
+    (2018).&amp;nbsp;&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;font color=&quot;#000000&quot;>&lt;i>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>Product requirements document&lt;/span>&lt;/span>&lt;/i>&lt;/font>&lt;font&#xD;
+    color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>. [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Product_requirements_document [Accessed 8 Apr.&#xD;
+    2018].&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-c6QTvqqNBVNWLgXWN0cAFQ" name="architect,_ciZQEUSrEeiwgZ8eifS8bA" guid="-c6QTvqqNBVNWLgXWN0cAFQ">
+    <refinedDescription>&lt;p>&#xD;
+    The Architect is responsible for defining the software architecture, which includes making the key technical decisions&#xD;
+    that constrain the overall design and implementation of the system.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-hRwo4PfaqU0YYgns9wUp8A" name="architecture_notebook,_ciZQF0SrEeiwgZ8eifS8bA" guid="-hRwo4PfaqU0YYgns9wUp8A">
+    <refinedDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+It provides a place for maintaining the list of architectural issues, along with the associated architectural decisions,&#xD;
+designs, patterns, code documented, etc. - all at appropriate levels to make it easy to understand what architectural&#xD;
+decisions have been made and remain to be made.&lt;/span></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ZEjdLaQgSey-Or1C5mrjyw" name="create_development_environment,_exgzAESrEeiwgZ8eifS8bA" guid="-ZEjdLaQgSey-Or1C5mrjyw">
+    <refinedDescription>Set up Java environment for developers so they can build, test and debug their work using Java Spark framework. Create&#xD;
+&quot;Hello World&quot; application with route, view and controller. Also, create a private Github repository, commit source code and&#xD;
+invite all relevant team members.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-oLXyVpc--yvBPFvh9HSRkQ" name="Elaboration Phase Iteration 2,_8Arb4USrEeiwgZ8eifS8bA" guid="-oLXyVpc--yvBPFvh9HSRkQ"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-51cj081JNYcRfC3R2fGo8w" name="Elaboration Phase Iteration 2,__i3JMUSrEeiwgZ8eifS8bA" guid="-51cj081JNYcRfC3R2fGo8w"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-F7lE4cbJnfWIvfBZZiCDdg" name="plan_iteration,_7GG58ES_EeiwgZ8eifS8bA" guid="-F7lE4cbJnfWIvfBZZiCDdg">
+    <refinedDescription>&lt;p>&#xD;
+    Team collaboration task which outlines plan on how project will meet goals and milestones. Resulting plan provides&#xD;
+    summary-level project overview.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    During project planning, iterations are identified, but the estimates have an acceptable uncertainty due to the lack of&#xD;
+    detail at the project inception. This task is repeated for each iteration within a release. It allows the team to&#xD;
+    increase the accuracy of the estimates for one iteration, as more detail is known along the project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ensure that the team commits to a reasonable amount of work for the iteration, based on team performance from previous&#xD;
+    iterations.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NIoQV-fluY36vnYoluoiJA" name="project_manager,_7GG58US_EeiwgZ8eifS8bA" guid="-NIoQV-fluY36vnYoluoiJA">
+    <refinedDescription>&lt;p>&#xD;
+    The person in this role:&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Is responsible for the evaluation of the riks of the project. Also, should control the risk through mitigation&#xD;
+        strategies.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Applies management tools, knowledge,techniques and skills to tasks to deliver&amp;nbsp;the desire results for a&#xD;
+        project.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-GOpUKJjZVn1Tkp51b0w2fA" name="iteration_plan,_7GG580S_EeiwgZ8eifS8bA" guid="-GOpUKJjZVn1Tkp51b0w2fA">
+    <keyConsiderations>&lt;p>&#xD;
+    Work items assigned to an iteration do not necessarily have the same priority. When selecting work items from the Work&#xD;
+    Items List, the iteration plan may end up having work items with different priorities.Once work items have been&#xD;
+    assigned to the iteration, the team ensures that they can complete all work, regardless of original work item&#xD;
+    priorities. Deciding what to develop first on an iteration will vary across projects and iterations.&#xD;
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    This artifact captures the key milestones of an iteration, showing start and end dates, intermediate milestones,&#xD;
+    synchronization points with other teams, demos, and so on. This artifact is also used to capture issues that need to be&#xD;
+    solved during the iteration.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    You should list a few objectives for the iteration, which will help guide you throughout the iteration. Also, assess at&#xD;
+    the end if those objectives have been achieved.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QbZ9OV-lWLd0NkJZin7glA" name="risk_list,_7GG59US_EeiwgZ8eifS8bA" guid="-QbZ9OV-lWLd0NkJZin7glA">
+    <keyConsiderations>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        This list should capture high risks.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        If the list extends beyond 20 items, consider whether they are serious risks. Tracking more than 20 risks involves&#xD;
+        high effort and difficulty [1].&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;br />&#xD;
+        &lt;font size=&quot;1&quot;>1. Cossentino, M., Hilaire, V., &amp;amp; Seidita, V. (2013). The OpenUp Process. In Handbook on&#xD;
+        Agent-Oriented Design Processes (pp. 517). Springer, Berlin, Heidelberg.&lt;br />&#xD;
+        &lt;/font>&lt;br />&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    This is a sorted list that identifies all the risks associated to a project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Navigate to the Concept of Risk for more details.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-bNch6duIuptAAzWePahmUA" name="manage_iteration,_7kgtMES_EeiwgZ8eifS8bA" guid="-bNch6duIuptAAzWePahmUA">
+    <refinedDescription>Key steps in the process start with a simple implementation of a subset of the software requirements and iteratively&#xD;
+enhancing the evolving versions until the full system is implemented.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6w1vbUhGzDCXeTtQYNqftQ" name="architect,_7kgtMUS_EeiwgZ8eifS8bA" guid="-6w1vbUhGzDCXeTtQYNqftQ">
+    <refinedDescription>&lt;p>&#xD;
+    The Architect is responsible for defining the software architecture, which includes making the key technical decisions&#xD;
+    that constrain the overall design and implementation of the system.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--HymxOPmELBcsO6ahi4gUg" name="architecture_notebook,_7kgtNUS_EeiwgZ8eifS8bA" guid="--HymxOPmELBcsO6ahi4gUg">
+    <refinedDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+It provides a place for maintaining the list of architectural issues, along with the associated architectural decisions,&#xD;
+designs, patterns, code documented, etc. - all at appropriate levels to make it easy to understand what architectural&#xD;
+decisions have been made and remain to be made.&lt;/span></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-r2BdeiWy2cEJnRHkDL-nqg" name="identify_and_refine_requirements,_8Ve3IES_EeiwgZ8eifS8bA" guid="-r2BdeiWy2cEJnRHkDL-nqg">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;font color=&quot;#091e42&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>Define product requirements with a focus on higher-level&#xD;
+    requirements and leave implementation details to the development team.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>1. Define project specifics&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font&#xD;
+    color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+    &amp;nbsp;&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;p&#xD;
+        style=&quot;MARGIN-BOTTOM: 0.13in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; FONT-WEIGHT: normal; PADDING-BOTTOM: 0in; FONT-STYLE: normal; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+            &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;font color=&quot;#091e42&quot;>Participants: Who&#xD;
+            is involved? Include the product owner, team, stakeholders&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p&#xD;
+        style=&quot;MARGIN-BOTTOM: 0.13in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; FONT-WEIGHT: normal; PADDING-BOTTOM: 0in; FONT-STYLE: normal; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+            &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;font color=&quot;#091e42&quot;>Status: What's the&#xD;
+            current state of the program? On target, at risk, delayed, deferred, etc.&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p&#xD;
+        style=&quot;MARGIN-BOTTOM: 0.13in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; FONT-WEIGHT: normal; PADDING-BOTTOM: 0in; FONT-STYLE: normal; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+            &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;font color=&quot;#091e42&quot;>Target release:&#xD;
+            When is it projected to ship?&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0.13in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; FONT-WEIGHT: normal; PADDING-BOTTOM: 0in; FONT-STYLE: normal; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;b>2. Team goals&#xD;
+    and business objectives&lt;/b>&lt;/font>&lt;/font>&lt;/strong>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot;&#xD;
+    size=&quot;2&quot;>&amp;nbsp;&lt;/font>&lt;/font>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>Get straight to the point. Inform, but don't&#xD;
+    bore.&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>3. Background and strategic fit&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/strong>&lt;strong>&lt;font&#xD;
+    color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+    &lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/strong>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;BACKGROUND: #ffffff&quot;>Why are we doing this?&#xD;
+    How does this fit into the overall company objectives?&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>4. Assumptions&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/strong>&lt;font style=&quot;FONT-SIZE: 11pt&quot;&#xD;
+    size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;font color=&quot;#091e42&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>List the technical, business, or user assumptions you might be&#xD;
+    making.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>5. User Stories&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font&#xD;
+    face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>List or link to the user stories involved. Also link to&#xD;
+    customer interviews, and include screenshots of what you've seen. Provide enough detail to make a complete story, and&#xD;
+    include success metrics.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot;&#xD;
+    size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>6. User interaction and design&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font&#xD;
+    face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>After the team fleshes out the solution for each user&#xD;
+    story, link design explorations and wireframes to the page.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>7. Questions&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font&#xD;
+    style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>As the team understands the problems to solve, they often&#xD;
+    have questions. Create a table of &quot;things we need to decide or research&quot; to track these&#xD;
+    items.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;b>8. What we're not doing&lt;/b>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;/strong>&lt;font&#xD;
+    face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;br />&#xD;
+    &lt;/font>&lt;/font>&lt;font color=&quot;#091e42&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>Keep the team focused on the work at hand by clearly&#xD;
+    calling out what you're not doing. Flag things that are out of scope at the moment, but might be considered at a later&#xD;
+    time.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font style=&quot;FONT-SIZE: 11pt&quot; size=&quot;2&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>(From Atlassian Agile Coach)&lt;/font>&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-IWY3S9dffra0r1vcD9TXbw" name="product_requirements_document,_8Ve3I0S_EeiwgZ8eifS8bA" guid="-IWY3S9dffra0r1vcD9TXbw">
+    <refinedDescription>&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>Product requirements documents (PRDs) are most frequently written for software products,&#xD;
+    but can be used for any type of product and also for services. Typically, a PRD is created from a user's point-of-view&#xD;
+    by a user/client or a company's marketing department [1]&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>[1] &lt;font color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>En.wikipedia.org.&#xD;
+    (2018).&amp;nbsp;&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;font color=&quot;#000000&quot;>&lt;i>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>Product requirements document&lt;/span>&lt;/span>&lt;/i>&lt;/font>&lt;font&#xD;
+    color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>. [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Product_requirements_document [Accessed 8 Apr.&#xD;
+    2018].&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wKhVCTfd93udutEeY9wJUQ" name="develop_solution_increment,_Q98TcETBEei8NvIaNnYqRg" guid="-wKhVCTfd93udutEeY9wJUQ">
+    <refinedDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+The developer's responsibility is to design, implement and integrate a solution that covers requirements for a given&#xD;
+task.&lt;/span> &lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+Typical changes require some effort in designing the solution before moving into implementation.&lt;/span></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-2iOfN57EFDO3ZcGKiLi6nw" name="test_solution,_RsCIgETBEei8NvIaNnYqRg" guid="-2iOfN57EFDO3ZcGKiLi6nw">
+    <refinedDescription>&lt;p>&#xD;
+    Run tests against the individual implementation elements to verify that their internal structures work as specified.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gGpicABYHJuf2dKm00yEtA" name="software_developer,_RsCIgUTBEei8NvIaNnYqRg" guid="-gGpicABYHJuf2dKm00yEtA">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-c9eaa07d-8c21-fe7e-17ec-8cab2c785b12&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Developer is responsible for developing a part of the system, including designing it to fit into the architecture,&#xD;
+possibly prototyping the user interface, and then implementing, unit-testing, and integrating the components that are part&#xD;
+of the solution.&lt;/span>&lt;/b></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-yxOJiK4kab3G_mfCkD7aCw" name="design_document,_RsL5g0TBEei8NvIaNnYqRg" guid="-yxOJiK4kab3G_mfCkD7aCw">
+    <refinedDescription>A&amp;nbsp;written description of a software product, that a software designer writes in order to give a software development&#xD;
+team overall guidance to the architecture of the software project.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8jsCc6WCm4UzM7Sxc09mBA" name="backout_plan,_RsL5hkTBEei8NvIaNnYqRg" guid="-8jsCc6WCm4UzM7Sxc09mBA">
+    <refinedDescription>&lt;p>&#xD;
+    A backout plan adheres to an action list created prior to software or system integration. This list includes detailed&#xD;
+    steps and techniques for uninstalling or deintegrating a new system, as well reversing process changes. [1]&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] Techopedia.com. (2018). What is a Backout Plan? - Definition from Techopedia. [online] Available at:&#xD;
+    https://www.techopedia.com/definition/6119/backout-plan [Accessed 18 Apr. 2018].&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ax0cvEZ7kKzfyaJf72_K1Q" name="project_manager,_oZ_4wUTCEei8NvIaNnYqRg" guid="-ax0cvEZ7kKzfyaJf72_K1Q"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5q2vpeE9JNoVDKo1K8gXug" name="architecture_notebook,_pFpd1UTCEei8NvIaNnYqRg" guid="-5q2vpeE9JNoVDKo1K8gXug"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ye49euduuDL4Ho6h9s4jgA" name="identify_and_refine_requirements,_p6jFgETCEei8NvIaNnYqRg" guid="-Ye49euduuDL4Ho6h9s4jgA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QqdHb1eqmJv703FjnZOeZg" name="product_requirements_document,_p6jFg0TCEei8NvIaNnYqRg" guid="-QqdHb1eqmJv703FjnZOeZg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-zEjnCiSCCXeAZMRpObFBQg" name="Plan and Manage_,_dfaagUTCEei8NvIaNnYqRg" guid="-zEjnCiSCCXeAZMRpObFBQg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5lyOpRpQtRA7y42pLg-zVQ" name="test_solution,_jevfsETCEei8NvIaNnYqRg" guid="-5lyOpRpQtRA7y42pLg-zVQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Fiy5jtBK_xASOBhPf92AJw" name="software_developer,_jevfsUTCEei8NvIaNnYqRg" guid="-Fiy5jtBK_xASOBhPf92AJw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-c4xdaUaVfOhL7cNc1IY6hQ" name="design_document,_je5Qs0TCEei8NvIaNnYqRg" guid="-c4xdaUaVfOhL7cNc1IY6hQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wk38kLbt9SqyBlQELS34Nw" name="backout_plan,_je5QtkTCEei8NvIaNnYqRg" guid="-wk38kLbt9SqyBlQELS34Nw"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-IB3GMqJC2GtDRrERyHgDnA" name="Development_,_bWaGoUTCEei8NvIaNnYqRg" guid="-IB3GMqJC2GtDRrERyHgDnA"/>
+</xmi:XMI>

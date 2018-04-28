@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SJDU8CnjQAWBpKCk1_v8vg" name="test_solution,_aAzlIDdaEeiBBoDLVvOxsQ" guid="-SJDU8CnjQAWBpKCk1_v8vg" changeDate="2018-04-20T09:57:02.905-0400">
+  <mainDescription>&lt;p>&#xD;
+    Run tests against the individual implementation elements to verify that their internal structures work as specified.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_ovaHMENFEeiNHppt5DLcYA" name="Use Apache Maven to run unit tests" guid="_ovaHMENFEeiNHppt5DLcYA"/>
+  <sections xmi:id="_qtmSMENFEeiNHppt5DLcYA" name="Fix any failing tests" guid="_qtmSMENFEeiNHppt5DLcYA"/>
+  <sections xmi:id="_sfnpcENFEeiNHppt5DLcYA" name="Refactor and enhance tests (add/refine mocks)" guid="_sfnpcENFEeiNHppt5DLcYA"/>
+  <sections xmi:id="_y0PCIENFEeiNHppt5DLcYA" name="Write new tests to attain maximum code coverage" guid="_y0PCIENFEeiNHppt5DLcYA"/>
+  <purpose>Running tests automatically helps to identify software regressions introduced by changes in the source code.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

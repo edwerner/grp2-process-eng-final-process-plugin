@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fQU0YMGuTfqr6Q3AKwhHWg" name="system_sequence_diagram,_ZnzOIDteEeiOSvawQAsHpQ" guid="-fQU0YMGuTfqr6Q3AKwhHWg">
+  <mainDescription>A&amp;nbsp;system sequence diagram (SSD) is a sequence diagram that shows, for a particular scenario of a use case, the events&#xD;
+that external actors generate, their order, and possible inter-system events.</mainDescription>
+  <purpose>To provide visual summaries of the individual use cases and their different states within a given system.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

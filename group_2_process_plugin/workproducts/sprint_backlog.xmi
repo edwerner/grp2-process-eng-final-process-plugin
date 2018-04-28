@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SVEqepxrXhIK_gJlzsgdKQ" name="new_artifact,_Q7_ToDqlEeiTSbnYMpdisw" guid="-SVEqepxrXhIK_gJlzsgdKQ" changeDate="2018-04-21T14:22:10.693-0400">
+  <mainDescription>&lt;p>&#xD;
+    Items on the sprint backlog are drawn from the product backlog, by the team based on the priorities set and the team's&#xD;
+    perception of the time it will take to complete the various features.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is critical that the team selects the items and size of the sprint backlog. Because they are the ones committing to&#xD;
+    completing the tasks they must be the ones to choose what they are committing to.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The sprint backlog is very commonly maintained as an Excel spreadsheet but it is also possible to use your defect&#xD;
+    tracking system or any of a number of software products designed specifically for Scrum or agile.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    During the Sprint the ScrumMaster maintains the sprint backlog by updating it to reflect which tasks are completed and&#xD;
+    how long the team thinks it will take to complete those that are not yet done. The estimated work remaining in the&#xD;
+    sprint is calculated daily and graphed, resulting in a Sprint Burndown Chart&#xD;
+&lt;/p></mainDescription>
+  <purpose>Comprises the set of product backlog items selected for the sprint, plus a plan for delivering the product Increment and&#xD;
+realizing the sprint goal.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

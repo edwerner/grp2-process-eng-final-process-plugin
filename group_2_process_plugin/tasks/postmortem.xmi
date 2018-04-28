@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2Vj5aazr1OjDl3Fh84L_tw" name=",_OIRkUEmXEei5U6SVQtDbig" guid="-2Vj5aazr1OjDl3Fh84L_tw" changeDate="2018-04-26T17:21:47.082-0400">
+  <mainDescription>&lt;p>&#xD;
+    A project postmortem is a process to determine and analyze elements of the project that were successful or&#xD;
+    unsuccessful. Successful analysis of project estimate variance is dependent on accurate time tracking. The greater the&#xD;
+    granularity with which time is tracked, the more detailed an analysis can be performed during the project post-mortem&#xD;
+    [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). Postmortem documentation. [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Postmortem_documentation [Accessed 26 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <purpose>To determine and analyze elements of the project that were successful or unsuccessful.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

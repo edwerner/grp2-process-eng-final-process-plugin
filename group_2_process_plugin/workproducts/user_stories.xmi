@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-e7x7WxL-c7CyHOrEop192w" name="user_stories,_ET7XIDaYEeizzccWWzGJvA" guid="-e7x7WxL-c7CyHOrEop192w" changeDate="2018-04-21T14:10:36.265-0400">
+  <mainDescription>&lt;p>&#xD;
+    A user story is an informal, natural language description of one or more features of a software system. User stories&#xD;
+    are often written from the perspective of an end user or user of a system [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). User story. [online] Available at: https://en.wikipedia.org/wiki/User_story [Accessed 21&#xD;
+    Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <purpose>Captures a description of a software feature from an end-user perspective.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

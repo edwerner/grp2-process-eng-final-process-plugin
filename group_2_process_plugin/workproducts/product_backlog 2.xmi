@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-upPXpkF1IyEoKMBlNH0Qfg" name="new_artifact,_1bj-EDtgEeiOSvawQAsHpQ" guid="-upPXpkF1IyEoKMBlNH0Qfg" changeDate="2018-04-08T15:16:37.015-0400">
+  <mainDescription>&lt;p>&#xD;
+    The product backlog comprises an ordered list of product requirements that a scrum team maintains for a product. The&#xD;
+    format of product backlog items varies, common formats include user stories, use cases, or any other requirements&#xD;
+    format the team finds useful. These will define features, bug fixes, non-functional requirements, etc - whatever must&#xD;
+    be done to successfully deliver a viable product [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). Scrum (software development). [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog [Accessed 21 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <purpose>To serve as a representation of what will be delivered, ordered into the sequence in which it should be delivered</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

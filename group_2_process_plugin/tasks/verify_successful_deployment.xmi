@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UkFYT3ec6C6Mrmie37Dibg" name="verify_successful_deployment,_H9LLIDdbEeiBBoDLVvOxsQ" guid="-UkFYT3ec6C6Mrmie37Dibg">
+  <mainDescription>The release and the contents of the release package are placed under the control of configuration management, baselined and&#xD;
+verified against the release design and release package definition.</mainDescription>
+  <purpose>To verify that the project was deployed successfuly and that all integration tests pass.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

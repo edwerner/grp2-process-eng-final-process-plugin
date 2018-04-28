@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-y1SvH9e9M_ua1-Bg-3IM3Q" name="requirements,_63t7YDaXEeizzccWWzGJvA" guid="-y1SvH9e9M_ua1-Bg-3IM3Q" changeDate="2018-04-08T16:49:57.080-0400">
+  <mainDescription>&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: medium none; ORPHANS: 2; WIDOWS: 2; LINE-HEIGHT: 155%; PADDING-RIGHT: 0in&quot;>&#xD;
+    &lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>Product requirements documents (PRDs) are most frequently written for software products,&#xD;
+    but can be used for any type of product and also for services. Typically, a PRD is created from a user's point-of-view&#xD;
+    by a user/client or a company's marketing department [1].&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>[1] &lt;font color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>En.wikipedia.org.&#xD;
+    (2018).&amp;nbsp;&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;font color=&quot;#000000&quot;>&lt;i>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>Product requirements document&lt;/span>&lt;/span>&lt;/i>&lt;/font>&lt;font&#xD;
+    color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;BACKGROUND: none transparent scroll repeat 0% 0%&quot;>. [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Product_requirements_document [Accessed 8 Apr.&#xD;
+    2018].&lt;/span>&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>Defines the product you are about to build by outlining the product's purpose, features, functionalities, and behavior.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

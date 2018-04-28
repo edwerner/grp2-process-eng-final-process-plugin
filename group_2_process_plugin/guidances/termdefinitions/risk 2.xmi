@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gsCaFpsKkLoJEO361br1ww" name="new_term_definition,_dgziADtIEeiOSvawQAsHpQ" guid="-gsCaFpsKkLoJEO361br1ww">
+  <mainDescription>&lt;p>&#xD;
+    A potential event or future situation that can potentially affect, prevent, or limit a project's success. Project risks&#xD;
+    may be seen as threats or opportunities.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

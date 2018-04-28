@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-p61jILOd5dQbQAe40lN6XA" name="risk_list,_Ckay8Cc_EduIsqH1Q6ZuqA" guid="-p61jILOd5dQbQAe40lN6XA" changeDate="2018-04-07T02:29:41.784-0400" version="1">
+  <mainDescription>&lt;p>&#xD;
+    This is a sorted list that identifies all the risks associated to a project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Navigate to the Concept of Risk for more details.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        This list should capture high risks.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        If the list extends beyond 20 items, consider whether they are serious risks. Tracking more than 20 risks involves&#xD;
+        high effort and difficulty [1].&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;br />&#xD;
+        &lt;font size=&quot;1&quot;>1. Cossentino, M., Hilaire, V., &amp;amp; Seidita, V. (2013). The OpenUp Process. In Handbook on&#xD;
+        Agent-Oriented Design Processes (pp. 517). Springer, Berlin, Heidelberg.&lt;br />&#xD;
+        &lt;/font>&lt;br />&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></keyConsiderations>
+  <purpose>To&amp;nbsp;capture the perceived risks to that are againt the success of the project.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

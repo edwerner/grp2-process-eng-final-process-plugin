@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--qp_lQbtRXu05NHDDY6CoQ" name="new_role,_yFwQEDdTEeiBBoDLVvOxsQ" guid="--qp_lQbtRXu05NHDDY6CoQ" changeDate="2018-04-03T11:31:15.441-0400">
+  <mainDescription>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c9eaa07d-8c21-fe7e-17ec-8cab2c785b12&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    The software engineer is responsible for developing a part of the system, including designing it to fit into the&#xD;
+    architecture, possibly prototyping the user interface, and then implementing, unit-testing, and integrating the&#xD;
+    components that are part of the solution.&lt;/span>&lt;/b>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

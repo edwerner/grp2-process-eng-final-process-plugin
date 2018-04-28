@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DlUBjY5Nkblg-hTLfd0YbA" name=",_5a9dwDteEeiOSvawQAsHpQ" guid="-DlUBjY5Nkblg-hTLfd0YbA" changeDate="2018-04-08T15:02:20.408-0400">
+  <mainDescription>User stories are an&amp;nbsp;informal, natural language description of one or more features of a software system. User stories&#xD;
+are often written from the perspective of an end user or user of a system. User stories are a type of boundary object that&#xD;
+help software teams organize their understanding of the system and its context.</mainDescription>
+  <sections xmi:id="_g-ui8DtfEeiOSvawQAsHpQ" name="Define role for a user story" guid="_g-ui8DtfEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_j7i5YDtfEeiOSvawQAsHpQ" name="Define goal for a user story" guid="_j7i5YDtfEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_mDI4ADtfEeiOSvawQAsHpQ" name="Define benefit(s) for user story" guid="_mDI4ADtfEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_XVXpwDtkEeiOSvawQAsHpQ" name="Define acceptance criteria for user story" guid="_XVXpwDtkEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_yPg8ADtkEeiOSvawQAsHpQ" name="Define solution tasks" guid="_yPg8ADtkEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_L5us4DtkEeiOSvawQAsHpQ" name="Document user story in Trello" guid="_L5us4DtkEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_RfKEUDtkEeiOSvawQAsHpQ" name="Add user story to product backlog in Trello" guid="_RfKEUDtkEeiOSvawQAsHpQ"/>
+  <purpose>Capture descriptions of a software feature from an end-user perspective.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

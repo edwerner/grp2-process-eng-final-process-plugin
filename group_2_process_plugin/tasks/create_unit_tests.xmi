@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pMXHxb9waMfiZYBZ2We-5g" name="create_unit_tests,_0_aKwEfbEeiIxoFTotST_w" guid="-pMXHxb9waMfiZYBZ2We-5g" changeDate="2018-04-25T11:06:15.796-0400">
+  <mainDescription>&lt;p>&#xD;
+    Unit testing is a software testing method by which individual units of source code, sets of one or more computer&#xD;
+    program modules together with associated control data, usage procedures, and operating procedures, are tested to&#xD;
+    determine whether they are fit for use [2].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [2] En.wikipedia.org. (2018). Unit testing. [online] Available at: https://en.wikipedia.org/wiki/Unit_testing [Accessed&#xD;
+    25 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    A unit test is used to verify a single minimal unit of source code. The purpose of unit testing is to isolate the&#xD;
+    smallest testable parts of an API and verify that they function properly in isolation [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] Watt, P. (2018). The Purpose of a Unit Test - CodeProject. [online] Codeproject.com. Available at:&#xD;
+    https://www.codeproject.com/Articles/727053/The-Purpose-of-a-Unit-Test [Accessed 25 Apr. 2018].&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

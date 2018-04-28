@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-IanyzFPTTlSKbaAfnACFyA" name="Development_,_bWaGoUTCEei8NvIaNnYqRg" guid="-IanyzFPTTlSKbaAfnACFyA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-SMWfKryN7GtNK-Xpm_1UFA" name="test_solution,_jevfsETCEei8NvIaNnYqRg" guid="-SMWfKryN7GtNK-Xpm_1UFA">
+    <refinedDescription>&lt;p>&#xD;
+    Run tests against the individual implementation elements to verify that their internal structures work as specified.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ktmYImDLY6OmnX8hMi0MGQ" name="software_developer,_jevfsUTCEei8NvIaNnYqRg" guid="-ktmYImDLY6OmnX8hMi0MGQ">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-c9eaa07d-8c21-fe7e-17ec-8cab2c785b12&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Developer is responsible for developing a part of the system, including designing it to fit into the architecture,&#xD;
+possibly prototyping the user interface, and then implementing, unit-testing, and integrating the components that are part&#xD;
+of the solution.&lt;/span>&lt;/b></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-0KlMAckNO09W0xLWVYyG0A" name="design_document,_je5Qs0TCEei8NvIaNnYqRg" guid="-0KlMAckNO09W0xLWVYyG0A">
+    <refinedDescription>A&amp;nbsp;written description of a software product, that a software designer writes in order to give a software development&#xD;
+team overall guidance to the architecture of the software project.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-RjPwqwsvjiC3R_mvORzPJw" name="backout_plan,_je5QtkTCEei8NvIaNnYqRg" guid="-RjPwqwsvjiC3R_mvORzPJw">
+    <refinedDescription>&lt;p>&#xD;
+    A backout plan adheres to an action list created prior to software or system integration. This list includes detailed&#xD;
+    steps and techniques for uninstalling or deintegrating a new system, as well reversing process changes. [1]&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] Techopedia.com. (2018). What is a Backout Plan? - Definition from Techopedia. [online] Available at:&#xD;
+    https://www.techopedia.com/definition/6119/backout-plan [Accessed 18 Apr. 2018].&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

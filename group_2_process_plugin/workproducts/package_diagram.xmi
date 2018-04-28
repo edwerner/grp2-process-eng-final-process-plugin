@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sDTRsmCJXVffgm0EQLMrKQ" name="package_diagram,_VOsf4DteEeiOSvawQAsHpQ" guid="-sDTRsmCJXVffgm0EQLMrKQ">
+  <mainDescription>&lt;p>&#xD;
+    A package diagram, a kind of structural diagram, shows the arrangement and organization of model elements in middle to&#xD;
+    large scale project. Package diagram can show both structure and dependencies between sub-systems or modules, showing&#xD;
+    different views of a system, for example, as multi-layered (aka multi-tiered) application - multi-layered application&#xD;
+    mode [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] Visual-paradigm.com. (2018). What is Package Diagram?. [online] Available at:&#xD;
+    https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-package-diagram/ [Accessed 21 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <purpose>To show structure of the designed system at the level of packages.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

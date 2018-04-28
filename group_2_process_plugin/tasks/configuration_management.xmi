@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-V703CDjoUvDwAT8wcltqig" name=",_hWhfoEfbEeiIxoFTotST_w" guid="-V703CDjoUvDwAT8wcltqig" changeDate="2018-04-25T11:01:02.725-0400">
+  <mainDescription>Software configuration management (SCM) is a software engineering discipline consisting of standard processes and&#xD;
+techniques often used by organizations to manage the changes introduced to its software product</mainDescription>
+  <sections xmi:id="_9lgd4EfbEeiIxoFTotST_w" name="Create branch" guid="_9lgd4EfbEeiIxoFTotST_w"/>
+  <sections xmi:id="__DEBAEfbEeiIxoFTotST_w" name="Merge feature branch" guid="__DEBAEfbEeiIxoFTotST_w"/>
+  <purpose>To define Identifying configurations, configuration items and baselines and&amp;nbsp;a&amp;nbsp;implementation for a controlled&#xD;
+change process, managing the process and tools used for builds.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

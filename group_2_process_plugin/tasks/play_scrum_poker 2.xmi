@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IP1YXS_dbXOhz43W6gwSlQ" name=",_MSA40D0LEeiKM62w0dstsA" guid="-IP1YXS_dbXOhz43W6gwSlQ" changeDate="2018-04-10T18:06:06.332-0400">
+  <mainDescription>Scrum poker is a consensus-based, gamified technique for estimating, mostly used to estimate effort or relative size of&#xD;
+development goals in software development.</mainDescription>
+  <purpose>To collaborate and reach concensus to while assigning difficulty and assessing risk for tasks during a development sprint.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

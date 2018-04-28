@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PEOxdopgIJn83v7PyxQsVg" name="new_checklist,_7BZa0DIdEduDTv4Y1akVTA" guid="-PEOxdopgIJn83v7PyxQsVg" changeDate="2018-04-07T03:52:00.851-0400" version="1">
+  <sections xmi:id="_aH260zo4Eeio1uOqRCV_Hw" name="Have all potential risks to the project been identified?" guid="_aH260zo4Eeio1uOqRCV_Hw">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Have you involved the team and stakeholders in risk identification?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Have you made sure that several categories were considered (technical, project management, organizational, and&#xD;
+        external)?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    List all potential risks, giving a description and type (direct or indirect)&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_aH261Do4Eeio1uOqRCV_Hw" name="Have all risks been described without ambiguity?" guid="_aH261Do4Eeio1uOqRCV_Hw">
+    <sectionDescription>Is each risk described in a clear and concise way?</sectionDescription>
+  </sections>
+  <sections xmi:id="_aH260jo4Eeio1uOqRCV_Hw" name="Have all major risks been evaluated?" guid="_aH260jo4Eeio1uOqRCV_Hw">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Has the team assessed the order of magnitude of&amp;nbsp; each risk (probability x impact)?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Have the risks been sorted according to their magnitude? This&amp;nbsp;allows you to address the higher-magnitude risks&#xD;
+        early in the project.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Has a response strategy been chosen for higher-magnitude risks?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_aH260To4Eeio1uOqRCV_Hw" name="Are there interdependencies between risks?" guid="_aH260To4Eeio1uOqRCV_Hw">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial&quot;>Make sure that you establish interdependencies between risks as&#xD;
+appropriate. For example, the consequence of a risk happening may raise the probability of another risk happening or raise&#xD;
+the impact that another risk could have on the project. If risks depend on each other, you may need a response strategy to&#xD;
+mitigate&amp;nbsp;all interdependent risks&amp;nbsp;at the same time, or you may need revisit the risk list to update the magnitude&#xD;
+of dependent risks.&lt;/span></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

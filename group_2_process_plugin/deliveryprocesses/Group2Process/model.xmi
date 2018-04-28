@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_YvX_MDKIEeicN8Zvo366ZQ" guid="_YvX_MDKIEeicN8Zvo366ZQ">
+    <resourceDescriptors xmi:id="_YvX_MTKIEeicN8Zvo366ZQ" id="-tqGXqcUu5Pc6gmQu36fohw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_YuE-sDKIEeicN8Zvo366ZQ" name="Group2Process" guid="_YuE-sDKIEeicN8Zvo366ZQ">
+    <methodElementProperty xmi:id="_YuE-sjKIEeicN8Zvo366ZQ" name="pkg_loadCheck" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_YuE-sTKIEeicN8Zvo366ZQ" name="Group2Process" guid="_YuE-sTKIEeicN8Zvo366ZQ" presentationName="Group2Process">
+      <presentation xmi:id="-tqGXqcUu5Pc6gmQu36fohw" href="uma://-tqGXqcUu5Pc6gmQu36fohw#-tqGXqcUu5Pc6gmQu36fohw"/>
+      <defaultContext href="uma://_qdEXsDKCEeicN8Zvo366ZQ#_1NcKADKCEeicN8Zvo366ZQ"/>
+      <validContext href="uma://_qdEXsDKCEeicN8Zvo366ZQ#_1NcKADKCEeicN8Zvo366ZQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

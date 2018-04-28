@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BkwwCbcsqfd_CqBuXZpifQ" name=",_qN2CcEfXEeiIxoFTotST_w" guid="-BkwwCbcsqfd_CqBuXZpifQ" changeDate="2018-04-26T00:58:32.888-0400">
+  <mainDescription>&lt;p>&#xD;
+    Acceptance criteria are a formal list that fully enumerates user requirements and all the product scenarios put into&#xD;
+    the account.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Acceptance criteria plainly describe conditions under which the user requirements are desired, thus getting rid of any&#xD;
+    uncertainty of the client’s expectations and misunderstandings.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Acceptance criteria state the intent of the client and not the solution; it is up to the team to understand them and&#xD;
+    ask for clarification where it’s complex and find the solution.&#xD;
+&lt;/p></mainDescription>
+  <purpose>To help to properly set a client’s expectations for a product.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

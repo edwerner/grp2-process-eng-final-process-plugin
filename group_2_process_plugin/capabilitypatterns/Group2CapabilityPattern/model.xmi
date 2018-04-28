@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_RbpS4DKIEeicN8Zvo366ZQ" guid="_RbpS4DKIEeicN8Zvo366ZQ">
+    <resourceDescriptors xmi:id="_RbpS4TKIEeicN8Zvo366ZQ" id="-0FoXOQ4dIWxi76ZhtSbZKA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_RaHB0DKIEeicN8Zvo366ZQ" name="Group2CapabilityPattern" guid="_RaHB0DKIEeicN8Zvo366ZQ">
+    <methodElementProperty xmi:id="_RaHB0jKIEeicN8Zvo366ZQ" name="pkg_loadCheck" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_RaHB0TKIEeicN8Zvo366ZQ" name="Group2CapabilityPattern" guid="_RaHB0TKIEeicN8Zvo366ZQ" presentationName="Group2CapabilityPattern">
+      <presentation xmi:id="-0FoXOQ4dIWxi76ZhtSbZKA" href="uma://-0FoXOQ4dIWxi76ZhtSbZKA#-0FoXOQ4dIWxi76ZhtSbZKA"/>
+      <defaultContext href="uma://_qdEXsDKCEeicN8Zvo366ZQ#_1NcKADKCEeicN8Zvo366ZQ"/>
+      <validContext href="uma://_qdEXsDKCEeicN8Zvo366ZQ#_1NcKADKCEeicN8Zvo366ZQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

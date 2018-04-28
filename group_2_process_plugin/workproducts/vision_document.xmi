@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tBWUnNMsPvz2EE9H_t3FRw" name="vision_document,_gpvdgDaVEeizzccWWzGJvA" guid="-tBWUnNMsPvz2EE9H_t3FRw" changeDate="2018-04-21T14:14:54.940-0400">
+  <mainDescription>&lt;p>&#xD;
+    A Vision Document is a document that describes a compelling idea or values or future state for a particular&#xD;
+    organization, product or service. It defines the stakeholders view of the product/service to be developed, specified in&#xD;
+    terms of the stakeholders key needs and features [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This vision document provides an overview of the entire software vision. It includes the purpose, scope, definitions,&#xD;
+    acronyms, abbreviations, references, and an overview of the full document. Artifact defines stakeholders' view of&#xD;
+    technical solution to be completed which includes key needs and features of stakeholders as well as the core&#xD;
+    requirements for the system.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). Vision document. [online] Available at: https://en.wikipedia.org/wiki/Vision_document&#xD;
+    [Accessed 21 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Defines the high-level scope and purpose of a program, product, or project. Artifact &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    provides a high-level basis for more detailed technical requirements.&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

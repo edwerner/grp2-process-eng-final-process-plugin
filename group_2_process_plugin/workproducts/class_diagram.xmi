@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hV2jbGeY14lDMJGsTNOcsg" name="class_diagram,_LAgNkDteEeiOSvawQAsHpQ" guid="-hV2jbGeY14lDMJGsTNOcsg">
+  <mainDescription>&lt;p>&#xD;
+    A&amp;nbsp;class diagram in the Unified Modeling Language (UML) is a type of static structure diagram that describes the&#xD;
+    structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships&#xD;
+    among objects. [1]&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1]&amp;nbsp;&amp;nbsp;En.wikipedia.org. (2018). Class diagram. [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Class_diagram [Accessed 18 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <purpose>Describes the structure ot a software&amp;nbsp;system.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WRZSozH_VGA3GEzNW2n06A" name="plan_iteration,_0keUEMlgEdmt3adZL5Dmdw" guid="-WRZSozH_VGA3GEzNW2n06A" changeDate="2018-04-07T15:29:11.794-0400" version="1">
+  <mainDescription>&lt;p>&#xD;
+    During project planning, iterations are identified, but the estimates have an acceptable uncertainty due to the lack of&#xD;
+    detail at the project inception. This task is repeated for each iteration within a release. It allows the team to&#xD;
+    increase the accuracy of the estimates for one iteration, as more detail is known along the project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ensure that the team commits to a reasonable amount of work for the iteration, based on team performance from previous&#xD;
+    iterations.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_zr3CdTqZEeiTSbnYMpdisw" name="Prioritize Work Items List" guid="_zr3CdTqZEeiTSbnYMpdisw"/>
+  <sections xmi:id="_zr3CdDqZEeiTSbnYMpdisw" name="Define iteration objectives" guid="_zr3CdDqZEeiTSbnYMpdisw"/>
+  <sections xmi:id="_zr3CdjqZEeiTSbnYMpdisw" name="Identify and review risks" guid="_zr3CdjqZEeiTSbnYMpdisw"/>
+  <sections xmi:id="_zr3CczqZEeiTSbnYMpdisw" name="Commit work to the iteration" guid="_zr3CczqZEeiTSbnYMpdisw"/>
+  <sections xmi:id="_zr3CcTqZEeiTSbnYMpdisw" name="Define evaluation criteria" guid="_zr3CcTqZEeiTSbnYMpdisw"/>
+  <sections xmi:id="_zr3CcjqZEeiTSbnYMpdisw" name="Refine project definition and scope" guid="_zr3CcjqZEeiTSbnYMpdisw"/>
+  <purpose>&lt;p>&#xD;
+    The purpose of this task is to identify the next increment of system capability, and create a fine-grained plan for&#xD;
+    achieving that capability within a single iteration.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

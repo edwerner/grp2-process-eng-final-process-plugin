@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bKR-oimKReyN2P1iBwmhnA" name="implement_developer_tests,_HT-Z8DdXEeiBBoDLVvOxsQ" guid="-bKR-oimKReyN2P1iBwmhnA" changeDate="2018-04-17T17:37:38.293-0400">
+  <mainDescription>Unit testing is a software testing method by which individual units of source code, sets of one or more computer program&#xD;
+modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether&#xD;
+they are fit for use.</mainDescription>
+  <purpose>To test source code to determine whether features are fit for use.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

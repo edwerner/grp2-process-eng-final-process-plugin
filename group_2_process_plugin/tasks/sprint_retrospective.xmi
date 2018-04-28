@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0T3OAF-9hMm2qcwggpsPow" name=",_0W8C8DqdEeiTSbnYMpdisw" guid="-0T3OAF-9hMm2qcwggpsPow" changeDate="2018-04-07T15:57:56.629-0400">
+  <mainDescription>&lt;p>&#xD;
+    The Sprint Retrospective is an opportunity for the team to discuss what's working and what's not working, and agree on&#xD;
+    changes to try. One approach taken is that the whole team gathers and discusses what they’d like to&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Start doing&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stop doing&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Continue doing&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <keyConsiderations>The Scrum Team, the Product Owner, and the ScrumMaster will all attend, and a neutral outsider will facilitate the meeting.</keyConsiderations>
+  <purpose>The Sprint Retrospective is the main mechanism for taking the visibility that Scrum provides into areas of potential&#xD;
+improvement, and turning it into results.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

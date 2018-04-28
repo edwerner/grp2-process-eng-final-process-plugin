@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-S32UIXE1KGHTLl8Sk6TVvw" name="design_solution,_zTqeoDaYEeizzccWWzGJvA" guid="-S32UIXE1KGHTLl8Sk6TVvw" changeDate="2018-04-08T14:08:27.052-0400">
+  <mainDescription>&lt;p>&#xD;
+    Data design&amp;nbsp;describes structures that reside within the software. Architecture design&amp;nbsp;uses information&#xD;
+    flowing characteristics, and maps them into the program structure. Interface design&amp;nbsp;describes internal and&#xD;
+    external program interfaces, as well as the design of human interface. Procedural design&amp;nbsp;describes structured&#xD;
+    programming concepts using graphical, tabular and textual notations.&lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>Data design, architecture design, interface design, procedural design</keyConsiderations>
+  <sections xmi:id="_8uGmUDtaEeiOSvawQAsHpQ" name="Create conceptual design" guid="_8uGmUDtaEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_M7OAEDtZEeiOSvawQAsHpQ" name="Create domain model" guid="_M7OAEDtZEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_sbeP4DtbEeiOSvawQAsHpQ" name="Create class diagram" guid="_sbeP4DtbEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_w9oMcDtbEeiOSvawQAsHpQ" name="Create state diagram" guid="_w9oMcDtbEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_3PGKgDtbEeiOSvawQAsHpQ" name="Create package diagram" guid="_3PGKgDtbEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_Q2hYADtZEeiOSvawQAsHpQ" name="Create system sequence diagrams" guid="_Q2hYADtZEeiOSvawQAsHpQ"/>
+  <purpose>Provides a process to conceptualize the software requirements into software implementation by taking into consideration&#xD;
+user requirements and devising an optimal solution.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

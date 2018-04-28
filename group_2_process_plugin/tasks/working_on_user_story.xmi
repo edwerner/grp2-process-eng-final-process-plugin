@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-J_kPIRr75ejbTJXURxhu1Q" name="working_on_user_story,_baiRgETqEeia4465Ins-PQ" guid="-J_kPIRr75ejbTJXURxhu1Q" changeDate="2018-04-26T01:22:51.684-0400">
+  <mainDescription>&lt;p>&#xD;
+    Working on a user story is an Activity which consists of sub tasks like design, implementation, testing and&#xD;
+    configuration management of a part of a feature.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    To design and implement the solution to a part of a feature of the applciation.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

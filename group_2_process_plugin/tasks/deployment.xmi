@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HDIsap9eMvd7S704J2OBpQ" name="deployment,_qfM7YEfbEeiIxoFTotST_w" guid="-HDIsap9eMvd7S704J2OBpQ" changeDate="2018-04-25T11:18:12.572-0400">
+  <mainDescription>&lt;p>&#xD;
+    Software deployment includes certain activities that make a software system avaliable including&#xD;
+    release,&amp;nbsp;installation and activation, deactivation, uninstallation, update and version tracking.&#xD;
+&lt;/p></mainDescription>
+  <purpose>To take steps in order to make a software system available for use or to activate, update or uninstall.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

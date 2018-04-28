@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-08B8QpGL13ANmsZkYj9E9w" name="architect,_WAnIUDKHEeicN8Zvo366ZQ" guid="-08B8QpGL13ANmsZkYj9E9w" authors="Edward Werner" changeDate="2018-04-08T10:45:05.451-0400">
+  <mainDescription>&lt;p>&#xD;
+    The Architect is responsible for defining the software architecture, which includes making the key technical decisions&#xD;
+    that constrain the overall design and implementation of the system.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

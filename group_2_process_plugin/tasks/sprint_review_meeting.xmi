@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oNrnEMynOBTBye5Z-XWPug" name=",_FBf7wDqeEeiTSbnYMpdisw" guid="-oNrnEMynOBTBye5Z-XWPug" changeDate="2018-04-20T16:36:13.034-0400">
+  <mainDescription>&lt;p>&#xD;
+    At the end of each sprint a sprint review meeting is held. During this meeting the Scrum team shows what they&#xD;
+    accomplished during the sprint. Typically this takes the form of a demo of the new features.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Participants in the sprint review typically include the Product Owner, the Scrum team, the ScrumMaster, management,&#xD;
+    customers, and engineers from other projects.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    During the sprint review the project is assessed against the sprint goal determined during the Sprint planning meeting.&#xD;
+    Ideally the team has completed each product backlog item brought into the sprint, but it is more important that they&#xD;
+    achieve the overall goal of the sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &amp;lt;assess iteration desc&amp;gt;&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    An iteration assessment is a short meeting (up to 4 hours) involving the team and stakeholders.&amp;nbsp;The solution&#xD;
+    increment is used as the focal point for brainstorming, and&amp;nbsp;for considering what functionality might be added in&#xD;
+    the next Iteration. It is a low ceremony meeting, so the team should not waste too much time preparing the demo and&#xD;
+    formal presentations. Preparations can, instead, be focused on making the demo fast-paced, and thinking about a good&#xD;
+    story to present the scenarios planned for the demo.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    [1]&amp;nbsp;&lt;/span>&amp;nbsp;Epf.eclipse.org. (2018). Guideline: Iteration Assessment. [online] Available at:&#xD;
+    http://epf.eclipse.org/wikis/openup/practice.mgmt.iterative_dev.base/guidances/guidelines/iteration_assessment_E27E9DDE.html&#xD;
+    [Accessed 18 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>The sprint review meeting is intentionally kept very informal, typically with rules forbidding the use of PowerPoint slides&#xD;
+and allowing no more than two hours of preparation time for the meeting. A sprint review meeting should not become a&#xD;
+distraction or significant detour for the team; rather, it should be a natural result of the sprint.</keyConsiderations>
+  <purpose>For the Scrum team to show what they accomplished during the sprint, often involving a demo of the new features.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SJDU8CnjQAWBpKCk1_v8vg" name="run_developer_tests,_aAzlIDdaEeiBBoDLVvOxsQ" guid="-SJDU8CnjQAWBpKCk1_v8vg" changeDate="2018-04-17T17:50:13.461-0400">
+  <mainDescription>Requirements are turned into specific test cases, then the software is improved&amp;nbsp;after&amp;nbsp;writing&amp;nbsp;the new tests.</mainDescription>
+  <purpose>To construct a test development cycle where requirements are turned into very specific test cases.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

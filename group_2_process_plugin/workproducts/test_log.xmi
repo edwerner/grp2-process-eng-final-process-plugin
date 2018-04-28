@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-srVFO23P0r4E9xFxhrvEag" name="test_log,_idQNADdaEeiBBoDLVvOxsQ" guid="-srVFO23P0r4E9xFxhrvEag" changeDate="2018-04-21T14:04:38.662-0400">
+  <mainDescription>A log of the basics of the unit&amp;nbsp;testing process itself, including test files used, specific test steps as they are&#xD;
+performed, and any output messages or flags, with timestamps for each of these items.</mainDescription>
+  <purpose>To provide a documentation of the unit&amp;nbsp;testing process.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

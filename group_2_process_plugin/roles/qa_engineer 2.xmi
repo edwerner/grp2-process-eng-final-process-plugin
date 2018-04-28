@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dA3DjiJJgqS3N7XTvqAOHg" name="qa_engineer,_SL3XUDaYEeizzccWWzGJvA" guid="-dA3DjiJJgqS3N7XTvqAOHg" changeDate="2018-04-27T15:27:47.845-0400">
+  <mainDescription>&lt;p>&#xD;
+    A software quality assurance engineer is someone who monitors every phase of the software development process so as to&#xD;
+    ensure design quality, making sure that the software adheres to the standards set by the development company. Software&#xD;
+    quality assurance engineers make sure that new products work before they are released to the public [1]. QA engineers&#xD;
+    also perform regression testing to make sure that the addition of new features does not break any existing&#xD;
+    functionality.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1]&amp;nbsp;&amp;nbsp;Sokanu.com. (2018). Software Quality Assurance Engineer. [online] Available at:&#xD;
+    https://www.sokanu.com/careers/software-quality-assurance-engineer/#what-is-a-software-quality-assurance-engineer&#xD;
+    [Accessed 27 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

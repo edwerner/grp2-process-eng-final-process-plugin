@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YI-h7sUftRPEpuRW5YdbNQ" name=",_5wuMYEfVEeiIxoFTotST_w" guid="-YI-h7sUftRPEpuRW5YdbNQ">
+  <mainDescription>A domain model is a system of abstractions that describes selected aspects of a sphere of knowledge, influence or activity&#xD;
+(a domain).</mainDescription>
+  <purpose>Describes selected aspects of a sphere of knowledge, influence or activity (domain).</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1-rWeQLZ3uBr4Nvpb783IA" name="backlog_refinement,_oJRDYETpEeia4465Ins-PQ" guid="-1-rWeQLZ3uBr4Nvpb783IA" changeDate="2018-04-21T10:40:50.693-0400">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>Product backlog refinement is the process through which product backlog&#xD;
+    items are reviewed by the Scrum team and revised, providing more detail and ensuring that there is greater clarity in&#xD;
+    the requirements for that item [1].&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] Scrumalliance.org. (2018). Scrum Alliance - Member Articles. [online] Available at:&#xD;
+    https://www.scrumalliance.org/community/articles/2014/october/product-backlog-refinement [Accessed 21 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <purpose>To ensure the backlog is organized and prioritzed.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

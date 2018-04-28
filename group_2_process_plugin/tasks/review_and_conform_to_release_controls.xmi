@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Lb_UXJpWlfjtZhAkNm8jOw" name="review_and_conform_to_release_controls,_x4Y6wDdZEeiBBoDLVvOxsQ" guid="-Lb_UXJpWlfjtZhAkNm8jOw" changeDate="2018-04-17T17:45:51.380-0400">
+  <mainDescription>Release management is the process of managing, planning, scheduling and controlling a software build through different&#xD;
+stages and environments; including testing and deploying software releases.</mainDescription>
+  <purpose>To conform to delivery process by fulfilling software requirements before migrating source code in a production&#xD;
+environment.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

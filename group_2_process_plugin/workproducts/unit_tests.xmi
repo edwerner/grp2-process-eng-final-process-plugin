@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--c_7dnO69dJ2u224MoMjXA" name="unit_tests,_OR7qkDdXEeiBBoDLVvOxsQ" guid="--c_7dnO69dJ2u224MoMjXA" changeDate="2018-04-21T14:06:37.654-0400">
+  <mainDescription>&lt;p>&#xD;
+    Unit testing is a software testing method by which individual units of source code, sets of one or more computer&#xD;
+    program modules together with associated control data, usage procedures, and operating procedures, are tested to&#xD;
+    determine whether they are fit for use [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). Unit testing. [online] Available at: https://en.wikipedia.org/wiki/Unit_testing [Accessed&#xD;
+    21 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <purpose>To provide tests for the smallest testable parts of an application.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

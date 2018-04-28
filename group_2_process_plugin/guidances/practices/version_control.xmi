@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2NTsCGKV7F_k_uCNOdcDnw" name="new_practice,_hQ4i8EpSEeigtMLlYdlLWg" guid="-2NTsCGKV7F_k_uCNOdcDnw" changeDate="2018-04-27T15:52:59.245-0400">
+  <mainDescription>&lt;p>&#xD;
+    Version control (also known as revision control or source control) is a category of processes and tools designed to&#xD;
+    keep track of multiple different versions of software, content, documents, websites and other information in&#xD;
+    development [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] WhatIs.com. (2018). What is version control? - Definition from WhatIs.com. [online] Available at:&#xD;
+    https://whatis.techtarget.com/definition/version-control [Accessed 27 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:PracticeDescription>

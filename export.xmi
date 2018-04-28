@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI epf:version="1.5.1" xmi:version="2.0" xmlns:epf="http://www.eclipse.org/epf" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:xmi="http://www.omg.org/XMI">
+<org.eclipse.epf.uma.resourcemanager:ResourceManager guid="_TP6fkUpzEeisRamC_torBQ" xmi:id="_TP6fkUpzEeisRamC_torBQ">
+<subManagers href="uma://_S1BS4DKDEeicN8Zvo366ZQ#_S1EWMDKDEeicN8Zvo366ZQ" xmi:id="_S1EWMDKDEeicN8Zvo366ZQ">
+</subManagers>
+<resourceDescriptors id="_TP6fkEpzEeisRamC_torBQ" uri="" xmi:id="_TP6fkkpzEeisRamC_torBQ">
+</resourceDescriptors>
+<resourceDescriptors id="_S1BS4DKDEeicN8Zvo366ZQ" uri="group_2_process_plugin/plugin.xmi" xmi:id="_XdxAEEpzEeisRamC_torBQ">
+</resourceDescriptors>
+</org.eclipse.epf.uma.resourcemanager:ResourceManager>
+<org.eclipse.epf.uma:MethodLibrary guid="_TP6fkEpzEeisRamC_torBQ" name="Library6" xmi:id="_TP6fkEpzEeisRamC_torBQ">
+<methodElementProperty name="library_synFree" value="true" xmi:id="_TToh8EpzEeisRamC_torBQ">
+</methodElementProperty>
+<methodPlugins href="uma://_S1BS4DKDEeicN8Zvo366ZQ#_S1BS4DKDEeicN8Zvo366ZQ" xmi:id="_S1BS4DKDEeicN8Zvo366ZQ">
+</methodPlugins>
+<methodElementProperty value="0">
+</methodElementProperty>
+<methodElementProperty value="_S1BS4DKDEeicN8Zvo366ZQ">
+</methodElementProperty>
+<methodElementProperty value="group_2_process_plugin">
+</methodElementProperty>
+</org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

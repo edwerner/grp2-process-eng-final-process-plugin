@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kVgF0UDkdb-56tTqCUsmxw" name="install_and_validate_architecture._1,_1diHYDdXEeiBBoDLVvOxsQ" guid="-kVgF0UDkdb-56tTqCUsmxw" changeDate="2018-04-08T16:28:29.861-0400">
+  <mainDescription>&lt;p>&#xD;
+    Software validation checks that the software product satisfies or fits the intended use (high-level checking), i.e.,&#xD;
+    the software meets the user requirements, not as specification artifacts or as needs of those who will operate the&#xD;
+    software only; but, as the needs of all the stakeholders (such as users, operators, administrators, managers,&#xD;
+    investors, etc.) [1]. First, the architect must validate the prioritized design goals against the stakeholder 's&#xD;
+    expectations. Next, we need to validate the architectural decisions in meeting the non-functional requirements against&#xD;
+    the stakeholder's expectations [2].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>References&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] En.wikipedia.org. (2018). Software verification and validation. [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Software_verification_and_validation [Accessed 8 Apr. 2018].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [2] Michael, J., Riehle, R. and Shing, M. (2018). RIT Libraries: Off Campus Log-In to Library Resources. [online]&#xD;
+    Ieeexplore.ieee.org.ezproxy.rit.edu. Available at: http://ieeexplore.ieee.org.ezproxy.rit.edu/document/5282319/&#xD;
+    [Accessed 8 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_1TqI0DtsEeiOSvawQAsHpQ" name="Validate the architectural decisions" guid="_1TqI0DtsEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_tAHI0DttEeiOSvawQAsHpQ" name="Identify &quot;fault-line&quot; (point of stress in architecture) model for architectural verification" guid="_tAHI0DttEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_wjGj4DtsEeiOSvawQAsHpQ" name="Validate prioritized design goals against the stakeholder's expectations" guid="_wjGj4DtsEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_BKd-wDttEeiOSvawQAsHpQ" name="Verify meeting of non-functional requirements against stakeholder's expectations" guid="_BKd-wDttEeiOSvawQAsHpQ"/>
+  <purpose>To make sure if software meets the set of top-level requirements that are architecturally significant to stakeholders.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SzbTZSM3rNM3fTiR65XErw" name=",_t3Y7cDszEeiOSvawQAsHpQ" guid="-SzbTZSM3rNM3fTiR65XErw" changeDate="2018-04-10T17:49:51.113-0400">
+  <mainDescription>&lt;p>&#xD;
+    Initial architecture modeling is particularly important for scaling agile software development techniques to large,&#xD;
+    complex, or globally distributed development (GDD) efforts [1].&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+[1] Agilemodeling.com. (2018). Architecture Envisioning: An Agile Best Practice. [online] Available at: &lt;a&#xD;
+href=&quot;http://agilemodeling.com/essays/initialArchitectureModeling.htm&quot;>http://agilemodeling.com/essays/initialArchitectureModeling.htm&lt;/a>&#xD;
+[Accessed 10 Apr. 2018].&lt;br /></mainDescription>
+  <sections xmi:id="_IJ6XkDs1EeiOSvawQAsHpQ" name="Identify significant requirements" guid="_IJ6XkDs1EeiOSvawQAsHpQ">
+    <sectionDescription>Identify key functional and non-functional requirements with a significant impact on the architecture</sectionDescription>
+  </sections>
+  <sections xmi:id="__o4DcDtcEeiOSvawQAsHpQ" name="Define component-based functionality (separation of concerns)" guid="__o4DcDtcEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_dc9XQDtdEeiOSvawQAsHpQ" name="Define technical considerations" guid="_dc9XQDtdEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_s7vZcDtdEeiOSvawQAsHpQ" name="Define product" guid="_s7vZcDtdEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_if7pEDs1EeiOSvawQAsHpQ" name="Define candidate architecture" guid="_if7pEDs1EeiOSvawQAsHpQ"/>
+  <sections xmi:id="_kqn_ADs1EeiOSvawQAsHpQ" name="Define initial deployment model" guid="_kqn_ADs1EeiOSvawQAsHpQ">
+    <sectionDescription>Defines the topology representing the deployment nodes of the system</sectionDescription>
+  </sections>
+  <purpose>Defines key architectural elements to contribute to&amp;nbsp;improved productivity, reduced technical risk, improved&#xD;
+communication, scalability and improved team organization.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

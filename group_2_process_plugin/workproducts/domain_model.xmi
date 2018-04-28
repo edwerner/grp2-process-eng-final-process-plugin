@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CH4SkRw_IIRBh9wtAk6muw" name="new_artifact,_Rz1s8Ds6EeiOSvawQAsHpQ" guid="-CH4SkRw_IIRBh9wtAk6muw" changeDate="2018-04-08T10:40:15.409-0400">
+  <mainDescription>A domain model helps the development team understand key business entities and relationships, and the architect can derive&#xD;
+information from functional requirements, user stories or processes.</mainDescription>
+  <purpose>Helps the development team understand the key business entities and their relationships.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

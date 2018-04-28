@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zlWKuPTpjl1HG8FVDU9STQ" name=",_jn3RgEM4EeiNHppt5DLcYA" guid="-zlWKuPTpjl1HG8FVDU9STQ" changeDate="2018-04-18T14:45:55.764-0400">
+  <mainDescription>&lt;p>&#xD;
+    On each day of a development sprint, the team holds a daily scrum meeting called the &quot;daily scrum.” Meetings are&#xD;
+    typically held in the same location and at the same time each day. Ideally, a daily scrum meeting is held in the&#xD;
+    morning, as it helps set the context for the coming day's work. These scrum meetings are strictly time-boxed to 15&#xD;
+    minutes. This keeps the discussion brisk but relevant. [1]&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] Cohn, M. (2018). The Daily Scrum Meeting. [online] Mountain Goat Software. Available at:&#xD;
+    https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum [Accessed 18 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_LmUuoEM5EeiNHppt5DLcYA" name="Announce work completed the day before" guid="_LmUuoEM5EeiNHppt5DLcYA"/>
+  <sections xmi:id="_N0_loEM5EeiNHppt5DLcYA" name="Announce what you will work on today" guid="_N0_loEM5EeiNHppt5DLcYA"/>
+  <sections xmi:id="_QAGyUEM5EeiNHppt5DLcYA" name="Announce any impediments to getting work done i.e. &quot;blockers&quot;" guid="_QAGyUEM5EeiNHppt5DLcYA"/>
+  <purpose>Individual team members announce work completed the day before, what they will work on today as well as any impediments to&#xD;
+getting their work done i.e.&quot;blockers.&quot;</purpose>
+</org.eclipse.epf.uma:TaskDescription>

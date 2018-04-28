@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hjJxtEZSsoxO-NP1r56KKg" name=",_3_CTsEfSEeiIxoFTotST_w" guid="-hjJxtEZSsoxO-NP1r56KKg">
+  <mainDescription>&lt;p>&#xD;
+    Proposal of software architecture refers to suggesting the high level structures of a software system, the discipline&#xD;
+    of creating such structures, and the documentation of these structures [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    {1]&amp;nbsp;En.wikipedia.org. (2018). Software architecture. [online] Available at:&#xD;
+    https://en.wikipedia.org/wiki/Software_architecture [Accessed 25 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <purpose>Provides formal description and representation of a system, organized in a way that supports reasoning about the structures&#xD;
+and behaviors of the system.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

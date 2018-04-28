@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ej-DgoTWltcMlgz8IFL8Ew" name="new_concept,_qVJekDtFEeiOSvawQAsHpQ" guid="-Ej-DgoTWltcMlgz8IFL8Ew">
+  <mainDescription>&lt;h3>&#xD;
+    Iteration Definition&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Planned, time-boxed intervals typically measured in weeks.On each iteration is produced a&amp;nbsp;stable, executable&#xD;
+    version of the product with its supporting documentation. Each iteration builds upon the results of previous iteration,&#xD;
+    and will produce a product increment one step closer to the final product&#xD;
+&lt;/p>&#xD;
+Each iteration should address the most critical risks, and implement the highest-priority work items. This ensures that&#xD;
+each iteration adds maximum stakeholder value, while reducing uncertainty. &#xD;
+&lt;h3>&#xD;
+    Importance iterating:&#xD;
+&lt;/h3>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        It allows to get early feedback from stakeholders&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Increases the probability of discovering risk early on.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The integration effort is divided at accross the project duration and is one big work at the end of the project&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The software development taks can be fine tuned.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h3>&#xD;
+    Iteration lengh&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Typically 4 weeks long.&amp;nbsp; For RIT's swen-610 course in spring 2017 was 2 weeks long.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

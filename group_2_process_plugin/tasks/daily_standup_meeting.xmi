@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4vqDd6Qd66LFd2jFfFgBYQ" name=",_ctiTQDqeEeiTSbnYMpdisw" guid="-4vqDd6Qd66LFd2jFfFgBYQ" changeDate="2018-04-07T16:02:39.077-0400">
+  <mainDescription>&lt;p>&#xD;
+    On each day of a sprint, the team holds daily meetings (“the daily scrum”). Meetings are typically held in the same&#xD;
+    location and at the same time each day. Ideally the daily scrums are held in the morning as they help set the context&#xD;
+    for the coming day's work.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    All team members are required to attend the daily scrum. Anyone else (for example, a departmental VP, a salesperson, or&#xD;
+    a developer from another project) is allowed to attend but is there only to listen. This makes the daily scrums an&#xD;
+    excellent way for a Scrum team to disseminate status information--if you're interested in hearing where things are at,&#xD;
+    attend that day's meeting. The daily scrum is not used as a problem-solving or issue resolution meeting. Issues that&#xD;
+    are raised are taken offline and usually dealt with by the relevant sub-group immediately after the daily scrum. During&#xD;
+    the daily scrum each team member provides answers to the following three questions:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        What did you do yesterday?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        What will you do today?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are there any impediments in your way?&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    By focusing on what each person accomplished yesterday and will accomplish today the team gains an excellent&#xD;
+    understanding of what work has been done and what work remains. The daily scrum is not a status update meeting in which&#xD;
+    a boss is collecting information about who is behind schedule. Rather, it is a meeting in which team members make&#xD;
+    commitments to each other. If a programmer stands up and says &quot;Today I will finish the data storage module&quot; everyone&#xD;
+    knows that in tomorrow's meeting he will say whether or not he did finish. This has the wonderful effect of helping a&#xD;
+    team realize the significance of these commitments and that their commitments are to each other, not to some far-off&#xD;
+    customer or salesman.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In cases where the ScrumMaster cannot remove these impediments directly himself (e.g., usually the more technical&#xD;
+    issues) he still takes responsibility for making sure someone on the team does quickly resolve the issue.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;font color=&quot;#000000&quot;>&lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>To gain u&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-WEIGHT: normal&quot;>nderstanding of what work has been done and what work&#xD;
+remains.&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

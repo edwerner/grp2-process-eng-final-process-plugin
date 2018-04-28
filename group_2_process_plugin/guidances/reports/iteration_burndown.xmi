@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OkvPRpOy7RBREU6FRta4Ug" name="iteration_burndown,_uAzgkDg3Edu4E8ZdmlYjtA" guid="-OkvPRpOy7RBREU6FRta4Ug" changeDate="2018-04-07T04:16:36.138-0400" changeDescription="&#x9;" version="1">
+  <mainDescription>&lt;p>&#xD;
+    The iteration burndown report is the primary tool for understanding the status of the current iteration. It shows the&#xD;
+    trend for how much work is left to do within the iteration. This is accomplished by adding the estimated effort left&#xD;
+    for each of the work items to be addressed within the iteration, and showing how the estimated effort is changing over&#xD;
+    the duration of the iteration. The iteration backlog should be updated frequently, preferably daily.&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lFh2ErfZsBXwGqOr9_5paw" name="working_on_spike,_W27jcETqEeia4465Ins-PQ" guid="-lFh2ErfZsBXwGqOr9_5paw" changeDate="2018-04-21T11:18:15.453-0400">
+  <mainDescription>A spike is a story that cannot be estimated until a development team runs a timeboxed investigation involving activities&#xD;
+such as research, design, investigation, exploration, and prototyping.</mainDescription>
+  <purpose>&lt;p>&#xD;
+    To gain the knowledge necessary to reduce the risk of a technical approach, better understand a requirement, or&#xD;
+    increase the reliability of a story estimate.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

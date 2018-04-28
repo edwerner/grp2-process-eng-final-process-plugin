@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-g-8FNf-Z2EP7znXajPvYVg" name="package_the_release,_dBbS8DdZEeiBBoDLVvOxsQ" guid="-g-8FNf-Z2EP7znXajPvYVg" changeDate="2018-04-10T18:23:53.802-0400">
+  <mainDescription>&lt;p>&#xD;
+    To incrementally version (tag) the stable release and merge branch into main Github branch for software delivery.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_ZM_NEENDEeiNHppt5DLcYA" name="Add/edit CHANGES file to document what has changed in the new release" guid="_ZM_NEENDEeiNHppt5DLcYA"/>
+  <sections xmi:id="_PRnwIENDEeiNHppt5DLcYA" name="Format suffixes appropriate for the release archive type" guid="_PRnwIENDEeiNHppt5DLcYA"/>
+  <sections xmi:id="_Icay4ENDEeiNHppt5DLcYA" name="Create new Git release tag version" guid="_Icay4ENDEeiNHppt5DLcYA"/>
+  <sections xmi:id="_KS0T0ENDEeiNHppt5DLcYA" name="Deploy website using Apache Maven deploy plugin" guid="_KS0T0ENDEeiNHppt5DLcYA"/>
+  <purpose>&lt;p>&#xD;
+    The point of the source package is to unambiguously define the release.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

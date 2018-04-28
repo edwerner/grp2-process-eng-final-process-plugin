@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QaqTytfALHzHtE1-rnuNbQ" name="plan_the_project,_0lC70MlgEdmt3adZL5Dmdw" guid="-QaqTytfALHzHtE1-rnuNbQ" changeDate="2008-07-14T04:50:23.000-0400" version="1.0.0">
+  <mainDescription>Developing the project plan provides an opportunity for the team to agree on project scope, objectives, initial timeframe,&#xD;
+and deliverables. It allows the team to begin demonstrating self-organization by defining success criteria and work&#xD;
+practices to be used. Collaboration and consensus by all key project participants is the goal, but the role responsible for&#xD;
+this task must ensure that everybody is committed to the plan.</mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    Gain agreement with stakeholders and the rest of the project team regarding the order of objectives and the duration of&#xD;
+    the project. Make adjustments as&amp;nbsp;necessary.&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_cwlO9jqYEeiTSbnYMpdisw" name="Identify a cohesive team" guid="_cwlO9jqYEeiTSbnYMpdisw"/>
+  <sections xmi:id="_cwlO8TqYEeiTSbnYMpdisw" name="Estimate project size" guid="_cwlO8TqYEeiTSbnYMpdisw"/>
+  <sections xmi:id="_cwlO9DqYEeiTSbnYMpdisw" name="Forecast project velocity and duration" guid="_cwlO9DqYEeiTSbnYMpdisw"/>
+  <sections xmi:id="_cwlO8zqYEeiTSbnYMpdisw" name="Evaluate risks" guid="_cwlO8zqYEeiTSbnYMpdisw"/>
+  <sections xmi:id="_cwlO8jqYEeiTSbnYMpdisw" name="Establish costs and articulate value" guid="_cwlO8jqYEeiTSbnYMpdisw"/>
+  <sections xmi:id="_cwlO9TqYEeiTSbnYMpdisw" name="Plan deployment" guid="_cwlO9TqYEeiTSbnYMpdisw"/>
+  <purpose>Get stakeholder buy-in for starting the project and team commitment to move forward with it. This plan can be updated as&#xD;
+the project progresses based on feedback and changes in the environment.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

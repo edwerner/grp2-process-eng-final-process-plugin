@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IfIwCJFu3eWO2gorOrZpJQ" name="new_artifact,_bWb78EM6EeiNHppt5DLcYA" guid="-IfIwCJFu3eWO2gorOrZpJQ" changeDate="2018-04-18T15:01:34.264-0400">
+  <mainDescription>&lt;p>&#xD;
+    A very high-level plan for multiple Sprints which is created during the Release planning, which serves as a guideline&#xD;
+    that reflects expectations about which features will be implemented and when they are completed. It also serves as a&#xD;
+    base to monitor progress within the project. [1]&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1]&amp;nbsp;&amp;nbsp;Scrum-institute.org. (2018). Scrum Release Planning - International Scrum Institute. [online] Available&#xD;
+    at: https://www.scrum-institute.org/Release_Planning.php [Accessed 18 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <purpose>To serve as a guideline that reflects expectations about which features will be implemented and when they are completed</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

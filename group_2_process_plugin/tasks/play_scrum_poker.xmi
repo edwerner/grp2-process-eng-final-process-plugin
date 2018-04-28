@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FZ5gEYGOwYE0a_5Kwl6paA" name="perform_scrum_poker,_4H2aoDtfEeiOSvawQAsHpQ" guid="-FZ5gEYGOwYE0a_5Kwl6paA">
+  <mainDescription>Scrum poker is a consensus-based, gamified technique for estimating, mostly used to estimate effort or relative size of&#xD;
+development goals in software development.</mainDescription>
+  <sections xmi:id="_ErBVYDtiEeiOSvawQAsHpQ" name="Prepare the backlog to be estimated with scrum master" guid="_ErBVYDtiEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_Io6uUDtiEeiOSvawQAsHpQ" name="Organizet team meeting space" guid="_Io6uUDtiEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_NtfbcDtiEeiOSvawQAsHpQ" name="Identify easy tasks from backlog to create baseline" guid="_NtfbcDtiEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_RcEmADtiEeiOSvawQAsHpQ" name="Quickly estimate backlog items by priority" guid="_RcEmADtiEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_b4XlwDtiEeiOSvawQAsHpQ" name="Reveal task estimate at same time" guid="_b4XlwDtiEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_hoE6kDtiEeiOSvawQAsHpQ" name="Discuss reasons behind dissenting estimates" guid="_hoE6kDtiEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_kyOiYDtiEeiOSvawQAsHpQ" name="Re-estimate tasks after discussing discussion" guid="_kyOiYDtiEeiOSvawQAsHpQ"/>
+  <sections xmi:id="_w-3eYDtiEeiOSvawQAsHpQ" name="Continue discussions until concensus reached" guid="_w-3eYDtiEeiOSvawQAsHpQ"/>
+  <purpose>To collaborate and reach concensus to while assigning difficulty and assessing risk for tasks during a development sprint.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

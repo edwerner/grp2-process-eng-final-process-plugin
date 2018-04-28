@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-j7Rl6goFcjsqINehP3zdGg" name=",_LdI_cEp2EeisRamC_torBQ" guid="-j7Rl6goFcjsqINehP3zdGg" changeDate="2018-04-27T19:54:23.634-0400">
+  <mainDescription>&lt;p>&#xD;
+    It's critical that the team selects the items and size of the sprint backlog. Because they are the people committing to&#xD;
+    completing the tasks, they must be the people to choose what they are committing to during the Scrum sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The sprint backlog is commonly maintained as a spreadsheet, but it is also possible to use your defect tracking system&#xD;
+    or any of a number of software products designed specifically for Scrum or agile.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

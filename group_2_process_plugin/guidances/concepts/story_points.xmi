@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1HTwXqCbW_BW5hvv27xLBg" name="new_concept,_FUungDqjEeiTSbnYMpdisw" guid="-1HTwXqCbW_BW5hvv27xLBg">
+  <mainDescription>&lt;p>&#xD;
+    Story points are probably the most commonly used estimating unit among agile teams today. The name is derived from&#xD;
+    agile teams commonly expressing requirements as “user stories”. A story point is a relative estimate of the &quot;size&quot; of&#xD;
+    the work compared to other work on the project. So, a 10-point user story is expected to take twice as long as a&#xD;
+    5-point user story.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    Estimates are not quantified but implicitly include the team's collective understanding of the complexity, risk and&#xD;
+    time for the work being estimated. A story point is unique to the team and cannot be compared with a story point on&#xD;
+    another team. It can be counter productive to map story points to their absolute time equivalent and the accepted&#xD;
+    technique for predicting time to completion is the team's velocity.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

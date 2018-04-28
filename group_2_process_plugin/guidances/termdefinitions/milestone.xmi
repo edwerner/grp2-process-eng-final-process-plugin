@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1L1o6D_dm_I65v_km5ZZYg" name=",_ByXNcEvqEdunZcj9T5hrMQ" guid="-1L1o6D_dm_I65v_km5ZZYg" changeDate="2018-04-06T20:26:45.649-0400" version="1">
+  <mainDescription>&lt;p>&#xD;
+    A significant event in the project or sub-project, such as a major decision, completion of a deliverable, or meeting of&#xD;
+    a major dependency (like completion of a phase).&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

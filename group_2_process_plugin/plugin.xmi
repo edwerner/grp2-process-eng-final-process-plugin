@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_S1EWMDKDEeicN8Zvo366ZQ" guid="_S1EWMDKDEeicN8Zvo366ZQ">
+    <subManagers xmi:id="_YvX_MDKIEeicN8Zvo366ZQ" href="uma://_YuE-sDKIEeicN8Zvo366ZQ#_YvX_MDKIEeicN8Zvo366ZQ"/>
+    <subManagers xmi:id="_1l728EmWEei5U6SVQtDbig" href="uma://_1k4HAEmWEei5U6SVQtDbig#_1l728EmWEei5U6SVQtDbig"/>
+    <resourceDescriptors xmi:id="_YuJ3MDKIEeicN8Zvo366ZQ" id="_YuE-sDKIEeicN8Zvo366ZQ" uri="deliveryprocesses/Group2DeliveryProcess/model.xmi"/>
+    <resourceDescriptors xmi:id="_kD0w8DdUEeiBBoDLVvOxsQ" id="--qp_lQbtRXu05NHDDY6CoQ" uri="roles/software_developer.xmi"/>
+    <resourceDescriptors xmi:id="_JOdJMDpCEeiNO_pRY60SaQ" id="-xKfYnppWP2INX_vf-uN0_w" uri="roles/product_owner%202.xmi"/>
+    <resourceDescriptors xmi:id="_YCWbUDpCEeiNO_pRY60SaQ" id="-UFwBY1zqOtlSJBoz01avpQ" uri="roles/scrum_master.xmi"/>
+    <resourceDescriptors xmi:id="_4qfLIDpCEeiNO_pRY60SaQ" id="-rcAdJ8pBkXZ-b6A1FDjWvw" uri="rolesets/scrum_team.xmi"/>
+    <resourceDescriptors xmi:id="_fi_58DqdEeiTSbnYMpdisw" id="-R2RR6ANm0xfl8NWp14tDKQ" uri="tasks/estimate_product_backlog.xmi"/>
+    <resourceDescriptors xmi:id="_oV3dwDqdEeiTSbnYMpdisw" id="-I-S_WBAu_1QByDGXrMRNbg" uri="tasks/sprint_planning_meeting.xmi"/>
+    <resourceDescriptors xmi:id="_6eAu4DqdEeiTSbnYMpdisw" id="-0T3OAF-9hMm2qcwggpsPow" uri="tasks/sprint_retrospective.xmi"/>
+    <resourceDescriptors xmi:id="_JTsJsDqeEeiTSbnYMpdisw" id="-oNrnEMynOBTBye5Z-XWPug" uri="tasks/sprint_review_meeting.xmi"/>
+    <resourceDescriptors xmi:id="_pmkbMDqeEeiTSbnYMpdisw" id="-4vqDd6Qd66LFd2jFfFgBYQ" uri="tasks/daily_standup_meeting.xmi"/>
+    <resourceDescriptors xmi:id="_A-gVgDqgEeiTSbnYMpdisw" id="-_ciMNlv8N7ZOF6RrdfzZ2A" uri="tasks/prioritizing_the_backlog.xmi"/>
+    <resourceDescriptors xmi:id="_Yg8FEDqgEeiTSbnYMpdisw" id="-gxKQLVmQjUak3gr5GOrHxg" uri="tasks/release_planning.xmi"/>
+    <resourceDescriptors xmi:id="_Li-ScDqjEeiTSbnYMpdisw" id="-1HTwXqCbW_BW5hvv27xLBg" uri="guidances/concepts/story_points.xmi"/>
+    <resourceDescriptors xmi:id="_bEZY8DqjEeiTSbnYMpdisw" id="-1doSfVpajjCet8OcI7TOlA" uri="guidances/guidelines/estimation_techniques.xmi"/>
+    <resourceDescriptors xmi:id="_755Z4DqkEeiTSbnYMpdisw" id="-Bwm5uxJj3CbRHPL6tqtyfQ" uri="workproducts/product_backlog.xmi"/>
+    <resourceDescriptors xmi:id="_YxDLYDqlEeiTSbnYMpdisw" id="-SVEqepxrXhIK_gJlzsgdKQ" uri="workproducts/sprint_backlog.xmi"/>
+    <resourceDescriptors xmi:id="_v6dW8DqlEeiTSbnYMpdisw" id="-nVXO7_NHl6OIcymX1cJgDg" uri="workproducts/sprint_burndown_chart.xmi"/>
+    <resourceDescriptors xmi:id="_BEFKUDqmEeiTSbnYMpdisw" id="-ajrfEP_fpHOYFWnKE-ZqfA" uri="workproducts/task_board.xmi"/>
+    <resourceDescriptors xmi:id="_lJmKgDqnEeiTSbnYMpdisw" id="-D2swyJdIKSz-hVvoKEp2xA" uri="roles/scrum_team.xmi"/>
+    <resourceDescriptors xmi:id="_8SLRYDswEeiOSvawQAsHpQ" id="-tBWUnNMsPvz2EE9H_t3FRw" uri="workproducts/vision_document.xmi"/>
+    <resourceDescriptors xmi:id="_AViDADs6EeiOSvawQAsHpQ" id="-S32UIXE1KGHTLl8Sk6TVvw" uri="tasks/develop_the_architecture.xmi"/>
+    <resourceDescriptors xmi:id="_JWIrYDs7EeiOSvawQAsHpQ" id="-CH4SkRw_IIRBh9wtAk6muw" uri="workproducts/domain_model.xmi"/>
+    <resourceDescriptors xmi:id="_dPQx8Ts7EeiOSvawQAsHpQ" id="-08B8QpGL13ANmsZkYj9E9w" uri="roles/architect.xmi"/>
+    <resourceDescriptors xmi:id="__8nsYTs8EeiOSvawQAsHpQ" id="-SSsCiEQskfDstdgc6OyKgQ" uri="tasks/identify_and_refine_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_pdFc4Ts_EeiOSvawQAsHpQ" id="-AYLnSC1CQNOn3jRAscMhgA" uri="roles/project_manager.xmi"/>
+    <resourceDescriptors xmi:id="_VAXroDtAEeiOSvawQAsHpQ" id="-pJvdSAKm78lstM_o_7lfiA" uri="tasks/initiate_project.xmi"/>
+    <resourceDescriptors xmi:id="_fJQnMTtAEeiOSvawQAsHpQ" id="-g-8FNf-Z2EP7znXajPvYVg" uri="tasks/package_the_release.xmi"/>
+    <resourceDescriptors xmi:id="_keH9oTtBEeiOSvawQAsHpQ" id="-kM-jELqab1vD5qLiVsJrWg" uri="workproducts/project_plan%202.xmi"/>
+    <resourceDescriptors xmi:id="_uw_XwTtFEeiOSvawQAsHpQ" id="-Ej-DgoTWltcMlgz8IFL8Ew" uri="guidances/concepts/iteration%202.xmi"/>
+    <resourceDescriptors xmi:id="_4eKAoTtFEeiOSvawQAsHpQ" id="-HclyLVa3Ee1VUYSqlCcP8g" uri="guidances/concepts/metrics%202.xmi"/>
+    <resourceDescriptors xmi:id="_9e26YDtFEeiOSvawQAsHpQ" id="-ohFtnJ6A78zAmoIDkPbjog" uri="guidances/concepts/risk%202.xmi"/>
+    <resourceDescriptors xmi:id="_LLtE4TtGEeiOSvawQAsHpQ" id="-m6JLUUuFJ2-l7nEQ_0PgfA" uri="guidances/guidelines/agile_estimation%202.xmi"/>
+    <resourceDescriptors xmi:id="_SijWoTtGEeiOSvawQAsHpQ" id="-K4HDBbwMnaSZlTHUOFi66g" uri="guidances/guidelines/managing_risks%202.xmi"/>
+    <resourceDescriptors xmi:id="_cyEeoTtGEeiOSvawQAsHpQ" id="-8Rw7BOTaYjpLIS79RumXng" uri="guidances/reports/iteration_burndown%202.xmi"/>
+    <resourceDescriptors xmi:id="_KJGi8TtHEeiOSvawQAsHpQ" id="-RK75dFI1Nk3AGkqiV1QDlg" uri="guidances/templates/risk_list%202.xmi"/>
+    <resourceDescriptors xmi:id="_kBNwcDtHEeiOSvawQAsHpQ" id="-_Xo4pRu2FxGtegiVd4q8Pg" uri="guidances/templates/work_items_list%202.xmi"/>
+    <resourceDescriptors xmi:id="_81BBQDtHEeiOSvawQAsHpQ" id="-TgsR1nQVVhnl8zujpGWDdg" uri="guidances/termdefinitions/agile%202.xmi"/>
+    <resourceDescriptors xmi:id="_FrqR0DtIEeiOSvawQAsHpQ" id="-xGlcYAEldu3aZZm49DmCxQ" uri="guidances/termdefinitions/effort%202.xmi"/>
+    <resourceDescriptors xmi:id="_NYaiIDtIEeiOSvawQAsHpQ" id="-KfK9M9Dz9KmEHaXjdhGFZA" uri="guidances/termdefinitions/estimation%202.xmi"/>
+    <resourceDescriptors xmi:id="_ShvMYDtIEeiOSvawQAsHpQ" id="-tehV2F_jbPRsAXGMP5_BDg" uri="guidances/termdefinitions/iteration%202.xmi"/>
+    <resourceDescriptors xmi:id="_YOOOETtIEeiOSvawQAsHpQ" id="-I9KvV3c1U9A8MK9CR_ygKw" uri="guidances/termdefinitions/milestone%202.xmi"/>
+    <resourceDescriptors xmi:id="_eZQM8DtIEeiOSvawQAsHpQ" id="-gsCaFpsKkLoJEO361br1ww" uri="guidances/termdefinitions/risk%202.xmi"/>
+    <resourceDescriptors xmi:id="_js_-gjtIEeiOSvawQAsHpQ" id="-XEv78vfGcwL0VC2yP8lHpg" uri="guidances/termdefinitions/scope%202.xmi"/>
+    <resourceDescriptors xmi:id="_xIM3ATtWEeiOSvawQAsHpQ" id="-QDlCFep424GtOrCrq0DpkQ" uri="workproducts/design_document.xmi"/>
+    <resourceDescriptors xmi:id="_HMUU0DtfEeiOSvawQAsHpQ" id="-DlUBjY5Nkblg-hTLfd0YbA" uri="tasks/define_user_stories.xmi"/>
+    <resourceDescriptors xmi:id="_MCE38TthEeiOSvawQAsHpQ" id="-upPXpkF1IyEoKMBlNH0Qfg" uri="workproducts/product_backlog%202.xmi"/>
+    <resourceDescriptors xmi:id="_u0gmADtqEeiOSvawQAsHpQ" id="-kVgF0UDkdb-56tTqCUsmxw" uri="tasks/validate_architecture.xmi"/>
+    <resourceDescriptors xmi:id="_aYM9EDtuEeiOSvawQAsHpQ" id="-y1SvH9e9M_ua1-Bg-3IM3Q" uri="workproducts/product_requirements_document.xmi"/>
+    <resourceDescriptors xmi:id="_FBMxADtzEeiOSvawQAsHpQ" id="-Krr8Fx6Eiiu91ASxqu-_Dw" uri="tasks/refine_architecture.xmi"/>
+    <resourceDescriptors xmi:id="_NFn1ID0NEeiKM62w0dstsA" id="-qmNu2U3IStkUZXd70JncKQ" uri="tasks/integrate_and_create_build.xmi"/>
+    <resourceDescriptors xmi:id="_PI9X4UKJEeiYxYaI0MP95g" id="-SJDU8CnjQAWBpKCk1_v8vg" uri="tasks/test_solution.xmi"/>
+    <resourceDescriptors xmi:id="_nSHr0UMvEeiNHppt5DLcYA" id="-aWzdKwXtu9M3oRlyVpsuJw" uri="tasks/create_development_environment.xmi"/>
+    <resourceDescriptors xmi:id="_4ViIgEM6EeiNHppt5DLcYA" id="-IfIwCJFu3eWO2gorOrZpJQ" uri="workproducts/release_plan.xmi"/>
+    <resourceDescriptors xmi:id="_gRYWgUM7EeiNHppt5DLcYA" id="-2mMT9hPL_QUSUSqll1jF2Q" uri="workproducts/architecture_document.xmi"/>
+    <resourceDescriptors xmi:id="_EV2pUENHEeiNHppt5DLcYA" id="-l28edNJBbMkCn5QSjroFvw" uri="workproducts/build.xmi"/>
+    <resourceDescriptors xmi:id="_IlrDQUNIEeiNHppt5DLcYA" id="-hV2jbGeY14lDMJGsTNOcsg" uri="workproducts/class_diagram.xmi"/>
+    <resourceDescriptors xmi:id="_YpdGEUSfEeiwgZ8eifS8bA" id="-feuYzrzzt0Xc0NDEPIbIxA" uri="tasks/define_technical_approach.xmi"/>
+    <resourceDescriptors xmi:id="_lFdJkEToEeia4465Ins-PQ" id="-93ffeNW95Pa9PMcrhLlFFA" uri="tasks/implementation.xmi"/>
+    <resourceDescriptors xmi:id="_AtNKcEVyEeixeO0FK5lH0w" id="-1-rWeQLZ3uBr4Nvpb783IA" uri="tasks/backlog_refinement.xmi"/>
+    <resourceDescriptors xmi:id="_LAdJoUV3EeixeO0FK5lH0w" id="-lFh2ErfZsBXwGqOr9_5paw" uri="tasks/working_on_spike.xmi"/>
+    <resourceDescriptors xmi:id="_lM8PMEV4EeixeO0FK5lH0w" id="-J_kPIRr75ejbTJXURxhu1Q" uri="tasks/working_on_user_story.xmi"/>
+    <resourceDescriptors xmi:id="_khgd0EV-EeixeO0FK5lH0w" id="-sDTRsmCJXVffgm0EQLMrKQ" uri="workproducts/package_diagram.xmi"/>
+    <resourceDescriptors xmi:id="_FqIHsEWDEeixeO0FK5lH0w" id="-CxBqWW_RBH_f16Y7f4sk-Q" uri="workproducts/release.xmi"/>
+    <resourceDescriptors xmi:id="_lsyHsUWKEeixeO0FK5lH0w" id="-E1GlwPY8zz3ZIc19mvoHog" uri="workproducts/source_code.xmi"/>
+    <resourceDescriptors xmi:id="_Ax_IgUWNEeixeO0FK5lH0w" id="-sNcYi2WTTrBOGElRfmk4Yg" uri="workproducts/state_diagram.xmi"/>
+    <resourceDescriptors xmi:id="_pcGxwEWNEeixeO0FK5lH0w" id="-fQU0YMGuTfqr6Q3AKwhHWg" uri="workproducts/system_sequence_diagram.xmi"/>
+    <resourceDescriptors xmi:id="_fm5KsEWOEeixeO0FK5lH0w" id="-srVFO23P0r4E9xFxhrvEag" uri="workproducts/test_log.xmi"/>
+    <resourceDescriptors xmi:id="_vmqaEEWOEeixeO0FK5lH0w" id="--c_7dnO69dJ2u224MoMjXA" uri="workproducts/unit_tests.xmi"/>
+    <resourceDescriptors xmi:id="_TKk-gEWPEeixeO0FK5lH0w" id="-e7x7WxL-c7CyHOrEop192w" uri="workproducts/user_stories.xmi"/>
+    <resourceDescriptors xmi:id="_jkoPkUfTEeiIxoFTotST_w" id="-hjJxtEZSsoxO-NP1r56KKg" uri="tasks/propose_archtecture.xmi"/>
+    <resourceDescriptors xmi:id="_HM1MMUfWEeiIxoFTotST_w" id="-YI-h7sUftRPEpuRW5YdbNQ" uri="tasks/create_domain_model.xmi"/>
+    <resourceDescriptors xmi:id="_YHZP4UfWEeiIxoFTotST_w" id="-qKG3POFeYnR4-tT_hUvuzg" uri="tasks/create_product_backlog.xmi"/>
+    <resourceDescriptors xmi:id="_m2VJgEfWEeiIxoFTotST_w" id="-DAdQDTQXOMMbvt7zYDFWRA" uri="tasks/define_user_stories%202.xmi"/>
+    <resourceDescriptors xmi:id="_2NYWkEfXEeiIxoFTotST_w" id="-BkwwCbcsqfd_CqBuXZpifQ" uri="tasks/define_acceptance_criteria.xmi"/>
+    <resourceDescriptors xmi:id="_BYOhkEfcEeiIxoFTotST_w" id="-V703CDjoUvDwAT8wcltqig" uri="tasks/configuration_management.xmi"/>
+    <resourceDescriptors xmi:id="_TCaTAEiaEeiUw5YTAKpsag" id="-pMXHxb9waMfiZYBZ2We-5g" uri="tasks/create_unit_tests.xmi"/>
+    <resourceDescriptors xmi:id="_fLM-4EicEeiUw5YTAKpsag" id="-HDIsap9eMvd7S704J2OBpQ" uri="tasks/deployment.xmi"/>
+    <resourceDescriptors xmi:id="_I9fKEEidEeiUw5YTAKpsag" id="-OtUYBegDzxYYVQDQWxm6ZQ" uri="tasks/design_solution%202.xmi"/>
+    <resourceDescriptors xmi:id="_1lHXkEmWEei5U6SVQtDbig" id="_1k4HAEmWEei5U6SVQtDbig" uri="capabilitypatterns/Scrum%20Sprint/model.xmi"/>
+    <resourceDescriptors xmi:id="_1Oi1MEmXEei5U6SVQtDbig" id="-2Vj5aazr1OjDl3Fh84L_tw" uri="tasks/postmortem.xmi"/>
+    <resourceDescriptors xmi:id="_6jzDkUpQEeigtMLlYdlLWg" id="-sC-gyRMkj7ENOCMUyXDpMQ" uri="roles/any_role.xmi"/>
+    <resourceDescriptors xmi:id="_EF66EEpREeigtMLlYdlLWg" id="-dA3DjiJJgqS3N7XTvqAOHg" uri="roles/qa_engineer%202.xmi"/>
+    <resourceDescriptors xmi:id="_DUYdgUpTEeigtMLlYdlLWg" id="-CVYqPjsEQ-3FPb3aSM7Cxw" uri="guidances/practices/daily_communication.xmi"/>
+    <resourceDescriptors xmi:id="_U2QjYUpUEeigtMLlYdlLWg" id="-4q1yAiLThGoM2kpH3pZpKA" uri="guidances/practices/scrum_board.xmi"/>
+    <resourceDescriptors xmi:id="_n4mL4EpUEeigtMLlYdlLWg" id="-2NTsCGKV7F_k_uCNOdcDnw" uri="guidances/practices/version_control.xmi"/>
+    <resourceDescriptors xmi:id="_bpbA0Up2EeisRamC_torBQ" id="-j7Rl6goFcjsqINehP3zdGg" uri="tasks/define_sprint_backlog.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_S1BS4DKDEeicN8Zvo366ZQ" name="group_2_process_plugin" guid="_S1BS4DKDEeicN8Zvo366ZQ" presentationName="Group 2 Process Plugin" briefDescription="Method plugin for Group 2 final process" authors="Gourav Acharya, Cervantes Hernandez Moreira, Prakhar Rawat, Edward Werner" changeDate="2018-03-28T08:27:12.469-0400" version="1.0">
+    <methodElementProperty xmi:id="_S1E9QTKDEeicN8Zvo366ZQ" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_XFBvgDKDEeicN8Zvo366ZQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S1BS4TKDEeicN8Zvo366ZQ" name="Content" guid="_S1BS4TKDEeicN8Zvo366ZQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S1BS4jKDEeicN8Zvo366ZQ" name="Categories" guid="_S1BS4jKDEeicN8Zvo366ZQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S1BS4zKDEeicN8Zvo366ZQ" name="Domains" guid="_S1BS4zKDEeicN8Zvo366ZQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S1BS5DKDEeicN8Zvo366ZQ" name="Disciplines" guid="_S1BS5DKDEeicN8Zvo366ZQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S1BS5TKDEeicN8Zvo366ZQ" name="RoleSets" guid="_S1BS5TKDEeicN8Zvo366ZQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_q5b2EDpCEeiNO_pRY60SaQ" name="scrum_team" guid="_q5b2EDpCEeiNO_pRY60SaQ" presentationName="Scrum Team" briefDescription="The Scrum Team builds the product that the customer is going to consume: the software or website, for example. The team in Scrum is &quot;cross-functional&quot; - it includes all the expertise necessary to deliver the potentially shippable product each Sprint - and it is &quot;self-organizing&quot;, with a very high degree of autonomy and accountability.">
+            <methodElementProperty xmi:id="_1VNRYDpCEeiNO_pRY60SaQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-rcAdJ8pBkXZ-b6A1FDjWvw" href="uma://-rcAdJ8pBkXZ-b6A1FDjWvw#-rcAdJ8pBkXZ-b6A1FDjWvw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S1BS5jKDEeicN8Zvo366ZQ" name="WP Types" guid="_S1BS5jKDEeicN8Zvo366ZQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S1BS5zKDEeicN8Zvo366ZQ" name="Tools" guid="_S1BS5zKDEeicN8Zvo366ZQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S1BS6DKDEeicN8Zvo366ZQ" name="StandardCategories" guid="_S1BS6DKDEeicN8Zvo366ZQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S1BS6TKDEeicN8Zvo366ZQ" name="CustomCategories" guid="_S1BS6TKDEeicN8Zvo366ZQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S1BS6jKDEeicN8Zvo366ZQ" name="Hidden" guid="_S1BS6jKDEeicN8Zvo366ZQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_S1BS6zKDEeicN8Zvo366ZQ" name="Custom Categories" guid="_S1BS6zKDEeicN8Zvo366ZQ" categorizedElements="_2W3yYEmbEei5U6SVQtDbig"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_2W3yYEmbEei5U6SVQtDbig" name="WebCheckers Process" guid="_2W3yYEmbEei5U6SVQtDbig" presentationName="WebCheckers Process" categorizedElements="_jq0tgEmcEei5U6SVQtDbig _TEW1EEmdEei5U6SVQtDbig _kP3pYEmeEei5U6SVQtDbig _hs9yUEmfEei5U6SVQtDbig _47H7AEmfEei5U6SVQtDbig">
+            <methodElementProperty xmi:id="_9Fe_cEmbEei5U6SVQtDbig" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_jq0tgEmcEei5U6SVQtDbig" name="Roles" guid="_jq0tgEmcEei5U6SVQtDbig" presentationName="Roles" categorizedElements="_cCgOQETbEeia4465Ins-PQ _WAnIUDKHEeicN8Zvo366ZQ _-2a3IDstEeiOSvawQAsHpQ _SL3XUDaYEeizzccWWzGJvA _yFwQEDdTEeiBBoDLVvOxsQ _3axFIDpBEeiNO_pRY60SaQ _VZBooDpCEeiNO_pRY60SaQ _d3lVcDqnEeiTSbnYMpdisw">
+            <methodElementProperty xmi:id="_lI5OAEmcEei5U6SVQtDbig" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_TEW1EEmdEei5U6SVQtDbig" name="Phases" guid="_TEW1EEmdEei5U6SVQtDbig" presentationName="Phases">
+            <methodElementProperty xmi:id="_V2uPAEmdEei5U6SVQtDbig" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_YuE-sDKIEeicN8Zvo366ZQ#_KfmWsUiVEeiUw5YTAKpsag"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_YuE-sDKIEeicN8Zvo366ZQ#_yTvB8UfLEeiIxoFTotST_w"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_YuE-sDKIEeicN8Zvo366ZQ#_86MDQUfLEeiIxoFTotST_w"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_YuE-sDKIEeicN8Zvo366ZQ#_-IHO8UfLEeiIxoFTotST_w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_kP3pYEmeEei5U6SVQtDbig" name="Guidance" guid="_kP3pYEmeEei5U6SVQtDbig" presentationName="Guidance" categorizedElements="_nnKVUEmeEei5U6SVQtDbig _wefiYEmeEei5U6SVQtDbig _7EURkEmeEei5U6SVQtDbig _EfoVcEmfEei5U6SVQtDbig _JyFtkEmfEei5U6SVQtDbig _V_-mwEmfEei5U6SVQtDbig">
+            <methodElementProperty xmi:id="_lklZkEmeEei5U6SVQtDbig" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_nnKVUEmeEei5U6SVQtDbig" name="Concepts" guid="_nnKVUEmeEei5U6SVQtDbig" presentationName="Concepts" categorizedElements="_qVJekDtFEeiOSvawQAsHpQ _2Det8DtFEeiOSvawQAsHpQ _7mEz0DtFEeiOSvawQAsHpQ">
+            <methodElementProperty xmi:id="_ptBOkEmeEei5U6SVQtDbig" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_wefiYEmeEei5U6SVQtDbig" name="Definitions" guid="_wefiYEmeEei5U6SVQtDbig" presentationName="Definitions" categorizedElements="_7_BNYDtHEeiOSvawQAsHpQ _ENUrkDtIEeiOSvawQAsHpQ _J0cFEDtIEeiOSvawQAsHpQ _RwGUEDtIEeiOSvawQAsHpQ _XOvuEDtIEeiOSvawQAsHpQ _dgziADtIEeiOSvawQAsHpQ _i5A80DtIEeiOSvawQAsHpQ">
+            <methodElementProperty xmi:id="_x4olIEmeEei5U6SVQtDbig" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7EURkEmeEei5U6SVQtDbig" name="Checklists" guid="_7EURkEmeEei5U6SVQtDbig" presentationName="Checklists" categorizedElements="_BwXL0DtGEeiOSvawQAsHpQ">
+            <methodElementProperty xmi:id="_8RB8UEmeEei5U6SVQtDbig" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_EfoVcEmfEei5U6SVQtDbig" name="Report" guid="_EfoVcEmfEei5U6SVQtDbig" presentationName="Report" categorizedElements="_a22IEDtGEeiOSvawQAsHpQ">
+            <methodElementProperty xmi:id="_F-5IwEmfEei5U6SVQtDbig" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_JyFtkEmfEei5U6SVQtDbig" name="Guidelines" guid="_JyFtkEmfEei5U6SVQtDbig" presentationName="Guidelines" categorizedElements="_JREkMDtGEeiOSvawQAsHpQ _QxnkgDtGEeiOSvawQAsHpQ _X-Kn0DqjEeiTSbnYMpdisw">
+            <methodElementProperty xmi:id="_MpweQEmfEei5U6SVQtDbig" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_V_-mwEmfEei5U6SVQtDbig" name="Templates" guid="_V_-mwEmfEei5U6SVQtDbig" presentationName="Templates" categorizedElements="_hzxd8DtGEeiOSvawQAsHpQ">
+            <methodElementProperty xmi:id="_XH7GQEmfEei5U6SVQtDbig" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hs9yUEmfEei5U6SVQtDbig" name="Tasks" guid="_hs9yUEmfEei5U6SVQtDbig" presentationName="Tasks" categorizedElements="_hWhfoEfbEeiIxoFTotST_w _TWJFkEMvEeiNHppt5DLcYA _5wuMYEfVEeiIxoFTotST_w _0_aKwEfbEeiIxoFTotST_w _fbt5gESeEeiwgZ8eifS8bA _5a9dwDteEeiOSvawQAsHpQ _qfM7YEfbEeiIxoFTotST_w _Yk9Y0EfaEeiIxoFTotST_w _zTqeoDaYEeizzccWWzGJvA _6zvsQDaVEeizzccWWzGJvA _QRHuQDtAEeiOSvawQAsHpQ _N1S8cDdYEeiBBoDLVvOxsQ _dBbS8DdZEeiBBoDLVvOxsQ _3_CTsEfSEeiIxoFTotST_w _wnOl0DszEeiOSvawQAsHpQ _aAzlIDdaEeiBBoDLVvOxsQ _1diHYDdXEeiBBoDLVvOxsQ _oJRDYETpEeia4465Ins-PQ _J-IPIEfWEeiIxoFTotST_w _ctiTQDqeEeiTSbnYMpdisw _qN2CcEfXEeiIxoFTotST_w _Zm4FoEfWEeiIxoFTotST_w _TuWAIDqdEeiTSbnYMpdisw _lDbJQEToEeia4465Ins-PQ _OIRkUEmXEei5U6SVQtDbig _1rbUMDqeEeiTSbnYMpdisw _VwCDsDqgEeiTSbnYMpdisw _kvraMDqdEeiTSbnYMpdisw _0W8C8DqdEeiTSbnYMpdisw _FBf7wDqeEeiTSbnYMpdisw _W27jcETqEeia4465Ins-PQ _baiRgETqEeia4465Ins-PQ">
+            <methodElementProperty xmi:id="_izzekEmfEei5U6SVQtDbig" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_47H7AEmfEei5U6SVQtDbig" name="Delivery Process" guid="_47H7AEmfEei5U6SVQtDbig" presentationName="Delivery Process">
+            <methodElementProperty xmi:id="_7Az1IEmfEei5U6SVQtDbig" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_YuE-sDKIEeicN8Zvo366ZQ#_YuE-sTKIEeicN8Zvo366ZQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S1BS7DKDEeicN8Zvo366ZQ" name="CoreContent" guid="_S1BS7DKDEeicN8Zvo366ZQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gr-boDKDEeicN8Zvo366ZQ" name="main_content" guid="_gr-boDKDEeicN8Zvo366ZQ" presentationName="Group 2 Process Content">
+          <methodElementProperty xmi:id="_gr-boTKDEeicN8Zvo366ZQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_l0GzEDKDEeicN8Zvo366ZQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_WAnIUDKHEeicN8Zvo366ZQ" name="architect" guid="_WAnIUDKHEeicN8Zvo366ZQ" presentationName="Architect" briefDescription="A software architect is a software expert who makes high-level design choices and dictates technical standards, including software coding standards, tools, and platforms." responsibleFor="_bNiOQDKJEeicN8Zvo366ZQ">
+            <methodElementProperty xmi:id="_kbIRIDKHEeicN8Zvo366ZQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-08B8QpGL13ANmsZkYj9E9w" href="uma://-08B8QpGL13ANmsZkYj9E9w#-08B8QpGL13ANmsZkYj9E9w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bNiOQDKJEeicN8Zvo366ZQ" name="architecture_document" guid="_bNiOQDKJEeicN8Zvo366ZQ" presentationName="Architecture notebook" briefDescription="The architecture notebook describes the rationale, assumptions, explanation, and implications of the decisions made in forming the architecture.">
+            <methodElementProperty xmi:id="_cLpcUDKJEeicN8Zvo366ZQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-2mMT9hPL_QUSUSqll1jF2Q" href="uma://-2mMT9hPL_QUSUSqll1jF2Q#-2mMT9hPL_QUSUSqll1jF2Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_gpvdgDaVEeizzccWWzGJvA" name="vision_document" guid="_gpvdgDaVEeizzccWWzGJvA" presentationName="Vision Document" briefDescription="A concise statement of the problem, proposed solution, and the high-level features of a product which helps establish expectations and reduce risks.">
+            <methodElementProperty xmi:id="_iqHZ0DaVEeizzccWWzGJvA" name="me_edited" value="true"/>
+            <presentation xmi:id="-tBWUnNMsPvz2EE9H_t3FRw" href="uma://-tBWUnNMsPvz2EE9H_t3FRw#-tBWUnNMsPvz2EE9H_t3FRw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6zvsQDaVEeizzccWWzGJvA" name="identify_and_refine_requirements" guid="_6zvsQDaVEeizzccWWzGJvA" presentationName="Identify and Refine Requirements" briefDescription="Define product requirements with a focus on higher-level requirements." performedBy="_-2a3IDstEeiOSvawQAsHpQ" mandatoryInput="_ET7XIDaYEeizzccWWzGJvA" output="_63t7YDaXEeizzccWWzGJvA _bNiOQDKJEeicN8Zvo366ZQ">
+            <methodElementProperty xmi:id="_8_hAQDaVEeizzccWWzGJvA" name="me_edited" value="true"/>
+            <presentation xmi:id="-SSsCiEQskfDstdgc6OyKgQ" href="uma://-SSsCiEQskfDstdgc6OyKgQ#-SSsCiEQskfDstdgc6OyKgQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_63t7YDaXEeizzccWWzGJvA" name="product_requirements_document" guid="_63t7YDaXEeizzccWWzGJvA" presentationName="Product Requirements Document" briefDescription="A product requirements document (PRD) is a document containing all the requirements to a certain product.">
+            <methodElementProperty xmi:id="_q6hCYDaYEeizzccWWzGJvA" name="me_edited" value="true"/>
+            <presentation xmi:id="-y1SvH9e9M_ua1-Bg-3IM3Q" href="uma://-y1SvH9e9M_ua1-Bg-3IM3Q#-y1SvH9e9M_ua1-Bg-3IM3Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ET7XIDaYEeizzccWWzGJvA" name="user_stories" guid="_ET7XIDaYEeizzccWWzGJvA" presentationName="User Stories" briefDescription="A user story is an informal, natural language description of one or more features of a software system.">
+            <methodElementProperty xmi:id="_pzGuYDaYEeizzccWWzGJvA" name="me_edited" value="true"/>
+            <presentation xmi:id="-e7x7WxL-c7CyHOrEop192w" href="uma://-e7x7WxL-c7CyHOrEop192w#-e7x7WxL-c7CyHOrEop192w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_SL3XUDaYEeizzccWWzGJvA" name="qa_engineer" guid="_SL3XUDaYEeizzccWWzGJvA" presentationName="QA Engineer" briefDescription="Software quality assurance engineers make sure that new products work before they are released to the public.">
+            <methodElementProperty xmi:id="_m_mE8DaYEeizzccWWzGJvA" name="me_edited" value="true"/>
+            <presentation xmi:id="-dA3DjiJJgqS3N7XTvqAOHg" href="uma://-dA3DjiJJgqS3N7XTvqAOHg#-dA3DjiJJgqS3N7XTvqAOHg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zTqeoDaYEeizzccWWzGJvA" name="develop_the_architecture" guid="_zTqeoDaYEeizzccWWzGJvA" presentationName="Develop the Architecture" briefDescription="The architectural design describes how features and functions operate together to form the solution. " performedBy="_WAnIUDKHEeicN8Zvo366ZQ _yFwQEDdTEeiBBoDLVvOxsQ" mandatoryInput="_63t7YDaXEeizzccWWzGJvA" output="_1P66gDaZEeizzccWWzGJvA _bNiOQDKJEeicN8Zvo366ZQ _LAgNkDteEeiOSvawQAsHpQ _Rz1s8Ds6EeiOSvawQAsHpQ _VOsf4DteEeiOSvawQAsHpQ _NMSvsDteEeiOSvawQAsHpQ _ZnzOIDteEeiOSvawQAsHpQ">
+            <methodElementProperty xmi:id="_0NvhQDaYEeizzccWWzGJvA" name="me_edited" value="true"/>
+            <presentation xmi:id="-S32UIXE1KGHTLl8Sk6TVvw" href="uma://-S32UIXE1KGHTLl8Sk6TVvw#-S32UIXE1KGHTLl8Sk6TVvw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1P66gDaZEeizzccWWzGJvA" name="design_document" guid="_1P66gDaZEeizzccWWzGJvA" presentationName="Design Document" briefDescription="A design document provides a software development team with overall guidance to the architecture of the software project.">
+            <methodElementProperty xmi:id="_2o11QDaZEeizzccWWzGJvA" name="me_edited" value="true"/>
+            <presentation xmi:id="-QDlCFep424GtOrCrq0DpkQ" href="uma://-QDlCFep424GtOrCrq0DpkQ#-QDlCFep424GtOrCrq0DpkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_yFwQEDdTEeiBBoDLVvOxsQ" name="software_developer" guid="_yFwQEDdTEeiBBoDLVvOxsQ" presentationName="Software Developer" briefDescription="Software engineers apply software engineering principles to the design, development, maintenance, testing, and evaluation of the software, as well as perform bugfixing software defects and generate documentation for software projects." responsibleFor="_1P66gDaZEeizzccWWzGJvA _OR7qkDdXEeiBBoDLVvOxsQ">
+            <methodElementProperty xmi:id="_udEx0DdWEeiBBoDLVvOxsQ" name="me_edited" value="true"/>
+            <presentation xmi:id="--qp_lQbtRXu05NHDDY6CoQ" href="uma://--qp_lQbtRXu05NHDDY6CoQ#--qp_lQbtRXu05NHDDY6CoQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OR7qkDdXEeiBBoDLVvOxsQ" name="unit_tests" guid="_OR7qkDdXEeiBBoDLVvOxsQ" presentationName="Unit Tests" briefDescription="Functional tests for individual software components.">
+            <methodElementProperty xmi:id="_d3PLgDdXEeiBBoDLVvOxsQ" name="me_edited" value="true"/>
+            <presentation xmi:id="--c_7dnO69dJ2u224MoMjXA" href="uma://--c_7dnO69dJ2u224MoMjXA#--c_7dnO69dJ2u224MoMjXA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qyYMQDdXEeiBBoDLVvOxsQ" name="source_code" guid="_qyYMQDdXEeiBBoDLVvOxsQ" presentationName="Source Code" briefDescription="Source code is a collection of computer instructions.">
+            <methodElementProperty xmi:id="_ysFTcDdXEeiBBoDLVvOxsQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-E1GlwPY8zz3ZIc19mvoHog" href="uma://-E1GlwPY8zz3ZIc19mvoHog#-E1GlwPY8zz3ZIc19mvoHog"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1diHYDdXEeiBBoDLVvOxsQ" name="validate_architecture" guid="_1diHYDdXEeiBBoDLVvOxsQ" presentationName="Validate Architecture." briefDescription="Ensure necessary infrastructure components to support release.&#xD;&#xA;" performedBy="_yFwQEDdTEeiBBoDLVvOxsQ" mandatoryInput="_63t7YDaXEeizzccWWzGJvA" output="_bNiOQDKJEeicN8Zvo366ZQ" additionallyPerformedBy="_WAnIUDKHEeicN8Zvo366ZQ">
+            <methodElementProperty xmi:id="_G3TPkDdYEeiBBoDLVvOxsQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-kVgF0UDkdb-56tTqCUsmxw" href="uma://-kVgF0UDkdb-56tTqCUsmxw#-kVgF0UDkdb-56tTqCUsmxw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_N1S8cDdYEeiBBoDLVvOxsQ" name="integrate_and_create_build" guid="_N1S8cDdYEeiBBoDLVvOxsQ" presentationName="Integrate and create build" briefDescription="Run tests and integrate changes by all developers and merge with main Github branch." performedBy="_yFwQEDdTEeiBBoDLVvOxsQ _WAnIUDKHEeicN8Zvo366ZQ" mandatoryInput="_qyYMQDdXEeiBBoDLVvOxsQ" output="_zzSWoDdYEeiBBoDLVvOxsQ">
+            <methodElementProperty xmi:id="_UVSCMDdZEeiBBoDLVvOxsQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-qmNu2U3IStkUZXd70JncKQ" href="uma://-qmNu2U3IStkUZXd70JncKQ#-qmNu2U3IStkUZXd70JncKQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_zzSWoDdYEeiBBoDLVvOxsQ" name="build" guid="_zzSWoDdYEeiBBoDLVvOxsQ" presentationName="Build" briefDescription="Source code that is converted into a stand-alone form that can be run on a computer.">
+            <methodElementProperty xmi:id="_UyrI0DdZEeiBBoDLVvOxsQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-l28edNJBbMkCn5QSjroFvw" href="uma://-l28edNJBbMkCn5QSjroFvw#-l28edNJBbMkCn5QSjroFvw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dBbS8DdZEeiBBoDLVvOxsQ" name="package_the_release" guid="_dBbS8DdZEeiBBoDLVvOxsQ" presentationName="Package the release" briefDescription="Render a complete, deployable package capable of being released into the production environment." performedBy="_yFwQEDdTEeiBBoDLVvOxsQ" output="_oGYOIDdZEeiBBoDLVvOxsQ">
+            <methodElementProperty xmi:id="_sxD0kDdZEeiBBoDLVvOxsQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-g-8FNf-Z2EP7znXajPvYVg" href="uma://-g-8FNf-Z2EP7znXajPvYVg#-g-8FNf-Z2EP7znXajPvYVg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_oGYOIDdZEeiBBoDLVvOxsQ" name="release" guid="_oGYOIDdZEeiBBoDLVvOxsQ" presentationName="Release" briefDescription="The final product of the stages of development for a piece of computer software.">
+            <methodElementProperty xmi:id="_tbyzoDdZEeiBBoDLVvOxsQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-CxBqWW_RBH_f16Y7f4sk-Q" href="uma://-CxBqWW_RBH_f16Y7f4sk-Q#-CxBqWW_RBH_f16Y7f4sk-Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_aAzlIDdaEeiBBoDLVvOxsQ" name="test_solution" guid="_aAzlIDdaEeiBBoDLVvOxsQ" presentationName="Test Solution" briefDescription="Unit testing is a software testing method by which individual units of source code are tested to determine whether code is fit for use." performedBy="_yFwQEDdTEeiBBoDLVvOxsQ" mandatoryInput="_OR7qkDdXEeiBBoDLVvOxsQ" output="_idQNADdaEeiBBoDLVvOxsQ">
+            <methodElementProperty xmi:id="_nV_dkDdaEeiBBoDLVvOxsQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-SJDU8CnjQAWBpKCk1_v8vg" href="uma://-SJDU8CnjQAWBpKCk1_v8vg#-SJDU8CnjQAWBpKCk1_v8vg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_idQNADdaEeiBBoDLVvOxsQ" name="test_log" guid="_idQNADdaEeiBBoDLVvOxsQ" presentationName="Test Log" briefDescription="A log of the basics of the unit testing process.">
+            <methodElementProperty xmi:id="_nzG3YDdaEeiBBoDLVvOxsQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-srVFO23P0r4E9xFxhrvEag" href="uma://-srVFO23P0r4E9xFxhrvEag#-srVFO23P0r4E9xFxhrvEag"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_-2a3IDstEeiOSvawQAsHpQ" name="project_manager" guid="_-2a3IDstEeiOSvawQAsHpQ" presentationName="Project Manager" briefDescription="The Project Manager leads the project planning. Is responsible of cordinating the interactions with the stakeholders, and keeping the project team focused on meeting the project objectives.">
+            <methodElementProperty xmi:id="_ALUNgDsuEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-AYLnSC1CQNOn3jRAscMhgA" href="uma://-AYLnSC1CQNOn3jRAscMhgA#-AYLnSC1CQNOn3jRAscMhgA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wnOl0DszEeiOSvawQAsHpQ" name="refine_architecture" guid="_wnOl0DszEeiOSvawQAsHpQ" presentationName="Refine Architecture" briefDescription="Evaluate and refine architecture. Architecture evaluation aims at making sure that the right design decisions have been manifested correctly in the implementation." performedBy="_WAnIUDKHEeicN8Zvo366ZQ" mandatoryInput="_1P66gDaZEeizzccWWzGJvA" output="_bNiOQDKJEeicN8Zvo366ZQ">
+            <methodElementProperty xmi:id="_xlDgADszEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Krr8Fx6Eiiu91ASxqu-_Dw" href="uma://-Krr8Fx6Eiiu91ASxqu-_Dw#-Krr8Fx6Eiiu91ASxqu-_Dw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Rz1s8Ds6EeiOSvawQAsHpQ" name="domain_model" guid="_Rz1s8Ds6EeiOSvawQAsHpQ" presentationName="Domain Model" briefDescription="The key business entities and their relationships.">
+            <methodElementProperty xmi:id="_Ss9tUDs6EeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-CH4SkRw_IIRBh9wtAk6muw" href="uma://-CH4SkRw_IIRBh9wtAk6muw#-CH4SkRw_IIRBh9wtAk6muw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QRHuQDtAEeiOSvawQAsHpQ" name="initiate_project" guid="_QRHuQDtAEeiOSvawQAsHpQ" presentationName="Initiate Project" briefDescription="A collaborative task that outlines an initial agreement on how the project will achieve its goals. The resulting project plan provides a summary-level overview of the project." performedBy="_-2a3IDstEeiOSvawQAsHpQ" output="_hC7CEDtBEeiOSvawQAsHpQ">
+            <methodElementProperty xmi:id="_RqgjEDtAEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-pJvdSAKm78lstM_o_7lfiA" href="uma://-pJvdSAKm78lstM_o_7lfiA#-pJvdSAKm78lstM_o_7lfiA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hC7CEDtBEeiOSvawQAsHpQ" name="project_plan" guid="_hC7CEDtBEeiOSvawQAsHpQ" presentationName="Project Plan" briefDescription="The project plan gathers all of the information required to manage the project on a strategic level. Its main part consists of a coarse-grained plan, identifying project iterations and their goals.">
+            <methodElementProperty xmi:id="_iawXsDtBEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-kM-jELqab1vD5qLiVsJrWg" href="uma://-kM-jELqab1vD5qLiVsJrWg#-kM-jELqab1vD5qLiVsJrWg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_qVJekDtFEeiOSvawQAsHpQ" name="iteration" guid="_qVJekDtFEeiOSvawQAsHpQ" presentationName="Iteration" briefDescription="An iteration is a set period of time within a project in which you produce a stable, executable version of the product, together with any other supporting documentation, install scripts, or similar, necessary to use this release. Also referred to as a cycle or a timebox.">
+            <methodElementProperty xmi:id="_rONNgDtFEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Ej-DgoTWltcMlgz8IFL8Ew" href="uma://-Ej-DgoTWltcMlgz8IFL8Ew#-Ej-DgoTWltcMlgz8IFL8Ew"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_2Det8DtFEeiOSvawQAsHpQ" name="metrics" guid="_2Det8DtFEeiOSvawQAsHpQ" presentationName="Metrics" briefDescription="A metric is used to interpret measurements so that team members and stakeholders can know the state of the project.">
+            <methodElementProperty xmi:id="_2d8cYDtFEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-HclyLVa3Ee1VUYSqlCcP8g" href="uma://-HclyLVa3Ee1VUYSqlCcP8g#-HclyLVa3Ee1VUYSqlCcP8g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_7mEz0DtFEeiOSvawQAsHpQ" name="risk" guid="_7mEz0DtFEeiOSvawQAsHpQ" presentationName="Risk" briefDescription="A risk is whatever may stand in the way to success, and is currently unknown or uncertain. Usually, a risk is qualified by the probability of occurrence and the impact in the project, if it occurs.">
+            <methodElementProperty xmi:id="_8jSqADtFEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ohFtnJ6A78zAmoIDkPbjog" href="uma://-ohFtnJ6A78zAmoIDkPbjog#-ohFtnJ6A78zAmoIDkPbjog"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_BwXL0DtGEeiOSvawQAsHpQ" name="risk_list" guid="_BwXL0DtGEeiOSvawQAsHpQ" presentationName="Risk List" briefDescription="This checklist provides guidance on assessing that all possible risks in a project have been considered.">
+            <methodElementProperty xmi:id="_C9GEsDtGEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_JREkMDtGEeiOSvawQAsHpQ" name="agile_estimation" guid="_JREkMDtGEeiOSvawQAsHpQ" presentationName="Agile Estimation" briefDescription="This guideline explains the three key concepts of agile estimation and how they relate to each other. It describes agile estimation concepts of size, velocity, and effort.">
+            <methodElementProperty xmi:id="_KNZpkDtGEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-m6JLUUuFJ2-l7nEQ_0PgfA" href="uma://-m6JLUUuFJ2-l7nEQ_0PgfA#-m6JLUUuFJ2-l7nEQ_0PgfA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_QxnkgDtGEeiOSvawQAsHpQ" name="managing_risks" guid="_QxnkgDtGEeiOSvawQAsHpQ" presentationName="Managing Risks" briefDescription="This is a fundamental practice that project managers should consider in their projects. Identifying and minimizing risks early in the project lifecycle is key factor for project success.">
+            <methodElementProperty xmi:id="_RnakEDtGEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-K4HDBbwMnaSZlTHUOFi66g" href="uma://-K4HDBbwMnaSZlTHUOFi66g#-K4HDBbwMnaSZlTHUOFi66g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_a22IEDtGEeiOSvawQAsHpQ" name="iteration_burndown" guid="_a22IEDtGEeiOSvawQAsHpQ" presentationName="Iteration Burndown" briefDescription="The iteration burndown shows the trend for how much work is left to do within that iteration.">
+            <methodElementProperty xmi:id="_b70zIDtGEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-8Rw7BOTaYjpLIS79RumXng" href="uma://-8Rw7BOTaYjpLIS79RumXng#-8Rw7BOTaYjpLIS79RumXng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_hzxd8DtGEeiOSvawQAsHpQ" name="risk_list" guid="_hzxd8DtGEeiOSvawQAsHpQ" presentationName="Risk List" briefDescription="This spreadsheet suggests how to represent the risk list list. Other tools can be used for this purpose. ">
+            <methodElementProperty xmi:id="_jBRy4DtGEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-RK75dFI1Nk3AGkqiV1QDlg" href="uma://-RK75dFI1Nk3AGkqiV1QDlg#-RK75dFI1Nk3AGkqiV1QDlg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_c243wDtHEeiOSvawQAsHpQ" name="work_items_list" guid="_c243wDtHEeiOSvawQAsHpQ" presentationName="Work Items List">
+            <methodElementProperty xmi:id="_kBD_cDtHEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-_Xo4pRu2FxGtegiVd4q8Pg" href="uma://-_Xo4pRu2FxGtegiVd4q8Pg#-_Xo4pRu2FxGtegiVd4q8Pg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_7_BNYDtHEeiOSvawQAsHpQ" name="agile" guid="_7_BNYDtHEeiOSvawQAsHpQ" presentationName="Agile">
+            <methodElementProperty xmi:id="_8033UDtHEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-TgsR1nQVVhnl8zujpGWDdg" href="uma://-TgsR1nQVVhnl8zujpGWDdg#-TgsR1nQVVhnl8zujpGWDdg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_ENUrkDtIEeiOSvawQAsHpQ" name="effort" guid="_ENUrkDtIEeiOSvawQAsHpQ" presentationName="Effort">
+            <methodElementProperty xmi:id="_FrnOgDtIEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-xGlcYAEldu3aZZm49DmCxQ" href="uma://-xGlcYAEldu3aZZm49DmCxQ#-xGlcYAEldu3aZZm49DmCxQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_J0cFEDtIEeiOSvawQAsHpQ" name="estimation" guid="_J0cFEDtIEeiOSvawQAsHpQ" presentationName="Estimation">
+            <methodElementProperty xmi:id="_NYQxIDtIEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-KfK9M9Dz9KmEHaXjdhGFZA" href="uma://-KfK9M9Dz9KmEHaXjdhGFZA#-KfK9M9Dz9KmEHaXjdhGFZA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_RwGUEDtIEeiOSvawQAsHpQ" name="iteration" guid="_RwGUEDtIEeiOSvawQAsHpQ" presentationName="Iteration">
+            <methodElementProperty xmi:id="_ShmCcDtIEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-tehV2F_jbPRsAXGMP5_BDg" href="uma://-tehV2F_jbPRsAXGMP5_BDg#-tehV2F_jbPRsAXGMP5_BDg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_XOvuEDtIEeiOSvawQAsHpQ" name="milestone" guid="_XOvuEDtIEeiOSvawQAsHpQ" presentationName="Milestone">
+            <methodElementProperty xmi:id="_YOFEIDtIEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-I9KvV3c1U9A8MK9CR_ygKw" href="uma://-I9KvV3c1U9A8MK9CR_ygKw#-I9KvV3c1U9A8MK9CR_ygKw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_dgziADtIEeiOSvawQAsHpQ" name="risk" guid="_dgziADtIEeiOSvawQAsHpQ" presentationName="Risk">
+            <methodElementProperty xmi:id="_eZGb8DtIEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-gsCaFpsKkLoJEO361br1ww" href="uma://-gsCaFpsKkLoJEO361br1ww#-gsCaFpsKkLoJEO361br1ww"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_i5A80DtIEeiOSvawQAsHpQ" name="scope" guid="_i5A80DtIEeiOSvawQAsHpQ" presentationName="Scope">
+            <methodElementProperty xmi:id="_js_-gDtIEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-XEv78vfGcwL0VC2yP8lHpg" href="uma://-XEv78vfGcwL0VC2yP8lHpg#-XEv78vfGcwL0VC2yP8lHpg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_LAgNkDteEeiOSvawQAsHpQ" name="class_diagram" guid="_LAgNkDteEeiOSvawQAsHpQ" presentationName="Class Diagram" briefDescription="A class diagram is an illustration of the relationships and source code dependencies among classes in the Unified Modeling Language (UML).">
+            <methodElementProperty xmi:id="_L1QrUDteEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-hV2jbGeY14lDMJGsTNOcsg" href="uma://-hV2jbGeY14lDMJGsTNOcsg#-hV2jbGeY14lDMJGsTNOcsg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NMSvsDteEeiOSvawQAsHpQ" name="state_diagram" guid="_NMSvsDteEeiOSvawQAsHpQ" presentationName="State Diagram" briefDescription="A state diagram is a type of diagram used to describe the behavior of systems.">
+            <methodElementProperty xmi:id="_N9UkADteEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-sNcYi2WTTrBOGElRfmk4Yg" href="uma://-sNcYi2WTTrBOGElRfmk4Yg#-sNcYi2WTTrBOGElRfmk4Yg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_VOsf4DteEeiOSvawQAsHpQ" name="package_diagram" guid="_VOsf4DteEeiOSvawQAsHpQ" presentationName="Package Diagram" briefDescription="A package diagram in the Unified Modeling Language (UML) depicts the dependencies between the packages that make up a model.">
+            <methodElementProperty xmi:id="_WVLm0DteEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-sDTRsmCJXVffgm0EQLMrKQ" href="uma://-sDTRsmCJXVffgm0EQLMrKQ#-sDTRsmCJXVffgm0EQLMrKQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ZnzOIDteEeiOSvawQAsHpQ" name="system_sequence_diagram" guid="_ZnzOIDteEeiOSvawQAsHpQ" presentationName="System Sequence Diagram" briefDescription="A diagram that shows the details of events that are generated by actors from outside the system.">
+            <methodElementProperty xmi:id="_a9WEwDteEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-fQU0YMGuTfqr6Q3AKwhHWg" href="uma://-fQU0YMGuTfqr6Q3AKwhHWg#-fQU0YMGuTfqr6Q3AKwhHWg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5a9dwDteEeiOSvawQAsHpQ" name="define_user_stories" guid="_5a9dwDteEeiOSvawQAsHpQ" presentationName="Define User Stories" briefDescription="An informal, natural language description of one or more features of a software system." performedBy="_cCgOQETbEeia4465Ins-PQ" output="_ET7XIDaYEeizzccWWzGJvA">
+            <methodElementProperty xmi:id="_6Tu40DteEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-DlUBjY5Nkblg-hTLfd0YbA" href="uma://-DlUBjY5Nkblg-hTLfd0YbA#-DlUBjY5Nkblg-hTLfd0YbA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1bj-EDtgEeiOSvawQAsHpQ" name="product_backlog" guid="_1bj-EDtgEeiOSvawQAsHpQ" presentationName="Product Backlog" briefDescription="An ordered list of everything that is known to be needed in the product.">
+            <methodElementProperty xmi:id="_2qUQMDtgEeiOSvawQAsHpQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-upPXpkF1IyEoKMBlNH0Qfg" href="uma://-upPXpkF1IyEoKMBlNH0Qfg#-upPXpkF1IyEoKMBlNH0Qfg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TWJFkEMvEeiNHppt5DLcYA" name="create_development_environment" guid="_TWJFkEMvEeiNHppt5DLcYA" presentationName="Create Development Environment" briefDescription="Set up Java environment for developers so they can build, test and debug their work." performedBy="_WAnIUDKHEeicN8Zvo366ZQ">
+            <methodElementProperty xmi:id="_XtijoEMvEeiNHppt5DLcYA" name="me_edited" value="true"/>
+            <presentation xmi:id="-aWzdKwXtu9M3oRlyVpsuJw" href="uma://-aWzdKwXtu9M3oRlyVpsuJw#-aWzdKwXtu9M3oRlyVpsuJw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_fbt5gESeEeiwgZ8eifS8bA" name="define_technical_approach" guid="_fbt5gESeEeiwgZ8eifS8bA" presentationName="Define Technical Approach" briefDescription="Reach concensus on a viable technical approach to developing the solution." performedBy="_WAnIUDKHEeicN8Zvo366ZQ" mandatoryInput="_63t7YDaXEeizzccWWzGJvA" output="_bNiOQDKJEeicN8Zvo366ZQ">
+            <methodElementProperty xmi:id="_hP4l0ESeEeiwgZ8eifS8bA" name="me_edited" value="true"/>
+            <presentation xmi:id="-feuYzrzzt0Xc0NDEPIbIxA" href="uma://-feuYzrzzt0Xc0NDEPIbIxA#-feuYzrzzt0Xc0NDEPIbIxA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_cCgOQETbEeia4465Ins-PQ" name="any_role" guid="_cCgOQETbEeia4465Ins-PQ" presentationName="Any Role" briefDescription="This role represents all roles where a specific role does not apply.">
+            <methodElementProperty xmi:id="_e6aPgETbEeia4465Ins-PQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-sC-gyRMkj7ENOCMUyXDpMQ" href="uma://-sC-gyRMkj7ENOCMUyXDpMQ#-sC-gyRMkj7ENOCMUyXDpMQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3_CTsEfSEeiIxoFTotST_w" name="propose_archtecture" guid="_3_CTsEfSEeiIxoFTotST_w" presentationName="Propose Archtecture" briefDescription="A proposal for the conceptual model that defines the structure, behavior, and more views of a system.">
+            <methodElementProperty xmi:id="_5NRocEfSEeiIxoFTotST_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-hjJxtEZSsoxO-NP1r56KKg" href="uma://-hjJxtEZSsoxO-NP1r56KKg#-hjJxtEZSsoxO-NP1r56KKg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5wuMYEfVEeiIxoFTotST_w" name="create_domain_model" guid="_5wuMYEfVEeiIxoFTotST_w" presentationName="Create Domain Model" briefDescription="A domain model is a conceptual model of the domain that incorporates both behavior and data.">
+            <methodElementProperty xmi:id="_67PewEfVEeiIxoFTotST_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-YI-h7sUftRPEpuRW5YdbNQ" href="uma://-YI-h7sUftRPEpuRW5YdbNQ#-YI-h7sUftRPEpuRW5YdbNQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Yk9Y0EfaEeiIxoFTotST_w" name="design_solution" guid="_Yk9Y0EfaEeiIxoFTotST_w" presentationName="Design Solution" briefDescription="Software design is the process by which an agent creates a specification of a software artifact.">
+            <methodElementProperty xmi:id="_Zd5zAEfaEeiIxoFTotST_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-OtUYBegDzxYYVQDQWxm6ZQ" href="uma://-OtUYBegDzxYYVQDQWxm6ZQ#-OtUYBegDzxYYVQDQWxm6ZQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hWhfoEfbEeiIxoFTotST_w" name="configuration_management" guid="_hWhfoEfbEeiIxoFTotST_w" presentationName="Configuration Management" briefDescription="software configuration management is the task of tracking and controlling changes in the software.">
+            <methodElementProperty xmi:id="_iwlp4EfbEeiIxoFTotST_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-V703CDjoUvDwAT8wcltqig" href="uma://-V703CDjoUvDwAT8wcltqig#-V703CDjoUvDwAT8wcltqig"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qfM7YEfbEeiIxoFTotST_w" name="deployment" guid="_qfM7YEfbEeiIxoFTotST_w" presentationName="Deployment" briefDescription="Software deployment is all of the activities that make a software system available for use.">
+            <methodElementProperty xmi:id="_rkXzsEfbEeiIxoFTotST_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-HDIsap9eMvd7S704J2OBpQ" href="uma://-HDIsap9eMvd7S704J2OBpQ#-HDIsap9eMvd7S704J2OBpQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0_aKwEfbEeiIxoFTotST_w" name="create_unit_tests" guid="_0_aKwEfbEeiIxoFTotST_w" presentationName="Create Unit Tests" briefDescription="Creating unit tests can be viewed as applying test functionality to the smallest testable parts of an application. Unit testing is commonly automated, but may still be performed manually.">
+            <methodElementProperty xmi:id="_2Lj00EfbEeiIxoFTotST_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-pMXHxb9waMfiZYBZ2We-5g" href="uma://-pMXHxb9waMfiZYBZ2We-5g#-pMXHxb9waMfiZYBZ2We-5g"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_veDGMDpBEeiNO_pRY60SaQ" name="scrum_content" guid="_veDGMDpBEeiNO_pRY60SaQ" presentationName="Scrum_content">
+          <methodElementProperty xmi:id="_veEUUDpBEeiNO_pRY60SaQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_LHDpkDpCEeiNO_pRY60SaQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_3axFIDpBEeiNO_pRY60SaQ" name="product_owner" guid="_3axFIDpBEeiNO_pRY60SaQ" presentationName="Product Owner" briefDescription="The product owner is commonly a lead user of the system or someone from marketing, product management or anyone with a solid understanding of users, the market place, the competition and of future trends for the domain or type of system being developed. ">
+            <methodElementProperty xmi:id="_JOY3wDpCEeiNO_pRY60SaQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-xKfYnppWP2INX_vf-uN0_w" href="uma://-xKfYnppWP2INX_vf-uN0_w#-xKfYnppWP2INX_vf-uN0_w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_VZBooDpCEeiNO_pRY60SaQ" name="scrum_master" guid="_VZBooDpCEeiNO_pRY60SaQ" presentationName="Scrum_Master" briefDescription="The ScrumMaster can be thought of as a process owner for the team, creating a balance with the project's key stakeholder, who is referred to as the product owner.">
+            <methodElementProperty xmi:id="_WWgkkDpCEeiNO_pRY60SaQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-UFwBY1zqOtlSJBoz01avpQ" href="uma://-UFwBY1zqOtlSJBoz01avpQ#-UFwBY1zqOtlSJBoz01avpQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TuWAIDqdEeiTSbnYMpdisw" name="estimate_product_backlog" guid="_TuWAIDqdEeiTSbnYMpdisw" presentationName="Estimate Product Backlog" briefDescription="Periodically the Scrum team will estimate the size of each item on the product backlog." conceptsAndPapers="_FUungDqjEeiTSbnYMpdisw" guidelines="_X-Kn0DqjEeiTSbnYMpdisw" performedBy="_d3lVcDqnEeiTSbnYMpdisw _3axFIDpBEeiNO_pRY60SaQ _VZBooDpCEeiNO_pRY60SaQ" mandatoryInput="_rJq98DqkEeiTSbnYMpdisw" output="_rJq98DqkEeiTSbnYMpdisw">
+            <methodElementProperty xmi:id="_fi82oDqdEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-R2RR6ANm0xfl8NWp14tDKQ" href="uma://-R2RR6ANm0xfl8NWp14tDKQ#-R2RR6ANm0xfl8NWp14tDKQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_kvraMDqdEeiTSbnYMpdisw" name="sprint_planning_meeting" guid="_kvraMDqdEeiTSbnYMpdisw" presentationName="Sprint Planning Meeting" briefDescription="The Sprint Planning Meeting is where the Scrum Team and Product owner determine which features and tasks will be attempted in the upcoming sprint" performedBy="_d3lVcDqnEeiTSbnYMpdisw" mandatoryInput="_rJq98DqkEeiTSbnYMpdisw" output="_Q7_ToDqlEeiTSbnYMpdisw" additionallyPerformedBy="_3axFIDpBEeiNO_pRY60SaQ _VZBooDpCEeiNO_pRY60SaQ">
+            <methodElementProperty xmi:id="_oVzzYDqdEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-I-S_WBAu_1QByDGXrMRNbg" href="uma://-I-S_WBAu_1QByDGXrMRNbg#-I-S_WBAu_1QByDGXrMRNbg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0W8C8DqdEeiTSbnYMpdisw" name="sprint_retrospective" guid="_0W8C8DqdEeiTSbnYMpdisw" presentationName="Sprint Retrospective" briefDescription="Following the Sprint Review, the team gets together for the Sprint Retrospective." performedBy="_d3lVcDqnEeiTSbnYMpdisw" mandatoryInput="_Q7_ToDqlEeiTSbnYMpdisw" additionallyPerformedBy="_3axFIDpBEeiNO_pRY60SaQ _VZBooDpCEeiNO_pRY60SaQ">
+            <methodElementProperty xmi:id="_12i0gDqdEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-0T3OAF-9hMm2qcwggpsPow" href="uma://-0T3OAF-9hMm2qcwggpsPow#-0T3OAF-9hMm2qcwggpsPow"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_FBf7wDqeEeiTSbnYMpdisw" name="sprint_review_meeting" guid="_FBf7wDqeEeiTSbnYMpdisw" presentationName="Sprint Review Meeting " briefDescription="Each sprint concludes with a Sprint Review where the team demonstrates a potentially shippable product increment." performedBy="_d3lVcDqnEeiTSbnYMpdisw" mandatoryInput="_Q7_ToDqlEeiTSbnYMpdisw" output="_5LZW0DqlEeiTSbnYMpdisw" additionallyPerformedBy="_3axFIDpBEeiNO_pRY60SaQ _VZBooDpCEeiNO_pRY60SaQ">
+            <methodElementProperty xmi:id="_JTpGYDqeEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-oNrnEMynOBTBye5Z-XWPug" href="uma://-oNrnEMynOBTBye5Z-XWPug#-oNrnEMynOBTBye5Z-XWPug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ctiTQDqeEeiTSbnYMpdisw" name="daily_standup_meeting" guid="_ctiTQDqeEeiTSbnYMpdisw" presentationName="Daily Standup Meeting" briefDescription="The Daily Standup meeting is a quick meeting comprised of all members of the Scrum Team and the Scrum Master." performedBy="_d3lVcDqnEeiTSbnYMpdisw" mandatoryInput="_5LZW0DqlEeiTSbnYMpdisw" output="_Q7_ToDqlEeiTSbnYMpdisw _pWTtcDqlEeiTSbnYMpdisw _5LZW0DqlEeiTSbnYMpdisw" additionallyPerformedBy="_3axFIDpBEeiNO_pRY60SaQ _VZBooDpCEeiNO_pRY60SaQ">
+            <methodElementProperty xmi:id="_eBywcDqeEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-4vqDd6Qd66LFd2jFfFgBYQ" href="uma://-4vqDd6Qd66LFd2jFfFgBYQ#-4vqDd6Qd66LFd2jFfFgBYQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1rbUMDqeEeiTSbnYMpdisw" name="prioritizing_the_backlog" guid="_1rbUMDqeEeiTSbnYMpdisw" presentationName="Prioritizing the Backlog" briefDescription="The items in the Product Backlog are prioritized by the Product Owner prior to release and sprint planning." performedBy="_3axFIDpBEeiNO_pRY60SaQ" mandatoryInput="_rJq98DqkEeiTSbnYMpdisw" output="_rJq98DqkEeiTSbnYMpdisw">
+            <methodElementProperty xmi:id="_A-crIDqgEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-_ciMNlv8N7ZOF6RrdfzZ2A" href="uma://-_ciMNlv8N7ZOF6RrdfzZ2A#-_ciMNlv8N7ZOF6RrdfzZ2A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VwCDsDqgEeiTSbnYMpdisw" name="release_planning" guid="_VwCDsDqgEeiTSbnYMpdisw" presentationName="Release Planning" briefDescription="At the beginning of a project the team will create a high-level release plan" performedBy="_d3lVcDqnEeiTSbnYMpdisw" mandatoryInput="_rJq98DqkEeiTSbnYMpdisw" output="_bWb78EM6EeiNHppt5DLcYA" additionallyPerformedBy="_3axFIDpBEeiNO_pRY60SaQ _VZBooDpCEeiNO_pRY60SaQ">
+            <methodElementProperty xmi:id="_Yg5o0DqgEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-gxKQLVmQjUak3gr5GOrHxg" href="uma://-gxKQLVmQjUak3gr5GOrHxg#-gxKQLVmQjUak3gr5GOrHxg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_FUungDqjEeiTSbnYMpdisw" name="story_points" guid="_FUungDqjEeiTSbnYMpdisw" presentationName="Story Points" briefDescription="A story point is a relative estimate of the &quot;size&quot; of the work compared to other work on the project.">
+            <methodElementProperty xmi:id="_Got-8DqjEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-1HTwXqCbW_BW5hvv27xLBg" href="uma://-1HTwXqCbW_BW5hvv27xLBg#-1HTwXqCbW_BW5hvv27xLBg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_X-Kn0DqjEeiTSbnYMpdisw" name="estimation_techniques" guid="_X-Kn0DqjEeiTSbnYMpdisw" presentationName="Estimation Techniques " briefDescription="As items are added to the product backlog the size of those items are estimated by the team.">
+            <methodElementProperty xmi:id="_bEVukDqjEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-1doSfVpajjCet8OcI7TOlA" href="uma://-1doSfVpajjCet8OcI7TOlA#-1doSfVpajjCet8OcI7TOlA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_rJq98DqkEeiTSbnYMpdisw" name="product_backlog" guid="_rJq98DqkEeiTSbnYMpdisw" presentationName="Product Backlog" briefDescription="The Product Backlog is the master list of all functionality desired in the product.">
+            <methodElementProperty xmi:id="_spWoADqkEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-Bwm5uxJj3CbRHPL6tqtyfQ" href="uma://-Bwm5uxJj3CbRHPL6tqtyfQ#-Bwm5uxJj3CbRHPL6tqtyfQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Q7_ToDqlEeiTSbnYMpdisw" name="sprint_backlog" guid="_Q7_ToDqlEeiTSbnYMpdisw" presentationName="Sprint Backlog" briefDescription="The sprint backlog is a list of tasks identified by the Scrum team to be completed during the Scrum sprint.">
+            <methodElementProperty xmi:id="_UlMO8DqlEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-SVEqepxrXhIK_gJlzsgdKQ" href="uma://-SVEqepxrXhIK_gJlzsgdKQ#-SVEqepxrXhIK_gJlzsgdKQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_pWTtcDqlEeiTSbnYMpdisw" name="sprint_burndown_chart" guid="_pWTtcDqlEeiTSbnYMpdisw" presentationName="Sprint Burndown Chart" briefDescription="The Sprint Burndown Chart is a graphical representation of the work remaining over the duration of the Sprint.">
+            <methodElementProperty xmi:id="_v6bhwDqlEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-nVXO7_NHl6OIcymX1cJgDg" href="uma://-nVXO7_NHl6OIcymX1cJgDg#-nVXO7_NHl6OIcymX1cJgDg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5LZW0DqlEeiTSbnYMpdisw" name="task_board" guid="_5LZW0DqlEeiTSbnYMpdisw" presentationName="Task Board" briefDescription="The task board shows all the work the team is doing during a sprint.">
+            <methodElementProperty xmi:id="_BEAR0DqmEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-ajrfEP_fpHOYFWnKE-ZqfA" href="uma://-ajrfEP_fpHOYFWnKE-ZqfA#-ajrfEP_fpHOYFWnKE-ZqfA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_d3lVcDqnEeiTSbnYMpdisw" name="scrum_team" guid="_d3lVcDqnEeiTSbnYMpdisw" presentationName="Scrum Team" briefDescription="&#x9;&#xD;&#xA;The Scrum Team builds the product that the customer is going to consume: the software or website, for example. The team in Scrum is &quot;cross-functional&quot; - it includes all the expertise necessary to deliver the potentially shippable product each Sprint - and it is &quot;self-organizing&quot;, with a very high degree of autonomy and accountability.">
+            <methodElementProperty xmi:id="_jlNmoDqnEeiTSbnYMpdisw" name="me_edited" value="true"/>
+            <presentation xmi:id="-D2swyJdIKSz-hVvoKEp2xA" href="uma://-D2swyJdIKSz-hVvoKEp2xA#-D2swyJdIKSz-hVvoKEp2xA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bWb78EM6EeiNHppt5DLcYA" name="release_plan" guid="_bWb78EM6EeiNHppt5DLcYA" presentationName="Release Plan" briefDescription="A very high-level plan for multiple Sprints.">
+            <methodElementProperty xmi:id="_cKnx8EM6EeiNHppt5DLcYA" name="me_edited" value="true"/>
+            <presentation xmi:id="-IfIwCJFu3eWO2gorOrZpJQ" href="uma://-IfIwCJFu3eWO2gorOrZpJQ#-IfIwCJFu3eWO2gorOrZpJQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lDbJQEToEeia4465Ins-PQ" name="implementation" guid="_lDbJQEToEeia4465Ins-PQ" presentationName="Implementation" briefDescription="Design, implement, and integrate the solution for a given requirement.">
+            <methodElementProperty xmi:id="_lEzCQEToEeia4465Ins-PQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-93ffeNW95Pa9PMcrhLlFFA" href="uma://-93ffeNW95Pa9PMcrhLlFFA#-93ffeNW95Pa9PMcrhLlFFA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oJRDYETpEeia4465Ins-PQ" name="backlog_refinement" guid="_oJRDYETpEeia4465Ins-PQ" presentationName="Backlog Refinement" briefDescription="A meeting that is held near the end of one sprint to ensure the backlog is ready for the next sprint." performedBy="_3axFIDpBEeiNO_pRY60SaQ _VZBooDpCEeiNO_pRY60SaQ _d3lVcDqnEeiTSbnYMpdisw" mandatoryInput="_rJq98DqkEeiTSbnYMpdisw" output="_rJq98DqkEeiTSbnYMpdisw">
+            <methodElementProperty xmi:id="_lxv88ETqEeia4465Ins-PQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-1-rWeQLZ3uBr4Nvpb783IA" href="uma://-1-rWeQLZ3uBr4Nvpb783IA#-1-rWeQLZ3uBr4Nvpb783IA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_W27jcETqEeia4465Ins-PQ" name="working_on_spike" guid="_W27jcETqEeia4465Ins-PQ" presentationName="Working on spike" briefDescription="An activity to execute a spike, which  is a story that cannot be estimated until a development team runs a timeboxed investigation." performedBy="_d3lVcDqnEeiTSbnYMpdisw">
+            <methodElementProperty xmi:id="_a4vzEETqEeia4465Ins-PQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-lFh2ErfZsBXwGqOr9_5paw" href="uma://-lFh2ErfZsBXwGqOr9_5paw#-lFh2ErfZsBXwGqOr9_5paw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_baiRgETqEeia4465Ins-PQ" name="working_on_user_story" guid="_baiRgETqEeia4465Ins-PQ" presentationName="Working on user story" briefDescription="An activity that pertains to the design, implementation, testing and configuration management of a part of a feature." performedBy="_d3lVcDqnEeiTSbnYMpdisw" mandatoryInput="_Q7_ToDqlEeiTSbnYMpdisw _bNiOQDKJEeicN8Zvo366ZQ" output="_qyYMQDdXEeiBBoDLVvOxsQ">
+            <methodElementProperty xmi:id="_df1KEETqEeia4465Ins-PQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-J_kPIRr75ejbTJXURxhu1Q" href="uma://-J_kPIRr75ejbTJXURxhu1Q#-J_kPIRr75ejbTJXURxhu1Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_J-IPIEfWEeiIxoFTotST_w" name="create_product_backlog" guid="_J-IPIEfWEeiIxoFTotST_w" presentationName="Create Product Backlog" briefDescription="A list of all things that needs to be done within the project." performedBy="_3axFIDpBEeiNO_pRY60SaQ _VZBooDpCEeiNO_pRY60SaQ _d3lVcDqnEeiTSbnYMpdisw" mandatoryInput="_63t7YDaXEeizzccWWzGJvA _Rz1s8Ds6EeiOSvawQAsHpQ _gpvdgDaVEeizzccWWzGJvA" output="_1bj-EDtgEeiOSvawQAsHpQ">
+            <methodElementProperty xmi:id="_LIw2QEfWEeiIxoFTotST_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-qKG3POFeYnR4-tT_hUvuzg" href="uma://-qKG3POFeYnR4-tT_hUvuzg#-qKG3POFeYnR4-tT_hUvuzg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Zm4FoEfWEeiIxoFTotST_w" name="define_user_stories" guid="_Zm4FoEfWEeiIxoFTotST_w" presentationName="Define User Stories" briefDescription="A user story is a tool used in Agile software development to capture a description of a software feature from an end-user perspective." performedBy="_3axFIDpBEeiNO_pRY60SaQ" mandatoryInput="_1bj-EDtgEeiOSvawQAsHpQ _Rz1s8Ds6EeiOSvawQAsHpQ" output="_ET7XIDaYEeizzccWWzGJvA" additionallyPerformedBy="_VZBooDpCEeiNO_pRY60SaQ _d3lVcDqnEeiTSbnYMpdisw">
+            <methodElementProperty xmi:id="_ajF2QEfWEeiIxoFTotST_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-DAdQDTQXOMMbvt7zYDFWRA" href="uma://-DAdQDTQXOMMbvt7zYDFWRA#-DAdQDTQXOMMbvt7zYDFWRA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qN2CcEfXEeiIxoFTotST_w" name="define_acceptance_criteria" guid="_qN2CcEfXEeiIxoFTotST_w" presentationName="Define Acceptance Criteria" briefDescription="Acceptance criteria define what must be done to complete an Agile user story. They specify the boundaries of the story and are used to confirm when it is working as intended.WWx" performedBy="_3axFIDpBEeiNO_pRY60SaQ _VZBooDpCEeiNO_pRY60SaQ" mandatoryInput="_ET7XIDaYEeizzccWWzGJvA _63t7YDaXEeizzccWWzGJvA _Rz1s8Ds6EeiOSvawQAsHpQ" output="_1bj-EDtgEeiOSvawQAsHpQ" additionallyPerformedBy="_d3lVcDqnEeiTSbnYMpdisw">
+            <methodElementProperty xmi:id="_rXbgsEfXEeiIxoFTotST_w" name="me_edited" value="true"/>
+            <presentation xmi:id="-BkwwCbcsqfd_CqBuXZpifQ" href="uma://-BkwwCbcsqfd_CqBuXZpifQ#-BkwwCbcsqfd_CqBuXZpifQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_OIRkUEmXEei5U6SVQtDbig" name="postmortem" guid="_OIRkUEmXEei5U6SVQtDbig" presentationName="Postmortem" briefDescription="A project postmortem is a process to determine and analyze elements of the project that were successful or unsuccessful.">
+            <methodElementProperty xmi:id="_PMFKsEmXEei5U6SVQtDbig" name="me_edited" value="true"/>
+            <presentation xmi:id="-2Vj5aazr1OjDl3Fh84L_tw" href="uma://-2Vj5aazr1OjDl3Fh84L_tw#-2Vj5aazr1OjDl3Fh84L_tw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_hQ4i8EpSEeigtMLlYdlLWg" name="version_control" guid="_hQ4i8EpSEeigtMLlYdlLWg" presentationName="Version Control" briefDescription="A component of software configuration management, version control is the management of changes to documents." contentReferences="_TWJFkEMvEeiNHppt5DLcYA _0_aKwEfbEeiIxoFTotST_w _qfM7YEfbEeiIxoFTotST_w _zTqeoDaYEeizzccWWzGJvA _N1S8cDdYEeiBBoDLVvOxsQ _dBbS8DdZEeiBBoDLVvOxsQ _baiRgETqEeia4465Ins-PQ">
+            <methodElementProperty xmi:id="_hRp_AEpSEeigtMLlYdlLWg" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_idzpEEpSEeigtMLlYdlLWg" name="me_edited" value="true"/>
+            <presentation xmi:id="-2NTsCGKV7F_k_uCNOdcDnw" href="uma://-2NTsCGKV7F_k_uCNOdcDnw#-2NTsCGKV7F_k_uCNOdcDnw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_pEd0AEpSEeigtMLlYdlLWg" name="scrum_board" guid="_pEd0AEpSEeigtMLlYdlLWg" presentationName="Scrum Board" briefDescription="Trello is an online board that includes lists and cards and allows the team to build tasks for software projects." contentReferences="_oJRDYETpEeia4465Ins-PQ _J-IPIEfWEeiIxoFTotST_w _qN2CcEfXEeiIxoFTotST_w _Zm4FoEfWEeiIxoFTotST_w _TuWAIDqdEeiTSbnYMpdisw _lDbJQEToEeia4465Ins-PQ _1rbUMDqeEeiTSbnYMpdisw _VwCDsDqgEeiTSbnYMpdisw _kvraMDqdEeiTSbnYMpdisw _0W8C8DqdEeiTSbnYMpdisw _FBf7wDqeEeiTSbnYMpdisw _W27jcETqEeia4465Ins-PQ _baiRgETqEeia4465Ins-PQ _ET7XIDaYEeizzccWWzGJvA">
+            <methodElementProperty xmi:id="_pE4qwEpSEeigtMLlYdlLWg" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_pyKngEpSEeigtMLlYdlLWg" name="me_edited" value="true"/>
+            <presentation xmi:id="-4q1yAiLThGoM2kpH3pZpKA" href="uma://-4q1yAiLThGoM2kpH3pZpKA#-4q1yAiLThGoM2kpH3pZpKA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_rBCOYEpSEeigtMLlYdlLWg" name="daily_communication" guid="_rBCOYEpSEeigtMLlYdlLWg" presentationName="Daily Communication" briefDescription="The Slack application creates alignment and shared understanding across your team by providing text messaging functionality." contentReferences="_fbt5gESeEeiwgZ8eifS8bA _qfM7YEfbEeiIxoFTotST_w _Yk9Y0EfaEeiIxoFTotST_w _zTqeoDaYEeizzccWWzGJvA _6zvsQDaVEeizzccWWzGJvA _3_CTsEfSEeiIxoFTotST_w _wnOl0DszEeiOSvawQAsHpQ _1diHYDdXEeiBBoDLVvOxsQ _qN2CcEfXEeiIxoFTotST_w _Zm4FoEfWEeiIxoFTotST_w _lDbJQEToEeia4465Ins-PQ _W27jcETqEeia4465Ins-PQ _baiRgETqEeia4465Ins-PQ">
+            <methodElementProperty xmi:id="_rBe6UEpSEeigtMLlYdlLWg" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_ryaA8EpSEeigtMLlYdlLWg" name="me_edited" value="true"/>
+            <presentation xmi:id="-CVYqPjsEQ-3FPb3aSM7Cxw" href="uma://-CVYqPjsEQ-3FPb3aSM7Cxw#-CVYqPjsEQ-3FPb3aSM7Cxw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LdI_cEp2EeisRamC_torBQ" name="define_sprint_backlog" guid="_LdI_cEp2EeisRamC_torBQ" presentationName="Define Sprint Backlog" briefDescription="A task responsible for creation of the sprint backlog." mandatoryInput="_1bj-EDtgEeiOSvawQAsHpQ" output="_Q7_ToDqlEeiTSbnYMpdisw">
+            <methodElementProperty xmi:id="_NNj0MEp2EeisRamC_torBQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-j7Rl6goFcjsqINehP3zdGg" href="uma://-j7Rl6goFcjsqINehP3zdGg#-j7Rl6goFcjsqINehP3zdGg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_S1BS7TKDEeicN8Zvo366ZQ" name="CapabilityPatterns" guid="_S1BS7TKDEeicN8Zvo366ZQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_1k4HAEmWEei5U6SVQtDbig" href="uma://_1k4HAEmWEei5U6SVQtDbig#_1k4HAEmWEei5U6SVQtDbig"/>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_S1BS7jKDEeicN8Zvo366ZQ" name="DeliveryProcesses" guid="_S1BS7jKDEeicN8Zvo366ZQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_YuE-sDKIEeicN8Zvo366ZQ" href="uma://_YuE-sDKIEeicN8Zvo366ZQ#_YuE-sDKIEeicN8Zvo366ZQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_S1BS7zKDEeicN8Zvo366ZQ" name="ProcessContributions" guid="_S1BS7zKDEeicN8Zvo366ZQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qKG3POFeYnR4-tT_hUvuzg" name=",_J-IPIEfWEeiIxoFTotST_w" guid="-qKG3POFeYnR4-tT_hUvuzg" changeDate="2018-04-26T00:50:08.245-0400">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0in 0in 8pt 0.25in&quot;>&#xD;
+    &lt;span style='FONT-SIZE: 10pt; FONT-FAMILY: &quot;Arial&quot;,sans-serif; LINE-HEIGHT: 107%'>Creating&amp;nbsp;a product backlog is&#xD;
+    prioritizing a&amp;nbsp;list of work for the development team that is derived from the roadmap and its requirements. The&#xD;
+    most important items are shown at the top of the product backlog so the team knows what to deliver first.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0in 0in 8pt 0.25in&quot;>&#xD;
+    &lt;span style='FONT-SIZE: 10pt; FONT-FAMILY: &quot;Arial&quot;,sans-serif; LINE-HEIGHT: 107%'>The development team doesn't work&#xD;
+    through the backlog at the product owner's pace and the product owner isn't pushing work to the development team.&#xD;
+    Instead, the development team pulls work from the product backlog as there is capacity for it through iteration&#xD;
+    (scrum).&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0in 0in 8pt 0.25in&quot;>&#xD;
+    &lt;span style='FONT-SIZE: 10pt; FONT-FAMILY: &quot;Arial&quot;,sans-serif; LINE-HEIGHT: 107%'>The realization of the requirmeents&#xD;
+    is usually in the form of user stories.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_EmwP4EfYEeiIxoFTotST_w" name="Define user stories" guid="_EmwP4EfYEeiIxoFTotST_w"/>
+  <sections xmi:id="_GSkRcEfYEeiIxoFTotST_w" name="Define acceptance criteria" guid="_GSkRcEfYEeiIxoFTotST_w"/>
+  <purpose>Comprises an ordered list of product requirements that a scrum team maintains for a product.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

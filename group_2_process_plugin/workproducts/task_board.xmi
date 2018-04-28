@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ajrfEP_fpHOYFWnKE-ZqfA" name="new_artifact,_5LZW0DqlEeiTSbnYMpdisw" guid="-ajrfEP_fpHOYFWnKE-ZqfA" changeDate="2018-04-07T16:56:38.352-0400">
+  <mainDescription>&lt;p>&#xD;
+    The task board shows all the work the team is doing during a sprint. It is updated continuously throughout the&#xD;
+    sprint–if someone thinks of a new task they write a new card and puts it on the board. Either during or before The&#xD;
+    Daily Scrum, estimates are changed (up or down) and cards are moved around the board.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Each row on the task board is a product backlog item (in this particular example stories). During the&#xD;
+    sprint planning meeting the team selects the product backlog items they can complete during the coming sprint. Each&#xD;
+    product backlog item is turned into multiple sprint backlog items. Each of these is represented by one task card that&#xD;
+    is placed on the task board. Each task card starts on the task board in the “To Do” column. The columns are:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; MARGIN-TOP: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 30px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        &lt;b>Story&lt;/b>–The story description (“As a user I want to…”) shown on that row.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        &lt;b>To Do&lt;/b>–This holds all the cards that are not done or in process.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        &lt;b>Work In Process&lt;/b>–Any card being worked on goes here. The programmer who chooses to work on it moves it over&#xD;
+        when she’s ready to start the task. Often this happens during the Daily Scrum when someone says, “I’m going to work&#xD;
+        on the boojum today.”&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        &lt;b>To Verify&lt;/b>–A lot of tasks have corresponding test task cards. So, if there’s a “Code the boojum class” card&#xD;
+        there is likely one or more task cards related to testing: “Test the boojum”, “Write FitNesse tests for the&#xD;
+        boojum,” “Write FitNesse fixture for the boojum,” etc. Some task cards don’t often get corresponding test cards&#xD;
+        (“Fix Bug #321 in Bugzilla”) so those are placed in the “To Verify” column.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        &lt;b>Done&lt;/b>–Cards pile up over here when they’re done. They’re removed at the end of the sprint.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <purpose>Tangibly communicates progress across team members and stakeholders.</purpose>
+  <representationOptions>There are many different ways to implement a task board. Co-located teams may use a wall. Distributed teams will use some&#xD;
+kind of tool.</representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

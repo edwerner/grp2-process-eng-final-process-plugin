@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4q1yAiLThGoM2kpH3pZpKA" name="new_practice,_pEd0AEpSEeigtMLlYdlLWg" guid="-4q1yAiLThGoM2kpH3pZpKA" changeDate="2018-04-27T15:51:58.259-0400">
+  <mainDescription>Trello is a board that includes lists and cards and allows the team to build tasks, specify checklists, measure task&#xD;
+progress and establish acceptance criteria to ensure that tasks are fully completed by providing a definition of done.</mainDescription>
+  <problem>To provide a board to define tasks and lists that represent user stories with acceptance criteria and display task&#xD;
+progress.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

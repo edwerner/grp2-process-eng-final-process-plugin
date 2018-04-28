@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qmNu2U3IStkUZXd70JncKQ" name="integrate_and_create_build,_N1S8cDdYEeiBBoDLVvOxsQ" guid="-qmNu2U3IStkUZXd70JncKQ" changeDate="2018-04-10T18:19:57.228-0400">
+  <mainDescription>&lt;p>&#xD;
+    Building software is an end-to-end process that involves many distinct functions: version control, code quality and&#xD;
+    compilation. The process of building a computer program is usually managed by a build tool (Apache Maven).&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_umWXUENDEeiNHppt5DLcYA" name="Update software version in POM file" guid="_umWXUENDEeiNHppt5DLcYA"/>
+  <sections xmi:id="_fwqAUENBEeiNHppt5DLcYA" name="Use Apache maven to create software build" guid="_fwqAUENBEeiNHppt5DLcYA"/>
+  <purpose>To convert&amp;nbsp;source code files into standalone software artifact(s) that can be run on a computer, or the result of&#xD;
+doing so.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

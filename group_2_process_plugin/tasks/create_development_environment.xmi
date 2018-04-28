@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-aWzdKwXtu9M3oRlyVpsuJw" name=",_TWJFkEMvEeiNHppt5DLcYA" guid="-aWzdKwXtu9M3oRlyVpsuJw" changeDate="2018-04-18T13:43:14.373-0400">
+  <mainDescription>Set up Java environment for developers so they can build, test and debug their work using Java Spark framework. Create&#xD;
+&quot;Hello World&quot; application with route, view and controller. Also, create a private Github repository, commit source code and&#xD;
+invite all relevant team members.</mainDescription>
+  <sections xmi:id="_PJYfUEMxEeiNHppt5DLcYA" name="Initialize new Java project with Apache Maven quickstart archetype" guid="_PJYfUEMxEeiNHppt5DLcYA"/>
+  <sections xmi:id="_VXjRwEMxEeiNHppt5DLcYA" name="Create content packages for Application class, models and view controllers" guid="_VXjRwEMxEeiNHppt5DLcYA"/>
+  <sections xmi:id="_E_2YoEMzEeiNHppt5DLcYA" name="Implement Java Spark framework with initial Freemarker template" guid="_E_2YoEMzEeiNHppt5DLcYA"/>
+  <purpose>Allows developers to build, test, and debug their work in a programming environment.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

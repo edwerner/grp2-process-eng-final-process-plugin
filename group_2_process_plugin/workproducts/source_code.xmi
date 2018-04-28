@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-E1GlwPY8zz3ZIc19mvoHog" name="source_code,_qyYMQDdXEeiBBoDLVvOxsQ" guid="-E1GlwPY8zz3ZIc19mvoHog">
+  <mainDescription>Source code is a collection of computer instructions, possibly with comments, written using a human-readable programming&#xD;
+language, usually as plain text.</mainDescription>
+  <purpose>To facilitate the work of computer programmers, who specify the actions to be performed by a computer mostly by writing&#xD;
+source code.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

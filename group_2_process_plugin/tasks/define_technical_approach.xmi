@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-feuYzrzzt0Xc0NDEPIbIxA" name=",_fbt5gESeEeiwgZ8eifS8bA" guid="-feuYzrzzt0Xc0NDEPIbIxA" changeDate="2018-04-20T09:33:05.000-0400">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>The goal of this task is to define a technical approach that fulfills&#xD;
+    project requirements within the constraints of the system and development team. The architect should complete the&#xD;
+    following:&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+            &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;font color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+            style=&quot;FONT-WEIGHT: normal&quot;>Work with the team to create an initial sketch of the technical approach to the&#xD;
+            proposed system&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+            &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;font color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+            style=&quot;FONT-WEIGHT: normal&quot;>Ensure that the technical decisions are adequately captured and&#xD;
+            communicate&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0in&quot;>&#xD;
+            &lt;font face=&quot;Arial, sans-serif&quot;>&lt;font size=&quot;2&quot;>&lt;font color=&quot;#000000&quot;>&lt;span style=&quot;FONT-STYLE: normal&quot;>&lt;span&#xD;
+            style=&quot;FONT-WEIGHT: normal&quot;>Ensure that the team has enough information to understand the approach that your&#xD;
+            are taking&lt;/span>&lt;/span>&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <sections xmi:id="_eWAHQEShEeiwgZ8eifS8bA" name="Identify architectural goals " guid="_eWAHQEShEeiwgZ8eifS8bA"/>
+  <sections xmi:id="_el8nwEShEeiwgZ8eifS8bA" name="Identify architecturally significant requirements" guid="_el8nwEShEeiwgZ8eifS8bA"/>
+  <sections xmi:id="_gVTFgEShEeiwgZ8eifS8bA" name="Identify constraints on the architecture" guid="_gVTFgEShEeiwgZ8eifS8bA"/>
+  <sections xmi:id="_hxfWsEShEeiwgZ8eifS8bA" name="Identify key abstractions" guid="_hxfWsEShEeiwgZ8eifS8bA"/>
+  <sections xmi:id="_jYcGYEShEeiwgZ8eifS8bA" name="Identify reuse opportunities" guid="_jYcGYEShEeiwgZ8eifS8bA"/>
+  <sections xmi:id="_ozrAAEShEeiwgZ8eifS8bA" name="Define approach for deploying the system " guid="_ozrAAEShEeiwgZ8eifS8bA"/>
+  <sections xmi:id="_pxPbgEShEeiwgZ8eifS8bA" name="Identify architectural mechanisms" guid="_pxPbgEShEeiwgZ8eifS8bA"/>
+  <sections xmi:id="_rc2BsEShEeiwgZ8eifS8bA" name="Identify interfaces to external systems" guid="_rc2BsEShEeiwgZ8eifS8bA"/>
+  <sections xmi:id="_uQ3ogEShEeiwgZ8eifS8bA" name="Verify architectural consistency" guid="_uQ3ogEShEeiwgZ8eifS8bA"/>
+  <sections xmi:id="_vO3h0EShEeiwgZ8eifS8bA" name="Capture and communicate architectural decisions" guid="_vO3h0EShEeiwgZ8eifS8bA"/>
+  <purpose>To reach concensus on a viable technical approach.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

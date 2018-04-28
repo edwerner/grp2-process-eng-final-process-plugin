@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bTGbp4w2e18y4Qy8wwnidQ" name=",_3PJ38EvqEdunZcj9T5hrMQ" guid="-bTGbp4w2e18y4Qy8wwnidQ" changeDate="2018-04-06T20:21:06.044-0400" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Agile is a set of values and principles for software developement that focuses on delivering working products to&#xD;
+    stakeholders in a quick and&amp;nbsp;frequent matter.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    See the agile manifesto at: &lt;a href=&quot;http://agilemanifesto.org/&quot;>http://agilemanifesto.org/&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

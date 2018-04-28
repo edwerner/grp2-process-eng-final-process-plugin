@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-l28edNJBbMkCn5QSjroFvw" name="build,_zzSWoDdYEeiBBoDLVvOxsQ" guid="-l28edNJBbMkCn5QSjroFvw" changeDate="2018-04-21T11:45:20.735-0400">
+  <mainDescription>&lt;p>&#xD;
+    Source code is any collection of computer instructions, possibly with comments, written using a human-readable&#xD;
+    programming language which is compiled to create a standalone software artifact(s) that can be run on a computer.&#xD;
+&lt;/p></mainDescription>
+  <purpose>To turn Java source code into standalone software artifact(s).</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

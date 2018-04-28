@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sNcYi2WTTrBOGElRfmk4Yg" name="state_diagram,_NMSvsDteEeiOSvawQAsHpQ" guid="-sNcYi2WTTrBOGElRfmk4Yg" changeDate="2018-04-21T13:55:23.058-0400">
+  <mainDescription>&lt;p>&#xD;
+    A state diagram is a diagram used to describe the behavior of a system considering all the possible states of an object&#xD;
+    when an event occurs [1].&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    [1] Techopedia.com. (2018). What is State Diagram? - Definition from Techopedia. [online] Available at:&#xD;
+    https://www.techopedia.com/definition/16446/state-diagram [Accessed 21 Apr. 2018].&#xD;
+&lt;/p></mainDescription>
+  <purpose>To give an abstract description of the behavior of a system.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

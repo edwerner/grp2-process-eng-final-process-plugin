@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CVYqPjsEQ-3FPb3aSM7Cxw" name="daily_communication,_rBCOYEpSEeigtMLlYdlLWg" guid="-CVYqPjsEQ-3FPb3aSM7Cxw" changeDate="2018-04-27T15:41:28.530-0400">
+  <mainDescription>The Slack application creates alignment and shared understanding across the team by providing text messaging functionality&#xD;
+and includes options to add and share documents, pin important posts, and the ability to add code snippets. Slack is a&#xD;
+crucial communication tool for teams to share content, ideas and faciliate communication.</mainDescription>
+</org.eclipse.epf.uma:PracticeDescription>

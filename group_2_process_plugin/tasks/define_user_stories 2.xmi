@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DAdQDTQXOMMbvt7zYDFWRA" name=",_Zm4FoEfWEeiIxoFTotST_w" guid="-DAdQDTQXOMMbvt7zYDFWRA" changeDate="2018-04-26T01:04:01.009-0400">
+  <mainDescription>&lt;p>&#xD;
+    A&amp;nbsp;user story is an informal, natural language description of one or more features of a software system. User&#xD;
+    stories are often written from the perspective of an end user or user of a system.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    They are often recorded on index cards, on Post-it notes, or in project management software. Depending on the project,&#xD;
+    user stories may be written by various stakeholders including clients, users, managers or development team members.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The user stories need to be defined along with the acceptance criteria and could be of the following format&#xD;
+&lt;/p>&#xD;
+&lt;pre&#xD;
+style=&quot;FONT-SIZE: 14px; BORDER-TOP: rgb(234,236,240) 1px solid; FONT-FAMILY: monospace, monospace; BORDER-RIGHT: rgb(234,236,240) 1px solid; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; BORDER-BOTTOM: rgb(234,236,240) 1px solid; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BOTTOM: 1em; FONT-STYLE: normal; PADDING-TOP: 1em; PADDING-LEFT: 1em; BORDER-LEFT: rgb(234,236,240) 1px solid; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: 1.3em; PADDING-RIGHT: 1em; BACKGROUND-COLOR: rgb(248,249,250); TEXT-INDENT: 0px; tab-size: 4; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+&#xD;
+As a &amp;lt;role&amp;gt; I can &amp;lt;capability&amp;gt;, so that &amp;lt;receive benefit&amp;gt;&#xD;
+&lt;/pre></mainDescription>
+  <purpose>Describes the type of user, what they want and why. A user story helps to create a simplified description of a requirement.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QDlCFep424GtOrCrq0DpkQ" name="design_solution,_1P66gDaZEeizzccWWzGJvA" guid="-QDlCFep424GtOrCrq0DpkQ" changeDate="2018-04-08T14:02:27.417-0400">
+  <mainDescription>A&amp;nbsp;written description of a software product, that a software designer writes in order to give a software development&#xD;
+team overall guidance to the architecture of the software project.</mainDescription>
+  <purpose>Coordinates a large team under a single vision,&amp;nbsp;provides a stable reference and outlines all parts of the software and&#xD;
+how it will work together.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>
